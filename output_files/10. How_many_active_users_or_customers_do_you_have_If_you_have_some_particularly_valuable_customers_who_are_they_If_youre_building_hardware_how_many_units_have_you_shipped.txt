@@ -1,0 +1,177 @@
+
+Athens Research
+W21
+Successful
+70
+
+Parobyte Technologies
+Unsuccessful
+We have 100+ customers all located in and around Whitefield, Bangalore.
+
+Our valuable customers are the ones who do >4 orders per week in the platform. The AOV is ~100 USD for these customers. The good thing about these customers is that they have started using our platform for regular procurement that are outside of stocked out SKUs.
+
+MagicBell
+W21
+Successful
+* MagicBell is powering notifications for SupportBee, my previous company with over 500 enterprise customers and 20,000 enterprise users.
+* We are live on another B2B product in the SaaS collaboration space. They are using the free tier.
+* We are currently onboarding a series-A funded insurance marketplace in Europe. They have signed a contract to bill them at $299/mo once they go live in October.
+
+Simula
+S18
+Unsuccessful
+Our most valuable customers are people in the intersection of VR Enthusiasts ∩ Linux Enthusiasts. We think we can take an immediate monopoly of this small market since there is literally no competition for it (see our answer to “how will you get users?”).
+
+We have 6 people who have alpha tested our current prototype (out of 20 total signups). It is however still clear that what we have is not quite good enough to be usable for more than 1hr/day, so we have focused everything on making the product better.
+
+Our ultimate goal is to get the number of people using Simula for more than 1hr/day from 0 to 1, and then grow that number 10% week-over-week until we can convince an HMD manufacturer to install Simula natively on their headset.
+
+derivative/d (Shotput)
+S15
+Successful
+1 Beta Customer
+
+CredCount
+S17
+Unsuccessful
+None.
+
+Circles
+S21
+Unsuccessful
+This week one user started paying $ 55 per month for Circles Pro, which includes 1 monthly coaching session (with Peter). We aim for 3 paying users by next week.
+
+4 strangers have used our bot for 10 consecutive days. (since launch), 46 users were daily active last week. We talked to 132 users about our new idea, 110 of those have an Oura ring. 7 are coaches, 3 are Admins of the biggest Oura ring groups on Facebook (total 20k members).
+
+We signed up our first cohort of 61 users 7 days ago; 61 used the app; 21 have been daily active this week; a handful (4) of them even just hit their 10 day streak (all are strangers).
+
+We talked with about 130 users; 110 of them had oura rings; 7 where coaches and 3 admins of…
+
+bxblue
+S17
+Successful
+We are working with the biggest and best banks in Brazil, like Banco do Brasil (30% market share), BRB, PAN, Daycoval, Promotiva, Santander, Bradesco.
+
+Pic ur Photo
+S19
+Unsuccessful
+We have over 700 active users, including close to 500 paying customers.
+
+In the few short months we’ve been active, we’ve surprised ourselves with the number of repeat customers and recommendations.
+
+Syllble
+W18
+Unsuccessful
+In the Slack group we have a total of 20 people:
+Collabwriting-in-person team 1: 3 people
+Collabwriting online team 1: 2 people
+Collabwriting-in-person team 2: 4 people
+Collabwriting-in-person team 3: 4 people
+
+From our key customer archetype and the most valuable are individuals who don’t think they can write.
+
+Goodly
+S18
+Successful
+We have five alpha customers that we're onboarding this week.
+
+Bubblin Superbooks
+W18
+Unsuccessful
+We get between 5,000-10,000 uniques per week of which about 1% sticks. 30% of that traffic is young teenagers or kids on their iPads—which is a particularly valuable group.
+
+7% of our readers come from India, 18% from Europe and 62% are from the US. On the supply side we have about 800 writers signed up, of which 2% are actively working on a book. We also have some famous writers like Michael J. Sullivan on-board
+
+PMAlerts
+S21
+Unsuccessful
+I'm measuring retention by counting the number of users who click on their alert results on at least a weekly basis. That number is ~225 this week, or about 22% of registered users. Employees of Twitter, Microsoft, and Apple are using PMAlerts.
+
+Pet Story
+S19
+Unsuccessful
+- We have two heavy users on the pet caregiver side.
+- We have 20 users on the owner side. They spend an average of 4 minutes on the web app after new content is generated for them. They are vocal and positive about the content they receive.
+- After sharing the product with a reddit user, they name dropped Pet Story in a thread which led to 20 installs and 10 registers (pet caregivers).
+
+Code For Cash
+W18
+Unsuccessful
+62 subscribers and 14 currently in trial. 59 of the customers are developers, two are hiring managers, and one is a coding bootcamp. The developers pay for the software because it helps them find jobs; the hiring managers pay for a license to the software as long as they are working with a contractor sourced through Code For Cash (if they hire additional developers, they pay for additional “seats” to the software); the coding bootcamp pays a flat fee to provide developer-level membership for all its students.
+
+Employbl
+S19
+Unsuccessful
+I’m partnering with Lob and Snapdocs to help them source talent and hire.
+There are 142 active candidates in the system right now, that’s skilled individuals taking a proactive approach to finding a new job. When new job postings come in from employers, I source for those companies particularities like years of experience and knowledge of certain tools. It’s nice having quality candidates come inbound though!
+
+Swelly
+W17
+Unsuccessful
+447552
+
+Prolific
+S19
+Successful
+We have 2000+ active researchers (paying customers) and 30,000+ monthly active participants. We have dozens of customers who have spent over $10,000 with us, and a few who have spent over $100,000, including [redacted] (in collaboration with [redacted], a major grocery store in the UK), respectively.
+
+Slite
+W18
+Successful
+We launched our private beta to a limited set of pilots 5 months ago and we currently have 400+ active users spread among 50+ teams.
+Interesting fact: we both onboarded small teams and SMBs. Our largest by far, ABTasty, has more than 100 users active on Slite.
+
+Learn Venue
+S18
+Unsuccessful
+We have demoed the prototype to an IP camera manufacturer in the US and to a local factory owner. The factory owner made us an offer of $250 to install it.
+
+Dendron
+W21
+Successful
+We have over 100 active users in our community Discord, 28 of which are very active users (people who use Dendron multiple times a day and are active on our Discord channel at least once a week).
+
+Virtually
+S20
+Successful
+Yes, five different training programs are using Virtually as their primary hosting platform. In total, over 200 students have participated in these online training programs.
+These programs are largely being led by online creators with large online followings.
+
+Mimir
+S15
+Successful
+350
+
+Task Pigeon
+W19
+Unsuccessful
+In September 2018 we had 418 Monthly Active Users. Our Monthly Active User base has been growing at 17% MoM for the past 8 months.
+
+What has surprised me the most is our ability to attract some large companies to Task Pigeon even though we are an early stage startup. Our largest paying customer is a 15 user team from a $1bn UK listed company.
+
+Engagement is also increasing month on month. For example between August and September the number of new tasks created by our users increased by 32%.
+
+InEvent
+S19
+Successful
+45 active customers, 250 customers on our whole history (in the beginning, we had a lot of one time events). Each customer pays an average of about 25,000 dollars per year. Our largest contract is 212,000 dollars per year. We currently have customers in India, China, Singapore, USA, Belgium, UK, Netherlands, Chile, South Africa and Brazil. Our best customers are Embraer, Santander and XP. We are very proud of them because they are global - they use our product in multiple countries - and being global is our vision for 2030. Other known customers that we have are Coca-Cola, Amazon, Bosch, Bayer, KPMG, Honda, DuPont, Ely Lilly and Carrefour.
+
+Simple Habit
+W17
+Successful
+Since our launch in June 2016, we've had 85k sign ups. Our weekly [redacted].
+
+OpenPhone
+S18
+Successful
+We now have 1,500 users and growing at 200% MoM.
+
+Paystack
+W16
+Successful
+12 Pilot merchants and up to 400 on the waiting list
+
+GitLab
+W15
+Successful
+We estimate more than 1M

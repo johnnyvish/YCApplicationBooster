@@ -1,0 +1,118 @@
+
+Courier
+S19
+Successful
+None
+
+Parobyte Technologies
+Unsuccessful
+NA
+
+Supernote (Metlo)
+S21
+Successful
+No
+
+Simula
+S18
+Unsuccessful
+No.
+
+Parsnip
+S21
+Unsuccessful
+Nothing.
+
+CredCount
+S17
+Unsuccessful
+Funded originally by a DARPA grant and under the umbrella of Georgia Tech, you might think that we would need to license this idea or give some credit to the university, but that is not the case. The primary paper has been out for over a year, meaning it cannot be patented. The nature of the technology--highly specific to social computing, machine learning and linguistics--form a steep barrier.
+
+Syllble
+W18
+Unsuccessful
+N/a
+
+Goodly
+S18
+Successful
+Nope
+
+Bubblin Superbooks
+W18
+Unsuccessful
+Not applicable.
+
+Pet Story
+S19
+Unsuccessful
+No skeletons in the closet.
+
+Code For Cash
+W18
+Unsuccessful
+A few of the freelancers who wrote job scrapers for us did so as independent contractors (you do this as a contractor, I will send you PayPal) but haven’t signed formal work-for-hire agreements. My lawyer says this shouldn’t be a huge issue, since it’s just auxiliary code (like scrapers for additional markets rather than core product code), but going forward, everyone is signing a formal agreement.
+
+VEED
+S19
+Unsuccessful
+We have had some tough times, but have always gotten through!
+
+Employbl
+S19
+Unsuccessful
+One area I’ve been focusing on is providing information to candidates about the tech stack companies use and the office locations of all the companies using that tech stack. It was something I knew needed to exist during my job hunting but no one had done it in an accessible and easy to use way.
+
+Swelly
+W17
+Unsuccessful
+no
+
+Prolific
+S19
+Successful
+No
+
+Slite
+W18
+Successful
+No
+
+Streamplate
+W21
+Unsuccessful
+N/a
+
+Laitum
+W20
+Unsuccessful
+Currently, we are also participating in an open innovation program offered by 3 major incubators in Peru called “Triple Alliance Challenge”, which is aimed at developing business solutions in 3 sectors: education, health and commerce.
+
+Learn Venue
+S18
+Unsuccessful
+People have worked and left the previous pivots of the startups – non-founders. Also, they were not legally our employees.
+
+Virtually
+S20
+Successful
+No.
+
+Task Pigeon
+W19
+Unsuccessful
+No
+
+InEvent
+S19
+Successful
+No.
+
+Flex
+S16
+Successful
+When making a purchasing decision, 73% of consumers care about the company, not just the product. Once we are profitable, we will donate a percentage of our profits toward a non-profit partner that furthers our social mission.
+
+We’ll undergo B Corp Certification to hold ourselves to higher standards of transparency, accountability and performance. This designation is much like a Fair Trade or LEED certification and signals that we’re committed to making a profound social difference and safeguarding people and the planet, while remaining profitable.
+
+While this will not change our legal standing as as a Delaware C Corp, B Corp Certifications are often confused with legally recognized Benefit Corporations. Other examples of certified B Corps include Patagonia, The Honest Company and Plum Organics (now owned by Campbell’s).

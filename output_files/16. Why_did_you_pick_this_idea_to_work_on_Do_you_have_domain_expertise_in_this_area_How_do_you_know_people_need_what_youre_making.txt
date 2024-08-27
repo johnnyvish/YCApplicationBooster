@@ -1,0 +1,489 @@
+
+
+Courier
+S19
+Successful
+Most companies that support multi-channel notifications have to build that support internally. Twitch just launched their "Smart Notifications", built by an internal engineering team. Existing multi-channel offerings (Amazon Pinpoint, Twilio Notify, etc.) usually only support a couple of channels - and they only support themselves as providers for those channels. Courier is agnostic to the underlying provider, similar to Segment, Zapier, etc.
+
+Athens Research
+W21
+Successful
+Athens delivers the same primitives as Roam, but gives users more security, privacy, and power over their application and data.
+
+Long-term will out innovate Roam as well via open-source.
+
+Parobyte Technologies
+Unsuccessful
+There is no distributor/company in the market that supplies to the stores within the same day, let alone in 2 hours. As of now, the only substitute that the stores have for stocked out products - is to go to the nearby wholesale market/distributor and get the stock replenished by themselves. Else, they suffer sales loss till the time the stock is delivered by a distributor; this is typically between 2 days and 1 week.
+
+MagicBell
+W21
+Successful
+Currently, the only substitute is building the notification system in-house. Based on our experiences, and user interviews, it takes a team of two engineers (frontend+backend) and a designer a minimum of two months to build a basic real-time notification center with multi-channel delivery. The team needs to understand and use APIs from Twilio and Pusher, etc. Usage analytics, debugging logs, fine-tuning the UX, or performing any day-to-day maintenance and troubleshooting is even more work.
+
+Supernote (Metlo)
+S21
+Successful
+What’s new: A lot of our features exist in disparate open source software but there’s no one tool that a Data Scientist or ML Engineer can use to manage their whole workflow. These features individually solve annoying problems but not big enough that customers would want to pay for them. However, we think that a bundle of all these tools (Supernote) is much more valuable and crosses the threshold to something people will pay for.
+
+Substitutes: The most common DS workflow today is training a model on local jupyter notebooks or google colab notebook (for more savvy people who work at companies that allow it), testing it out with an example set of arguments and then putting it into a python script that they then upload to GCP cloud functions/AWS lambda to deploy it. There’s no good collaboration solution so people often just share screenshots in slack. The DS’ who are technically savvy and understand git sometimes use git for versioning, most just don’t save versions over time.
+
+Simula
+S18
+Unsuccessful
+The old: laptops, dual monitors, oversized screens. The new: VR, or
+
+- 10x the screen real estate
+- 10x the immersion and focus
+- 10x less physical space taken on your desk
+
+With VR Desktop, anybody can have a workstation more impressive than a Wall Street trader.
+
+AthleteNet (FamilyLeaf)
+W12
+Successful
+What's new about our product is that we plan to build in social and viral mechanics from the very beginning and focus on maintaining a search-friendly database for athlete data. Older and existing solutions would be much more useful (and more easily monetized) if the data they collected was searchable and organized. Also current website-builders for teams do not allow athletes to create their own profile without a team - we will allow for that and make it extremely easy and beautiful. Along with using eTeamz, coaches currently send forms to players for profile information, get the information emailed back to them, then enter the data into MS Word templates, convert those into PDF's, upload each of them to the web, and manually link a player's name to the URL of the PDF.
+
+Parsnip
+S21
+Unsuccessful
+My approach is the antithesis of the command and control approach of academia and other apps. The user picks the content they want to study and my app does all of the grunt work, organizing references, keeping track of words studied, looking up words, etc. Additionally I focus on using the language to achieve concrete goals. I.e. I’ve read 2 books in Japanese, watched 4 episodes of this show and learned 3 songs.
+
+Currently the best solution is to hire a tutor to help you. Failing that, people do it by hand with a pen, notebook, and dictionary. These are expensive and arduous. Language apps don’t make any effort on user selected content, which my interviewees often mention. They also talk about trying various approaches such as guides published by self-proclaimed language gurus or seeking out side-project projects such as ReadLang, Rikai-chan, Yomitori or Learning with Texts to make the process less painful. At best these address one or two obvious pain points, such as making defining words easier. But as mentioned above they are all toy solutions that are difficult to set up, have a poor UI, and have no support.
+
+derivative/d (Shotput)
+S15
+Successful
+We want to make it as easy as setting up an API account with us to get started with fulfillment. No one else has made it that easy to start providing fulfillment solutions for companies.
+
+Typically, start-ups go two different routes.
+
+1. They do the fulfillment themselves. This means a large portion of their effort is taken away from product development and marketing.
+2. They find a 3PL. Often times, they are overpaying and the facilities are initially misinformed about the product which delays shipments.
+
+To find warehousing today is a long and arduous process of calling individual facilities to see if they can manage a given product. Each warehouse has a slightly different pricing structure, different process of fulfillment, and different understanding of the same product.
+
+CredCount
+S17
+Unsuccessful
+Basic event analysis has existed in its current form, based on volume and noise alone. The ability to take collective reactions through social media to help determine reliability of a specific event is what we bring to the table. Think of it as a haystack of social media posts and events that finding a needle in is close to impossible. We help shrink this haystack to make fact checking far easier.
+
+One Month Rails (One Month)
+S13
+Successful
+Honestly, the current online resources focused on teaching people how to code just don't cut it. There's a huge but largely unrecognized difference between the kind of skills that sites like Codecademy teach and what people actually want or need to know to build web applications.
+
+At One Month Rails, the focus is on helping someone deploy a web application as quickly as possible. Most of my students have never seen a command line before, and yet they are able to have an application live on Heroku in less than one hour. It's a magical moment.
+
+Maybe it's not defensible, but I feel as if I've discovered a better way to teach non-technical people how to code. People reach out to me every day telling me this is "the best $20" they've ever spent. Most of them have tried to learn how to code before on sites like Codecademy and never succeeded.
+
+The core of the idea is not about education, it's about getting a non-technical person to a fully-functional, beautiful web application as quickly as possible. Right now it happens through engaging video content, but slowly we're identifying big points of friction in the process (like getting the entire development environment set up on a local computer) and eliminating them using technology.
+
+Circles
+S21
+Unsuccessful
+we build on top of health data provided by thousands of tools (Apple Health API, etc.); we help you improve not only track.
+Currently, people use 1. journaling, takes ~ 10 minutes twice a day and you never look at it again. 2. Coaches & personal trainers, but it takes them months to get good data about you. 3. Apps: Gyroscope, Oura, Whoop, Apple Health, MyFitnessPal 4.platforms: Headsup Health,..
+
+MakeGamesWithUs (Make School)
+W12
+Successful
+We will grow our catalog of games faster and at a lower cost than anyone else in the industry. We don't claim to be able to separate the gems from the duds, but we can rely on metrics to provide merit-based promotion to promising games in our catalog and the gems will carry us to success.
+
+Artist and engineers can find each other on freelancing sites, but to navigate a site like Elance one needs money and knowledge on how to write a contract. Additionally, few publishers will talk to small, independent first-time developers.
+
+Thus, engineers resort to self-publishing lower quality games without great
+production value or effective means of promotion.
+
+The Muse
+W12
+Successful
+Members of our target demographic are currently finding jobs primarily via personal connections and occasionally via high­-touch recruiters who charge 20% of starting salary per hire; a small minority uses sites like the Ladders and an even smaller percentage turns to Monster.com, SimplyHired and the like.
+
+The skewed ratios of men to women on these sites is reflective of the research on transactional vs. relationship-­based networking, which is why the content arm of The Daily Muse is extremely important towards attracting and retaining a large pool of qualified women.
+
+No one is currently tackling the "smart content for women" space, and it's one we can begin to capture with front runner advantage. Marie Claire is releasing a special issue on career, which they are consulting us about, and sites like ForbesWomen and Excelle at Monster.com are desperately trying to capture the younger demographic. We have it and we're growing quickly.
+
+Lollipuff
+W13
+Successful
+Our auction site emphasizes authenticity and safer selling and buying of designer items. We have a unique technique (patent in the works) to help verify an item’s authenticity and the seller’s physical possession of it. This dramatically reduces scams for both buyers and sellers.
+
+Current online auctions only rely on a feedback system. This is not adequate, especially when (for some brands) over half of all items sold are fake! (Most buyers are not expert authenticators.)
+
+YogaTrail
+S14
+Unsuccessful
+Currently, people find yoga via Google search or word of mouth. The first option is dysfunctional, and the search results not only lack independent reviews but are hard to sift through. The word of mouth thing is suboptimal, especially for travelers.
+
+Not yet live: we plan to add “schedules” to the site, so yogis can see at a glance where and when the classes of their favourite teachers will be. This will solve a major pain for millions of yogis who currently have to go to multiple websites to do this.
+
+Proxino (Taazr)
+S10
+Successful
+Uncaught program bugs are expensive, and for this reason, good developers take care in testing their code. However, even the best test suites will not catch all program bugs. Taazr will identify such bugs earlier in the development cycle, and companies will save money that otherwise might have been spent on code maintenance and customer support.
+
+We believe that statistical debugging is uniquely suited to web applications, due to the relative ease with which web apps can be instrumented through lightweight and unobtrusive javascript. While statistical debugging has succeeded in a research context on desktop software, automatically finding bugs in live web applications remains an open industrial problem.
+
+However, our ultimate aim is not just to find bugs in web applications, but also to fix them. This will likely require tighter integration — server-side — between our tools and a developer’s code.
+
+bxblue
+S17
+Successful
+We’ve created (and are improving) an algorithm that analyses one’s paycheck stub and simulates all loans’ opportunities in a matter of seconds, allowing users to easily compare rates among different banks and get it online.
+
+Such algorithm is able to estimate information about each loan, using the paycheck stub data and combining to data found online and define a score value for that client to make an automatic proposal for users in a matter of seconds.This way, the algorithm plays a huge role in giving convenience and also transparency to our users, and also optimizing deals in our pipeline for action.
+
+For clients, without this solution, the only alternative available today is to personally visit different bank branches, bank correspondents or resort to street brokers’ advices, to get some of the information and wait days until the final approval of their loans.
+
+Plus, as users usually get up to 30 payroll-deductible-loans in their lifetime (because they have the opportunity to get money at such a low interest rate), the algorithm will also be able to help them i.) manage their loans; ii.) pay them back faster, if they want to; iii.) reduce their installments whenever the government reference interest rate goes down; and iv.) borrow more money for the best rates available, whenever they need it again.
+
+Pic ur Photo
+S19
+Unsuccessful
+1) Pic ur Photo curates the best hotspots, and the resulting images inspire people. We have customers who have bucket lists of photos they want to get, and others who travel 4 hours to a specific location they saw on our website, or an experience they want to have.
+
+2) There’s no pressure on our shoots (price, convenience), so our customers end up with photos that are natural. A customer might travel across the country or squeeze it into a lunch break.
+
+3) Pic ur Photo is the first platform where you can see the result before buying the photos you want (you, you know…pick ur photo). We require a minimal deposit, but that money goes into a user’s account as a credit.
+
+4) Pic ur Photo is the first platform where you can see a photo in our content and book that location from within the photo. We do that by predicting and scouting the best photo locations.
+
+5) Photographers set their schedule, and users book. No need for communication about availability, location, portfolio, price…a freelance photographer will typically use 5 different services to run their business (think Squarespace, Dropbox, PayPal, WhatsApp, and other social medias, etc..). Our photographers only use one.
+
+6) The customer doesn’t browse different photographers, and there’s no complicated signup process. Customers book whatever photographer is scheduled in the location on the day they book. And, we have a closer relationship with our photographers than other platforms, meaning we fill up the entire schedule they want to work.
+
+On competing platforms, photographers don’t get enough gigs, get bored, and leave. It might look like an active place, but it’s not (usually). All open slots on our platform can be booked and already have a photographer scheduled to handle them.
+
+People resort to using their smartphones. We’ll take customers from the more traditional photo services industry too, but roughly 80% of our customers had never hired a professional photographer before. People use their smartphones, because they’re convenient and the price is negligible. That’s the market we’re aiming for.
+
+Syllble
+W18
+Unsuccessful
+At the core of what we are building is a decentralized production collab team that allows people to create together in a fun way. We are focused on making a structured process where people can collaborate and explore their creativity in an unfettered way both in person and online. We want to charge people to join a CollabRoom group to create with others original content then connect them with the right people to have their finished product (book) distributed to different markets and audiences (readers and filmmakers). We want to cut out the agent and give people an equal footing in having more access to opportunities of getting their work (seen by the right people) out to the world. Through the collabroom we can address many pain points bring them more accountability, structure and time, confidence in growing as a better writer then having a voice and influence to make a difference in the world.
+
+People go on Reddit to collaborate writing. People even go to college and spend four entire years to learn how to write. People sign up for writing workshops to break their writers block. People submit their screenplays and novels in thousands yet just few a few are picked by major publishing companies and certain narratives that impact the world negatively are repeated.
+
+As for established writers who often lack the wealth from the small royalties they receive, we want to connect them together with other published writers through the collabroom through which they can work to meet Businesses needs and create the kind of unique storytelling that can inspire employees and business leadership as a mean to get paid and find the time to write.
+
+80,000 Hours
+S15
+Successful
+We’re the only organisation in the world that uses in-depth research to help people choose careers that make a difference.
+
+Most career advice doesn’t focus on social impact. When it does, it’s based on anecdote rather than research, and usually confined to one narrow approach e.g. just the charity sector. This means it can’t help you with the big decisions that really matter, like PhD vs. startup vs. Teach for America. Instead, when it comes to these decisions, our audience must put together their own makeshift guidance from friends, mentors and family.
+
+Spreadsheet Magic
+S14
+Unsuccessful
+# New things
+
+Compared to traditional programming languages:
+
+* Data is visible at each step of processing and can be manipulated directly
+
+* Easy integration with data sources (similar to Zapier)
+
+* Easy visualisation of data at any step
+
+* Can utilise multiple cores, vectorisations and GPUs efficiently because works on arrays of data and typical shape of data is known during development of “program” and can be used by optimising compiler
+
+Compared to spreadsheets:
+
+* Can be scaled to vast amounts of data
+
+* Allows to input/output data among different data sources / web services
+
+* Is targeted toward general purpose programming
+
+* Allows creating new abstractions (functions)
+
+* Can use simple text-based format to allow use of existing version control systems and diff/merge tools
+
+# Substitutes
+
+- Putting together some combination of spreadsheets and shell scripts.
+
+- Copy-pasting CSV data directly into spreadsheets and then uploading processed data as CSV file to web-services (did it myself to load intercom.io data into Mailchimp). Ok as one-off job, but it often has to be repeated all the time.
+
+- Hiring team of software developers to do expensive custom software for business.
+
+Goodly
+S18
+Successful
+The implementation process for employee benefits solutions on the market today can be needlessly complex and expensive. Many HR/benefits solutions are cumbersome and cost prohibitive for many employers to offer.
+
+Goodly can be implemented in 10 minutes and is flexible enough to fit any budget with no setup or annual fees.
+
+Apptimize
+S13
+Successful
+Most wait for app store approval and push many changes simultaneously. They eyeball the results and haphazardly rollback suspect changes.
+
+Desperate people resort to basic, home-grown solutions. Because of other projects, Switchboard and Clutch.io evolved incomplete solutions (we noticed errors: randomization mistakes that mess up the experiments, poor error handling, malformed responses that’d crash your app!).
+
+There hasn’t been much focused effort towards creating a seamless AB testing experience for native apps. AB testing for mobile is a technologically harder problem than for websites due to challenges particular to mobile devices (ie. intermittent internet, lack of cookies/iframes, users running different versions). Existing solutions ignore complexity whereas we view handling it as our core business.
+
+Trestle
+W19
+Unsuccessful
+Many larger companies, such as Google, Amazon, Facebook, Dropbox, Airbnb, and Stripe have had to build this in-house, dedicating significant resources to do so and maintain the software. In some cases, this software is built solely during company hackathons and so the end result is often a product that doesn’t provide a cohesive experience, has poor UX, and lacks important features. At smaller companies which are just starting to feel the pain, companies fall back to products such as Slack or HRIS directories which provide only the barest information and lack good search functionality. [redacted], for example, has resorted to using Wordpress as their internal homepage where each employee has a “profile” with their name, picture, and contact info, and there’s a new post every time a new all hands video is posted. This is a clear pain point that companies are facing and I intend to solve that for them.
+
+Bubblin Superbooks
+W18
+Unsuccessful
+What's new—We liberate digital books from hardware. The idea is to have books come alive on web without using proprietary formats or vendor lock-ins. A reader need not own a piece of hardware (like Kindle) to enjoy reading digital books. Meaning freedom, flexibility and share-ability etc for books.
+
+What substitutes exist?—Developers use books published on web more than anything else. The mass market reads on the dead tree while the progressive ones are on Kindle that is now over a decade old. Kids are on the iPad, and that's where we are putting all our focus on.
+
+PMAlerts
+S21
+Unsuccessful
+Using social media monitoring to generate leads is new, as far as I know. Founders currently resort to their network, cold-calling, cold-emailing, paid ads, launches, and PR to gain traction. PMAlerts gives folks a new way to get closer to a large sample size of prospects.
+
+Pet Story
+S19
+Unsuccessful
+- We will provide pet caregivers digital tools with a subscription fee. Existing products charge a fee per transaction
+- People currently use text message and email to transfer information. That information is not in a concise location that is always accessible
+- Pet caregivers use Instagram to share content but is not personalized towards a specific owner
+
+Code For Cash
+W18
+Unsuccessful
+90% of freelance programming jobs travel by word of mouth, so the substitutes are LinkedIn posts, emails to friends, company mailing lists, etc.
+
+Mattermark (Referly)
+S12
+Unsuccessful
+The fastest growing companies are increasingly non-public and rely on totally different metrics than firms like Bloomberg or Morningstar offer. Today VCs do their own analysis to figure out who the hot firms are, we expect to commoditize some of that.
+
+People rely on expensive ($15k/quarter minimum) analyst services like Gartner & Forrester in bigcompanies, but I think for the most part we are competing with handmade and researched spreadsheets.
+
+Standard Treasury
+S13
+Successful
+When most businesses wants to do something financial they have to call their bank and talk to a person - except for getting a MID. That doesn't make sense. Getting a wire, as an example, often involves twenty minutes, a painful conversation, and $30. Even non-quant hedge funds needing to convert EURO to GBP have to pick up the phone and talk to a bank's trading desk.
+
+No one has built developer friendly bank back-end processing, so you have to deal with banks, which overcharge, are slow, and are not developer friendly. Wells Fargo, for example, does offers an API which costs more than their other options and, well, is not very good.
+
+VEED
+S19
+Unsuccessful
+We are a fully fledged online video editing platform designed for marketers and content creator. To use it, you don't need to download anything, you don't need to signup and we don't add
+watermarks.
+
+Without us, users have to turn to a fragmented ecosystem of paid and free mobile apps and updated web tools to get their job done. Or, alternatively, they have to download and learn how to use complex editing platforms, such as Final Cut Pro and Adobe After Effects.
+
+Employbl
+S19
+Unsuccessful
+Employbl is new on the employer side because there’s no hiding candidate information or charging per hire. Our job is to provide qualified talent leads to internal recruiting teams, just like marketing teams funnel leads to sales teams.
+
+For candidates we provide a rich (open source) database of Bay Area companies to assist them when job hunting. This isn’t new but sites like Craft and Crunchbase charge people to use it, which isn’t something job seekers are willing to buy.
+
+Kash
+S14
+Successful
+We marry the the advantages of ACH (ubiquitous and affordable) and the advantages of credit cards (fast) and put them both in the same product. Our payment system is therefore fast, secure, and affordable.
+
+Right now people are using credit cards, e-transfers, and checks. Credit cards tell retailers whether or not they are going to get paid for what they are selling. But in order to work, they require an asset-heavy and insecure process that costs merchants in the US alone $50 billion a year.
+
+To the extent innovation has existed, it has been on top of existing credit card networks. Because of these innovations, credit card processing has become faster or more broadly available. But because innovations are on top of an obsolete network, credit card processing has also become more expensive.
+
+Swelly
+W17
+Unsuccessful
+Swell can be reached without downloading an app, it’s faster then any other tool. People use whatsapp for private questions or Twitter/FB for public.
+
+Prolific
+S19
+Successful
+"People research" is broken: Finding participants is difficult and slow and with other platforms data is biased, low quality, and incentives are misaligned. Researchers want participants and data they can trust, but they resort to platforms which provide disengaged people who signup for pennies, fraudsters and bots, leaving them crying out for higher quality solutions.
+
+We're tackling this by obsessing about trust, data quality, and "truth". We use proprietary user validation, statistical algorithms and machine learning to weed out bots and bad actors which plague the rest. Competitors have no minimum pay policies and often pay next to nothing to their participants leading to misalignment, disengagement and bias or fraud. We have a variety of incentives built in to our platform including pre-qualification for studies, two-way feedback, and guaranteed minimum pay. In addition, researchers can transparently explore the marketplace and get in touch with participants directly. As a result, both sides of the marketplace trust our platform, which means that participants provide high quality data and researchers conduct high quality research.
+
+Our platform also creates virtuous cycles for our community. Demand from researchers attracts further participants to our platform. We leverage our increased supply of participants to innovate, for example enabling researchers to collect nationally representative samples at the click of a button! This virtuous cycle powers our growth. At the moment, many use non-dedicated solutions like Amazon's Mechanical Turk (MTurk), which were not developed to solve these problems, and as a result suffer from poor quality and limited feature innovation.
+
+Slite
+W18
+Successful
+Slite replaces all the tools you use to write content that matters: Word, Google Doc, wikis, the list is long.
+
+The biggest change is that we're bringing the ease of use & access of notes to teams, and therefore giving them a go-to tool to write things down and a clear view of what exactly had been written by their teammates.
+
+SketchDeck
+W14
+Successful
+What is new: Our solution combines modern computer vision techniques with the proliferation of touchscreen devices. Substitutes: People either build the slides themselves manually, or pay someone else to
+
+Streamplate
+W21
+Unsuccessful
+Streamplate’s food ordering app is a collection of services to support the broad spectrum of user types given everyone eats and drinks. The logic here is that to become the last food ordering app, we have to be able to support a range of interactions that people have with food/drink outlets. This means not just supporting different ways of ordering, but also showing as many venues as possible.
+
+Our app allows users to pre-order, order from their table, split bills via Bluetooth, create a health tracking dashboard with widgets, reserve and message venues, earn money by curating venues/menus, creating events (eg. market stalls, fundraisers etc) and serving meals from a user’s home.
+
+We also allow order-forwarding which means that when a user orders from a venue that isn’t connected to Streamplate, we forward the order onto a pre-existing service that is with that venue, eg. UberEats or DoorDash.
+
+This also means we allow delivery without having to worry about the overhead of managing a fleet.
+
+Our feature list highlights how Streamplate is an aggregation of a range of pre-existing services, allows users to monetise their eating/drinking experiences and our focus on web-scraping/automating, means we’re looking to be globally accessible from day 1.
+
+Laitum
+W20
+Unsuccessful
+– I think everything is new, there is no platform in Spanish with courses in basic and applied sciences. The ones that exist offer a segment of what we want to offer and don’t care about creating a community or in the social learning experience.
+
+– And we know that because students take courses from independent professionals and from very specific niches institutions.
+
+– YouTube works for basic knowledge, but when the knowledge becomes more specialized, you only have what the university gives you.
+
+Learn Venue
+S18
+Unsuccessful
+We are making new AI models that enable low-cost devices to analyze videos on the device itself, thus eliminating the need for relying on Google and Amazon cloud intelligence or investing money in costly computer hardware. Our AI models can run 62x faster than the current state of the art methods.
+
+In the security space, the video is analyzed only post an incident. Which today is done by humans. ‘Netatmo Presence’ is a security camera that can classify objects such as people, car, and animals in a video.
+
+Recently, Amazon announced ‘Deep Lens’ video camera which is also able to “classify” live video feed and they are targeting it at developers. It is a step in the right direction.
+
+However, we must mention that image classification is not the same as object detection and is at least 20x less computationally expensive.
+
+Plus, there are IP cameras in the market from Nest, Blink, Hikvision that can detect motion and then trigger a notification to the owner. However, it cannot differentiate between a motion caused by innocuous objects, such as pets, and intruders.
+
+Dendron
+W21
+Successful
+People are overwhelmed with information and stuck in "google doc hell" - the condition caused through tools that make it easy to create new notes but difficult to find existing notes. By storing notes in hierarchies and using lookup to reference them, users can find any particular note in seconds even if they have thousands of notes. Just as important, if a user is unable to find a note using lookup, they can be confident that the note doesn't exist. While the concepts of hierarchies are not new, hierarchies have never been used to their full potential in note taking tools. This is because the tooling around them sucks. All note taking tools (and even your file system), supports hierarchies. But besides holding your notes, these hierarchies do nothing but get in your way. You can't use them to find notes. They are difficult to change. They add friction to creating new notes. Dendron gives you all the good parts of hierarchies and takes away the friction.
+
+Virtually
+S20
+Successful
+We take the engineering out of building an online trade school so educators can focus teaching their craft. Our tool streamlines the administrative side of running an online trade school by creating an all-in-one solution for admissions, payment processing, live conferencing, and student management.
+
+Content creators are hacking together a few different tools to replicate this experience on their own: Zoom, Calendly, Facebook groups, Google forms, etc..
+
+Companies like Lambda School, Flockjay, and Jumpcut are building these tools from scratch which requires a tremendous amount of engineering effort.
+
+Soon anybody and any organization, not just venture-backed startups, will be able to start risk-free online trade school. Yay!
+
+Cruise
+W14
+Successful
+1) It costs at least an order of magnitude less than what is being built today.
+2) It's designed to work on existing cars.
+
+Americans drive 37 miles per day on average. They sometimes drive while texting, drive while intoxicated, or simply drive while being distracted. People seem to be trying really hard to do other things instead of driving, but so far there aren't many good ways to accomplish this.
+
+Some newer vehicles have advanced cruise control systems that keep the vehicle in the lane during ideal highway driving situations, but drivers aren't supposed to do anything else or even take their eyes off the road. This seems like a band‑aid solution.
+
+Mimir
+S15
+Successful
+Automated CS courses are not new, online coding schools such as Code School and Code Academy have had them for awhile now. What is unique about our platform is that it supports core programming languages such as Java, C, and C# in addition to the web based languages that others support. Also our platform is built to be integrated into schools as classroom courses rather than for individuals to casually learn online. And finally we base all of our algorithms off of machine learning so as we process more and more data, our plagiarism detection system and analytics reports will just keep getting smarter.
+
+Right now, the way a high school starts a CS program is to hire a qualified instructor, have them develop course content based on his or her understanding, and then start teaching. Through interviews with some high school administrators we have come to determine that the average cost for this is around 70k a year. This price point of this in addition to the lack of qualified instructors is what has been stopping High Schools from starting their own CS programs.
+
+Task Pigeon
+W19
+Unsuccessful
+Task Pigeon augments our task management application with an on-demand marketplace of freelancers.
+
+Why is that important? Well, firstly, existing task management / project management tools are all essentially focused on helping you and your team write things down. They are essentially just a better, more digitized version of pen and paper.
+
+What they all ignore is the underlying issue. That is that, up to 40% of tasks people add to their to do list are never actually completed. So how do you solve that?
+
+The answer is Task Pigeon. For example, let’s say Sarah assigns John a task to complete by Friday, but John’s week ends up getting overloaded with more urgent work. Currently this team would face two options. 1) Delay the task to next week or 2) cancel the task altogether. Task Pigeon introduces a third option and allows you to outsource that task in just a few clicks.
+
+What substitutes exist currently? To achieve this you/your team would first need a task management application. Here our competitors are the likes of Trello, Asana, Monday.com, Wrike and Basecamp. Secondly, you would need to find a platform that allows you to find and source freelancers. Here the two most common options with be Upwork and Freelancer.
+
+The problem with both of these outsourcing platforms is that you have to a) create a job b) wade through ten’s of submissions c) shortlist candidates d) select a candidate e) assign them the job. It all takes so much time. Time that you are not going to bother spending if the task was a 500 word blog post or some internet based research.
+
+Task Pigeon removes all that friction. There is now searching for freelancers, no haggling over the price. Everything is predetermined. You just select the task you want to outsource and we take care of the rest.
+
+InEvent
+S19
+Successful
+So far there are a lot of platforms that do one part of the job: there are mobile apps for events, there are registration systems, there are check-in systems, but they are not all in one, they don't have compliance such SOC 2 or they are not global language, time zone and currency compatible. Today people resort to Microsoft Excel (yes, I know).
+
+Flex
+S16
+Successful
+What’s new about FLEX:
+
+The distribution channel (e-commerce, direct to consumer, subscription)
+Chic design, high-end packaging, differentiated branding and unique millennial voice
+Product features (fit/materials)
+It can be worn up to 12 hours and it is not linked to TSS
+23% more sex; it allows a user and their partner to engage in mess-free intercourse (and if her partner is male, he won’t feel much, if anything)
+Environmental impact (fewer changes, less packaging and waste)
+This market is extremely underserved; women who don’t want to use tampons or pads have very few options other than menstrual cups.
+
+There’s are a couple of important differences between FLEX and menstrual cups. Menstrual cups block the vaginal canal (don’t allow sex), they fill up and must be rinsed and reused. This makes for an awkward experience at work or in a public restroom. Menstrual cups are also difficult to insert (there are four different ways you can fold it before inserting) and remove (mine got stuck), which are huge barriers to adoption. Finally, menstrual cups are reused for 5–10 years, and this is a huge behavior change from disposing tampons. FLEX is disposable and addresses this important concern.
+
+Simple Habit
+W17
+Successful
+In contract to Headspace and Calm who have launched a single 'channel,' we're launching a marketplace — a platform for mindfulness, offering a continuously updated stream of meditation content from a variety of teachers.
+
+We're the first to create a meditation platform that curates content from hundreds of high-quality mindfulness professionals and charge subscriptions for access.
+
+We're also the first to introduce a Spotify-like business model to the meditation space. Mindfulness teachers are paid a portion of our subscription revenue commensurate to the number of times their content is listened to. Users get access to meditation content that is diverse in personality and topics.
+
+Silent retreats and in-person meditation studios are other alternatives, but they aren't accessible to all busy working professionals financially or temporally.
+
+Seeing Interactive (Own Local)
+W10
+Successful
+Newspapers have been operating under a failed business model for 10 years.
+
+We're rebuilding newspapers by creating profitable web products and optimizing their sales process with online tools. This both makes money and cuts costs. What's novel is that we're saving the newspaper for their relationships with millions of local businesses, and showing them how to make money again.
+
+What are newspapers doing without us? They are dying:http://www.newspaperdeathwatch.com/ and that doesn't include weeklies. Our products make newspapers money and bring local communities together.
+
+OpenPhone
+S18
+Successful
+At OpenPhone, we are bridging the gap between a phone system and a CRM.
+
+A lot of small business owners rely on a phone system to communicate with their customers. Right now, 86% of them are using their personal phone numbers for business which is both limiting and problematic on so many levels.
+
+Majority of small businesses don’t use a CRM because existing solutions put the burden of data entry on the user. Who’s got time for that?
+
+We change that by owning the communication channel between businesses and their customers. This means that we can help small businesses stay on top of their customer relationships and ultimately close more deals.
+
+Mixpanel
+S09
+Successful
+Mixpanel is going to bring the competitive advantage data-driven companies like Facebook and Slide have to everyone. Instead of just tracking page views and referrals, Mixpanel will let people learn about their customers by tracking interactions and engagement. We’re also going to help them identify and track their conversion funnels — the paths visitors take to registrations, purchases or any other goal page designated by the company.
+
+Today, companies have to spend their most scarce resources, time and money, to build out internal analytic systems specific to their application. These homebrew systems are less robust and insightful than the service we are offering.
+
+Paystack
+W16
+Successful
+What’s new? In Nigeria.. there’s still no way to accept recurring payments or one click payments. The incumbents are big co’s owned by banks and are not interested in innovating.
+
+Substitutes, creating US or UK companies so they can use UK or US payment processors and then find ways to send the money back.
+
+Buffer
+S11
+Unsuccessful
+– Buffer erases two steps twitter users usually had to take to schedule tweets. The ﬁrst one being setting the time of each individual tweet. The second one being to go to your account in Tweetdeck or Hootsuite in order to schedule from there. With Buffer all you do is hit the Buffer icon on the page you are reading to add more tweets.
+
+– If users are currently not using Buffer, they would be using “normal tweet scheduling”, such as SocialOomph, Hootsuite, Tweetdeck or any of the other about 10 similar services out there.
+
+GitLab
+W15
+Successful
+We offer the a better way of collaborating on digital products ( the feature branch workflow) to organizations that prefer to work on open source tools. Open source is interesting for large companies because they can inspect and modify the code. They also can and do contribute back changes that are important to them. Substitutes are closed source alternatives (GitHub Enterprise, Atlassian Stash) or less functional open source alternatives (Gitorious, Gogs). GitHub currently has a lot of mind-share but they are under- serving the on-premises (behind the firewall) market. We can see us grow into the leading solution for those installations (which is currently the majority of the market). In the long run most software will live on some (hybrid-)cloud and we think there are many ways to differentiate our offering (open source/distributed/integrated). In the short term we are emulating the Netflix strategy, shipping DVD’s (focus on the on-premise installations) when the competitors focus on the video-on-demand (SaaS) offering.
+
+Dropbox
+S07
+Successful
+Most small teams have a few basic needs: (1) team members need their important stuff in front of them wherever they are, (2) everyone needs to be working on the latest version of a given document (and ideally can track what's changed), (3) and team data needs to be protected from disaster. There are sync tools (e.g. beinsync, Foldershare), there are backup tools (Carbonite, Mozy), and there are web uploading/publishing tools (box.net, etc.), but there's no good integrated solution.
+
+Dropbox solves all these needs, and doesn't need configuration or babysitting. Put another way, it takes concepts that are proven winners from the dev community (version control, changelogs/trac, rsync, etc.) and puts them in a package that my little sister can figure out (she uses Dropbox to keep track of her high school term papers, and doesn't need to burn CDs or carry USB sticks anymore.)
+
+At a higher level, online storage and local disks are big and cheap. But the internet links in between have been and will continue to be slow in comparison. In "the future", you won't have to move your data around manually. The concept that I'm most excited about is that the core technology in Dropbox -- continuous efficient sync with compression and binary diffs -- is what will get us there.

@@ -1,0 +1,288 @@
+
+Parobyte Technologies
+Unsuccessful
+We decided to start-up together after one of us - Abhijit decided to solve a crucial problem that he faced during his first job in a big government power company.
+
+At the time, the company was using archaic methods to layout the expansion plan of new transmission lines across multiple regions. They brought together data from multiple tools such as AutoCAD, Excel sheets, Garmin GPS, and Google Earth geolocation data, which were painstakingly collected through ground surveys. No application was available that could do interoperability of these tools. This had to be done manually by copying and pasting from one tool to another. On top of it, google APIs were available to get the elevation data along a line.
+
+Observing this opportunity, Abhijit roped in Muneeb and created a desktop application that helped in interoperability of these tools and extraction of elevation data. A downloadable product with a licensing fee was launched. After realizing that the product could be also sold to construction industry, I joined the firm in 2014.We sold the product to 10+ land survey firms, generating a total revenue of 1m INR (US $15k).
+
+We could not scale further as there were only a handful of power and construction firms in India and many big ones had internally developed tools that they were not willing to move away from.
+
+Supernote (Metlo)
+S21
+Successful
+We made a consumer subscription app called [REDACTED] in December 2020 because we thought that the space was super interesting. We learned iOS development, designed and shipped v1 in 1 week and then launched a TikTok Ad campaign. The app reached $8K MRR in mid-Feb but we got bored and decided we wanted to do something much bigger so we stopped working on it as much. It's currently running on autopilot, we haven't done any work on it since mid-Feb.
+
+Simula
+S18
+Unsuccessful
+We tried, unsuccessfully, to use an EEG headset to control a computer mouse. One of us worked on the hardware (assembling the headset, adjusting sensors, etc) while the other worked on the software.
+
+AthleteNet (FamilyLeaf)
+W12
+Successful
+We've worked on many projects together that have gone viral and plugged on TechCrunch, Mashable, Time, Geekwire, and even an interview on the Seattle evening news. Our business this summer was AvantCard, an exchangeable branded gift card that we billed as a better alternative to your everyday gift card for most gift card givers: http://getavantcard.com. Our API-hacky projects are numerous and got tons of attention: http: //readstreamapp.com http://grimtweeper.com http://wheremyfriends.be http://tasteplug.com
+
+derivative/d (Shotput)
+S15
+Successful
+James & Praful:
+http://www.northeastern.edu/entrepreneurs/programs/northeastern-io/
+In 2010 we co-founded iMadeIT (now NU.io), an entrepreneurial club that teaches students of all levels and backgrounds to create their own websites. Our members were primarily composed of business majors with lots of ideas and no background in programming. Within 2 years, we became the biggest entrepreneurial club at Northeastern. The club still runs successfully today and grew to over 100 active members by the time we passed it over to other student leaders.
+
+CredCount
+S17
+Unsuccessful
+Tanu and Eric have known each other via the PhD program at Georgia Tech. Eric advised Tanu throughout her PhD, and they worked on a number of projects together. A paper from 2014, “Phrases that Predict Success on Kickstarter” (http://comp.social.gatech.edu/papers/cscw14.crowdfunding.mitra.pdf) resulted in many conversations outside of academia, with entrepreneurs wanting this as a product. Christian and Eric worked closely together throughout the summer of 2016 on a project called HackGT@UPC as one of the first international, collaborative hackathons. With Eric’s faculty oversight, Christian built this event over the course of a few months around the subject of “assistive technologies” (https://hack-gtupc.devpost.com/). How long have the founders known one another and how did you meet? Have any of the founders not met in person? Tanu and Christian met through Professor Eric Gilbert at Georgia Tech about 2 months ago. Eric is currently Tanu's PhD advisor and Christian worked with Eric as his teaching assistant during the GT study abroad program in Barcelona, Spain last summer. When Tanu came to Eric about turning her PhD research project into a full-blown company, Eric immediately thought of Christian. Tanu and Christian met a couple days later for coffee/discussion and jumped into customer discovery and a bit of market research, eventually leading them here to this application!
+
+One Month Rails (One Month)
+S13
+Successful
+Over the last few years I've helped launch over a dozen products at various startups, so I've started teaching a popular workshop at General Assembly on growth hacking for startups. On Slideshare the slides for the class have been viewed and shared over 118k times (http://www.slideshare.net/mattangriffel/growth-hacking). I was able to bring together a solid team of writers and strategists – including my good friend and business partner Conrad Wadowski – and started GrowHack, a growth hacking agency for startups (http://www.growhack.com/). So far we've done training or set up monthly retainers with companies like Detroit Venture Partners, Quotidian Ventures, First Round Capital, Betterment, JPMorgan and Pepsi to help them (or their portfolio companies) better understand how to acquire and retain users.
+
+Circles
+S21
+Unsuccessful
+Swelly is a polling app we've built together. It works on iOS/Android and integrated into messaging apps (Messenger, Viber,...) Swelly reached 9M+ users and 194M votes 18 months after launch. https://www.swelly.ai/
+We stopped working on it in 2020 to focus on our personal health and fitness. As a side project, we've built a bot (based on rasa.com) that saved one client 7-figures (€) by partially replacing their call center.
+
+MakeGamesWithUs (Make School)
+W12
+Successful
+Ashu and Jeremy work together at Manifold Studios. We develop iOS games (www.manifoldstudios.com). Our first game, WarSquared, was featured on the App Store, and we are currently taking time off from school to work on another game, Realms at War, that we are launching by Christmas.
+
+The Muse
+W12
+Successful
+For several months in 2009 and 2010, all three co-founders co-­led a team that tackled the 10­-year strategic review for Sesame Workshop (aka Sesame Street)'s South African production, Takalani Sesame. We created a strategy and operations project that focused on key strengths and weaknesses of the organization's partners (broadcasting, production, and funding), as well as areas for Takalani's growth in the future.
+
+Starting in September 2010, all three cofounders began working on a venture called PYP Media, which was the predecessor to The Daily Muse. We had two co-founders at the time who were not a good fit, which led to a split in July 2011 after which we formed The Daily Muse (see below).
+
+Lollipuff
+W13
+Successful
+Fei (bebefuzz) and Travis (beambot): In Jan 2010, Travis and Fei set up a blog (HerveLegerObsessed.com). Fei worked on the blog (part-time outside of work) for ~2 years. It morphed into a pseudo-auction site that resulted in over $60,000 worth of transactions (not including affiliate or ad revenue) -- which inspired this company!
+
+YogaTrail
+S14
+Unsuccessful
+Alex Jaton and Alex Klein started a company to sell electronic versions of out of print books (outofprintfinder.com, no longer there). We dropped the idea in favour of YogaTrail.
+
+Proxino (Taazr)
+S10
+Successful
+For a mobile development class, we created a Barefoot Running application[1] for the iPhone. The app allows users to report and view the location of glass shards — centralized in an off-site database — and keeps track of speed and distance data throughout a run.
+
+We also jointly created BijectKarma, a community connecting designers and developers[2]. We had trouble attracting initial users, however, and the site was taken offline.
+
+Pic ur Photo
+S19
+Unsuccessful
+Summer of 2015, Christian and I combined our skills (me as a photographer, him as a web developer), walked around the streets of a remote town in Mexico, and pitched to hotel owners in exchange for a place to stay.
+
+This later helped us sustain a life of longterm travel. People kept asking us if we had won the lottery or how we could afford the lifestyle, so we saw the opportunity to turn it into a product: Drop Your Swap (https://dropyourswap.com/–now defunct), which eventually evolved into a skill-swapping platform for “lean” entrepreneurs.
+
+For two years, we traded photography for hotels in North America, Europe, and Southeast Asia. We traded websites for experiences like Scuba Diving lessons/certification, engagement photoshoots, and in 2016, we even traded websites for part of our Swedish Summer wedding.
+
+Syllble
+W18
+Unsuccessful
+N/a
+
+80,000 Hours
+S15
+Successful
+Will and I started to work together on career content the first time we met, over four years ago. Our first project was a talk on how to make the most difference with your career, which we gave as part of Will’s first charity, Giving What We Can. The first time we gave the talk, a quarter of the audience completely changed what they were planning to do with their lives. So we decided to work together some more!
+The (embarrassing) original is still on youtube….https://www.youtube.com/watch?v=lAnh2FApskM
+
+Spreadsheet Magic
+S14
+Unsuccessful
+Hosted Continuous Integration for iOS and Mac – https://hosted-ci.com
+
+It’s a ramen profitable project (around REDACTED quarterly revenue, REDACTED/month burn rate for server).
+
+Goodly
+S18
+Successful
+Last winter, we were curious about what it would take to build a decentralized social network and hacked together Peppy, a block-chain alternative to Twitter as an experiment.
+
+Apptimize
+S13
+Successful
+We prototyped an app called Firesale that helps people sell unwanted stuff. To create a market of buyers, we brought on full-time Craigslist market makers. The Craigslist expert users complained about the process of being first to email a poster, so we optimized the messaging to make transacting as fast for them as possible. They also complained about Craigslist lacking a reputation/identity system, so we implemented one. We put Firesale on hold to work on Apptimize.
+
+Bubblin Superbooks
+W18
+Unsuccessful
+We built an evening school for guitar enthusiasts in New Delhi. It was fun place for people to hang out after school or office, take a lesson or two on playing guitar. Over 800 students learned to play guitar at our academy during a period of four years. Changing laws and policy led us to eventually shut it down before moving to the United States.
+
+Pet Story
+S19
+Unsuccessful
+We built Memoir Share (https://www.memoir-share.com/), a website that provides questions that encourage users to write their memories and print them in a physical book that they can give to family and friends.
+
+This interested us because people accumulate valuable experiences throughout their lives that often end up lost or forgotten. We realized that we didn’t have the domain knowledge and connections and decided to focus on Pet Story.
+
+Code For Cash
+W18
+Unsuccessful
+I’m a solo founder with over 20 years of programming experience who has also worked in sales, marketing and operations.
+
+Mattermark (Referly)
+S12
+Unsuccessful
+We co-hosted a bunch of parties over the summer at the old Referly house, but other than that, it's been all Referly/LaunchGram since we met.
+
+Standard Treasury
+S13
+Successful
+http://deciens.com/ We raised the money, we have made investments. We have been to YC demo days and invested in Keychain Logistics.
+
+VEED
+S19
+Unsuccessful
+TLDR: During university we made £14,000 in revenue and over £5,000 profit in just 5 days! selling Breaking Bad Halloween costumes.
+
+The Story
+
+As sad as we were that Breaking Bad show was coming to an end, we also saw it as an opportunity to cash in on some extra cash.
+
+We realised that the show was ending right before Halloween, so it was obvious to us that there would be a huge demand for breaking bad Halloween costumes due to the shows immense popularity.
+
+We sold each costume on a 5 day lead time but bought everything on next day delivery. This meant we never held any stock and never had to make upfront investments into stock, perfect for students.
+
+We sold the costumes on a one-page website, eBay and Etsy. Unfortunately, we had to stop selling the costumes a little early as there were very little yellow chemical grade hazmat suits left in the UK.
+
+https://twitter.com/sab8a/status/395953042077806592
+https://twitter.com/sab8a/status/390159605793169408
+https://twitter.com/sab8a/status/389743861758570497
+
+Kash
+S14
+Successful
+Our first start-up idea was a loyalty program that works without requiring cashiers to verify. We took the idea of a RSA token combined with the idea of Foursquare check-ins to produce a device that validates whether someone is really in a store. We built the hardware together beginning from breadboard prototypes to fully enclosed and polished product. We did this so that we could scale to more locations with lower cost. We learned a lot from doing this but ultimately had to do a pivot because it didn’t solve a painful enough problem for retailers.
+
+Pictures of the AvidTap box evolution:
+https://dannysu.com/2013/06/14/evolution-of-box/
+
+Swelly
+W17
+Unsuccessful
+We’re hosting a Chatbot Conference in LA with speakers from FB, kik, etc. fb.me/botsla as well as a monthly 100 people to watch in the bot space list /blog.
+
+Prolific
+S19
+Successful
+Phelim and I have worked together on my latest research project around diversity and whether it can spark curiosity and creativity. The experimental setup was complex because it was designed longitudinally and required follow-up with participants: Every 2 days over the course of 14 days I'd ask participants to complete a 5-min study session. Phelim wrote python scripts to help me to combine, manage, and analyze the data sets (there are no good tools to automate this, yet...). Interestingly, in this work we found that exposure to diversity can spark curiosity, but not necessarily creativity.
+
+Slite
+W18
+Successful
+As I'm a solo founder I will talk about one of my personal project, Wikiwars(wikiwars.co). It's a straightforward web app allowing you to play the Wiki game in real time with friends or strangers : you have to go as fast as possible from 1 page of wikipedia to another, using only internal links.
+The first challenge was to build entirely the app, from the conceptions to the development and design. The second unexpected challenge was to write a efficient script to find reachable pages in the vastness of wikipedia.
+Try it out and let me know if you enjoyed it ?!
+
+SketchDeck
+W14
+Successful
+We spent the last year building a tech startup together ‐ Datoral (rapid data visualization with natural search)
+
+We secured pilots with 5 blue‐chip companies, raised a £150k round at a valuation of £1.5m and built a tech platform that wowed many clients and investors. We sadly had to close the company due to the hostile actions of a third co‐founder.
+We hugely enjoyed working together and found ourselves a great pairing
+
+Learn Venue
+S18
+Unsuccessful
+Before working on this idea we were building a chatbot that could answer questions by searching inside videos like: “When was this taught in this lecture?” and it would pinpoint the location in the video when it happened. The demo is available on the website:
+
+https://learnvenue.com/#demos – “Spoken Phrases demo”
+
+We made progress with the chatbot and reached out to the CMO of India’s largest online course provider. He looped in his fellow CXOs and VPs in a video call with us to understand the product. We then had to back out as they literally asked us to log into our servers and show how it’s done.
+
+After this debacle, we reached out to other online course providers and they were all very keen on using this technology but they couldn’t find a prominent use case for it. We then extended this idea to searching real-world objects inside videos such as people, vehicles, or animals. While working on this problem we realized that our computers were painfully slow to analyze videos for objects – this was the premise of this startup.
+
+Cruise
+W14
+Successful
+We haven't worked together on any other projects, but it turns out we have competed against each other twice. Once about ten years ago when building fighting robots (Battlebots, on Comedy Central) and more recently during the DARPA self‑driving car challenges.
+
+Battlebots:
+http://battlebots.wikia.com/wiki/Decimator
+http://battlebots.wikia.com/wiki/Bot‑a‑Bing
+
+Self‑driving cars:
+https://www.facebook.com/photo.php?v=10100100951758668
+https://www.dropbox.com/s/t48lfkzsy1gq5va/AVS09.pdf
+
+Mimir
+S15
+Successful
+During high school the three of us ran a small freelance development studio called In0v8. Our biggest project was developing an iOS and Android app called KoKoKo for TinkTank Inc (Firm based out of Chicago that was shut down a year ago). Kokoko was a learning game for young children who speak Korean to learn english or vice versa. I still don’t know how we got the contact to this date considering we had never developed a mobile app before but we managed to get it finished and released.
+http://dailyappshow.com/tinktank-announces-release-of-kokoko-app https://www.youtube.com/watch?v=xhkE_6t34Cg
+
+Task Pigeon
+W19
+Unsuccessful
+I created Startup Soda, a free daily newsletter that curates the best articles, blog posts and tactical resources from Australian Startups, Founders and VC’s.
+
+I did this because I believe that in order for the Australian startup ecosystem to grow and prosper more needs to be done to share the stories of the people within our community.
+
+Startup Soda also provides a vehicle for me to give freely to others in the community. For example I promote new startups, events and initiatives and help make introductions amongst my network. This reflects my belief in giving to others without the expectation of return and on a personal front has allowed me to develop a large and connected network within the Australian startup ecosystem.
+
+You can view the Startup Soda landing page here: http://www.startupsoda.com.au/
+
+Here is a link to a recent newsletter: https://mailchi.mp/startupsoda/startup-soda-daily-newsletter-friday-28-september-2018?e=b839599ed1
+
+InEvent
+S19
+Successful
+Yes! We won a global hackathon in Miami! See this report: https://www.linkedin.com/pulse/hacking-startups-growth-globally-pedro-g%C3%B3es/
+
+Flex
+S16
+Successful
+Our team is based in San Francisco but one member (Whitney) lives in L.A. We’re always looking for ways to save money on gas or flights. I came up with a concept for a DJ set and pitched a popular S.F. nightclub. I had never done anything like this but I managed to successfully broker a deal that paid for Whitney’s flight and her time. Plus, we had enough money remaining to purchase product samples and business cards! She played a sold-out show with another popular DJ and we took the opportunity to promote FLEX, gain trial sign-ups, and give away product samples.
+
+Seeing Interactive (Own Local)
+W10
+Successful
+High school produces much that is sub-impressive. One result for us, now 12 years in the running, was the creation of an international holiday. Mind you, it is only celebrated by about 100 people--but we have met people outside of our influence, and even from other countries, who celebrate the day.
+
+Observed on Dec. 27th and known as the "twenty-seventh" or "the new day". We created the day in response to the nonsensical notion of people being over-excited about the new year, when in fact it is just another day. Festivities include your standard revelry on the evening of Dec. 26th, followed by the collective singing of Louis Armstrong's rendition of "What a Wonderful World" to bring in the day
+
+OpenPhone
+S18
+Successful
+A while ago, we did a fun little project together called Milkshake. Using the app, users could express what they were up to at anytime by using up to 3 emojis, their location, and optionally an image.
+
+Our assumption was that the barrier to post a good picture on Instagram or tweet something interesting was too high and most people didn’t create content on those platforms often enough.
+
+Maybe if people were constrained to 3 emojis and their location to express what they were up to, they would not feel too much pressure to post content.
+
+During the prototyping phase, we learned that although creating content was easier, the generated content was not interesting enough for users to scroll through every day.
+
+No working demo anymore but here’s one of the designs! https://imgur.com/a/u2jw0
+
+Mixpanel
+S09
+Successful
+Recently we’ve been working on a music search and on-demand streaming site called SongRaptor (http://songraptor.com). We built it to use as a case study for Mixpanel; we use Mixpanel for all the metrics and we’ve been making design decisions based on this data. Eventually we hope to show the effect that Mixpanel metrics can have on the growth of a site.
+
+We haven’t gotten much farther than the most basic functionality yet. We’ve been spending most of our time on Mixpanel while our other friends continue development.
+
+Buffer
+S11
+Unsuccessful
+There are no shared projects before Buffer.
+
+GitLab
+W15
+Successful
+We created GitLab together () and now over 100.000 organizations are using it. We also created GitLab CI and GitLab CI Runner together . This pair of programs allow organizations to distribute their code testing over a number of workers.
+
+Dropbox
+S07
+Successful
+Accolade Online SAT prep (launched in 2004) (http://www.accoladeprep.com/); a poker bot (here's an old screenshot: https://www.accoladeprep.com/sshot2.gif ; it's using play money there but worked with real money too.)

@@ -1,0 +1,79 @@
+
+Courier
+S19
+Successful
+100% of issued shares owned by Troy Goode (myself). Stripe Atlas' standard configuration.
+
+Parobyte Technologies
+Unsuccessful
+NA
+
+Supernote (Metlo)
+S21
+Successful
+No other relevant info
+
+Simula
+S18
+Unsuccessful
+N/A.
+
+CredCount
+S17
+Unsuccessful
+Christian Battaglia will be in charge of most business-oriented tasks and product management of the service/platform. Tanushree will be focusing on data science, machine learning and the specifics of the model tailored to whatever market we decide on. Eric will be in an scientific advising role, based on his expertise through many years of social computing.
+
+Syllble
+W18
+Unsuccessful
+We are exploring the long tail business model.
+
+80,000 Hours
+S15
+Successful
+We’re fiscally sponsored by the Centre for Effective Altruism. It provides our 501(c)(3) status and incorporation, as well as some of our operations.
+
+Goodly
+S18
+Successful
+We formed the company using Gust Launch. Goodly's incorporation documents were reviewed by Mike Sullivan (a partner and head of the Corporate Group at Orrick serving as a mentor to Greg).
+
+Pet Story
+S19
+Unsuccessful
+We are working with a UX researcher, UI designer, and other supporting members. They have expressed interest in joining full time when the company is more mature.
+
+Code For Cash
+W18
+Unsuccessful
+I’ve been operating as a sole proprietor since December 2016. In August, I filed for a DBA (doing business as) license with New York County. At the end of September (a few days ago), I filed with Delaware to create a C-Corp. Once that is confirmed, I still have to “qualify to do business as a foreign corporation” (legal terms – means out-of-state corporation) by submitting some forms to the New York State authorities.
+
+Laitum
+W20
+Unsuccessful
+The company is not yet formally or informally structured.
+
+Learn Venue
+S18
+Unsuccessful
+NA
+
+Dendron
+W21
+Successful
+n/a
+
+Virtually
+S20
+Successful
+N/A
+
+Task Pigeon
+W19
+Unsuccessful
+Standard Australian Proprietary Limited company. I do however understand that if successful with my YC application there is a need to register as a Delaware C Corp and am happy to do so.
+
+InEvent
+S19
+Successful
+no additional information

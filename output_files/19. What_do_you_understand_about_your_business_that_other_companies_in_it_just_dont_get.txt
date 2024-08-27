@@ -1,0 +1,417 @@
+
+Courier
+S19
+Successful
+The applicability of the Segment or Stripe playbooks of locking in new startups while they're young and looking for an easy implementation-path and then scaling revenue commensurately as their revenue grows is huge, and is different from the martech playbook competitors like Iterable are running. This playbook requires targeting engineers looking for fast solutions to common early problems as well as features that let you scale pricing and penetration within those customers as they themselves grow.
+
+Athens Research
+W21
+Successful
+Just how critical open-source will be for innovation and value creation.
+
+Parobyte Technologies
+Unsuccessful
+- For 85% of all procurement, the corner stores would check with all the suppliers - Open Market Distributors, Udaan, Amazon Business, Flipkart Wholesale etc before making the order. The procurement decision is then made by the retailers after considering just one factor – who gives lowest price? There is almost zero loyalty for retailers to any supplier here.
+
+- The remaining 15% procurement kicks in, when there is a stockout. For this, stores do either of below:
+Roughly ~50% Corner Store owners rush to a nearby wholesale markets to get the products in cash.
+And the remaining half decide to suffer sales loss for next 2 days. They make an order in any of the apps/distributors and get the orders in due time albeit suffering the loss in sales (and more importantly customer satisfaction) in the interim period.
+
+- The procurement decision for this “15%” is unique. Retailers are willing to go through the inconvenience, pay in cash for the order and in a few cases willing to pay a small premium for some products. Almost all the companies focus on “85%” market and there is no one that is solving the “15%” problem.
+
+- This “15%” procurement is done for FMCG products. These products have relatively higher margin compared to commodities (sacks of rice, sugar, wheat etc) that retailers plan and purchase.
+
+- The order size of B2C consumer delivery apps such as Instamart (of Swiggy), Flipkart Quick and Amazon Fresh is ~ $6. Our AOV is ~ $65 that could be achieved at the same SKU collection in the warehouse and fulfilled at almost the same delivery expense. And there is more opportunity to become a sole supplier of our valuable customers in due time.
+
+MagicBell
+W21
+Successful
+In an ideal world, everyone would use our API from day one and skip building email notifications entirely. However, today, most companies have already invested in their email notifications and are reluctant to switch to a new API. We find that it's vital not to underestimate this inertia. To help them migrate to MagicBell, without writing any code to talk to our API, we let them bcc their existing email notifications to us and embed our notification center in their product. This setup takes less than 30 mins. Over time they can start using the API to build new notifications. This quick and low-risk way of delivering value to their users significantly reduces the friction of adoption.
+
+Supernote (Metlo)
+S21
+Successful
+We think most people in the space don’t understand how overlooked DS tooling is and that if you capture the DS notebook (home for Data Scientist/ML Engineer), you can expand easily into other areas of the data and ML pipelines. There’s a ton of focus on DevTools for devs, not much on tools for pseudo-devs (DSs) -- we think this is a pretty big opportunity that we can go after.
+
+Simula
+S18
+Unsuccessful
+Our idea follows from 3 contrarian beliefs:
+
+(T1) Most people think that the future of VR is in games and entertainment, but it is also in office work; in particular, VR is going to replace screens and laptops.
+
+Because of (T1), the VR industry is too biased towards Windows (where PC games are deployed). Ours is based on Linux (small and overlooked starting point). It’s not focused on video games or entertainment experiences (SteamVR, Daydream, Oculus), but on “boring”, 2D work applications.
+
+(T2) Most people think that VR is about single-purpose 3D applications, but VR is just as much about multi-purpose 2D applications.
+
+Simula aims to let 2D and 3D apps reside and communicate with each other in a single shared workspace (see our prototype). Contrast this with existing VR applications (like Tilt Brush), which run once at a time.
+
+(T3) Most people think that VR should be optimized for terrain and video display, but VR should also be optimized for clear text resolution.
+
+Clear text resolution is a requirement for VR to become a viable work platform: people must be able to read code, spreadsheets, and information with 100% clarity in order for VR to be truly 10x better than physical screens.
+
+AthleteNet (FamilyLeaf)
+W12
+Successful
+Athlete profiles are the most important feature because it interests the largest amount of parties and the data collected from a large number of profiles can be valuable to many people. Perfecting profiles can bring in money from coaches (for converting to a full team site), parents (for recruiting exposure), and recruiters (for access to search the data). As students and athletes, we get the user's point of view: they want a beautiful page of basic stats that they can show to recruiters and look professional. As a 3-sport athlete in high school, and a 2-sport D1 varsity athlete in college, I would have wanted this product for myself. So we're building it now.
+
+Parsnip
+S21
+Unsuccessful
+1
+The gold standard for learning a language would be to have a full-time personal language tutor constantly with you as you lived in the language. This person would not translate for you, they would give you the minimum amount of new information needed to understand the situation and respond accordingly. They would also constantly put you in situations to use things you’ve already learned or review them with you based on detailed notes of what you’ve been taught. Only on very rare occasions would they sit down with you and give you a traditional lecture, analyze sentences or discuss grammar. Sound familiar? That’s exactly what parents do, excluding explicitly tracking your progress.
+
+Instead you are taught in large classes a few times a week where a generic textbook is used to teach you topics that SHOULD be useful to a large number of people while learning the words that SHOULD come up during those topics. No consideration is given to you or your goals. Even worse, in order to maintain order lockstep progression you are actively discouraged from deviating from the syllabus.
+
+2
+It is impossible to explicitly teach everything needed to learn a language. Similarly fluency isn’t a single concept. A perfect demonstration of this is Wired’s 5 levels series of videos where an expert explains a concept from their field to five different audiences ranging from elementary school students to graduate students in their field. My fluency in English doesn’t extend to technical conversations between surgeons, or even plumbers. I simply wouldn’t have the background needed.
+
+Instead I believe that thoroughly understanding authentic native media, such as articles, books, songs, etc, in context and in their entirety is the best way to develop these topical fluencies. It has the added advantage of becoming a concrete and objectively meaningful achievement afterwards. As opposed to language classes and apps where the only goal is to “learn the language” and the only achievements possible are subjective fluency tests.
+
+3
+The internet, the current Kpop boom, the anime boom of the 90’s and 00’s, and Netflix have expanded access to authentic foreign language materials such as books, shows, games, forums, etc. so much that it should be possible to teach yourself a language with support and guidance.
+
+derivative/d (Shotput)
+S15
+Successful
+Our competitors and the experts in the field focus too much attention on the differences between each company’s fulfillment operations. For our first account, it took over 200 phone calls and 10 days to get a handful of quotes. Most facilities refuse to work with startups due to inconsistent volumes. We found by aggregating products under a major account, providing a standard procedure, and packaging requirements, we eliminated 80% of the fulfillment differences. There will still be custom operations which will be beyond our scope but most startups have similar requirements and dimensional-weights for their products.
+
+CredCount
+S17
+Unsuccessful
+The data science and linguistics portion of these potential markets. What sort of language implies the most credible financial analysis of one specific commodity? Or, how well a certain political statement goes over with a constituency? Or, what sort of language might you look out for when flagging something as potentially fake? Currently with some sort of human touch these sorts of questions can be answered but it might take a bit of time while doing so. We’re attempting to help narrow into the credible pieces.
+
+One Month Rails (One Month)
+S13
+Successful
+People. If other coding education companies really understood people and their motivations, they would never start by introducing variables and data types. In its FIRST LESSON on Ruby, Codecademy explains that Ruby is "Interpreted", "Object-oriented", and "allows users to manipulate data structures". Are you kidding me?!
+
+People are lazy and get frustrated or bored quickly. They want to learn how to code because they want to build something and they can't find anyone to do it for them.
+
+Other companies focus solely on developing code fluency. I'm not saying there isn't a market for developing fluency in code, but the market for helping non-technical people quickly get their own web apps live is much, much bigger and largely unaddressed.
+
+Circles
+S21
+Unsuccessful
+Humans are emotional beings, so just measuring is not enough, accountability and tips to improve are essential. Mental health is also overlooked.
+
+MakeGamesWithUs (Make School)
+W12
+Successful
+While developing iOS games has a fairly low barrier to entry, there is a high
+barrier to success. As Ashu experienced himself, it was intimidating as a lone developer to spend money on art or marketing for Helicopter. Additionally, once you begin working in a team with 1,2,3 other people, legal issues and other complexities arise. We hope to reduce the friction involved in collaborative creation.
+
+What others do not realize is that there are throngs of talented people capable and willing to create high quality games but are intimidated by the process. By creating a community of game creators who use us to meet other talented collaborators and publish games, we can in essence uncover latent talent who currently have no clear route to success
+
+The Muse
+W12
+Successful
+We understand the demographic, inside and out. Most of the people trying to hire these women, market to them, and entertain them are well outside of it. They may have the "fashion advice for women" angle down pat, but we have a deep and nuanced understanding of the ambitious professional that makes our fans rabid and our voice distinct.
+
+Lollipuff
+W13
+Successful
+Buying and selling luxury goods online is very unique -- security, trust, and risk mitigation are tantamount. The process requires more care than a “general online auction listing.” EBay suffers from numerous issues: counterfeit items, inaccurate descriptions, insufficient photo evidence, photos culled from the net, reused photos from old listings, etc. These frequently lead to PayPal disputes -- which negatively impact everyone involved. Our system solves all of these problems. Of the 200 transactions on the test blog, we had fewer than 1% result in disputes (one out of 200!). Our system easily resolved this dispute: it provided the photographic (and temporal) evidence of the item’s pre-sale condition, expert testimony about its authenticity, and a baseline for comparison with the buyer’s received item. Collectively, these things make our process safer and more comfortable for all parties.
+
+YogaTrail
+S14
+Unsuccessful
+Many things, but first and foremost: the yoga community is a unique crowd, partly because of their diversity (ranging from hippies seeking enlightenment in remote Ashrams to high powered executives that use yoga to de-stress during lunch), and partly because of its general distrust of business and corporations.
+
+The yoga market is peculiar because it’s grown to become a $20B/year industry in a world where words like “money” and “profit” can be dirty words, due to the spiritual and holistic lifestyle aspects that are associated with yoga. We've been very careful to appeal to the entire spectrum of yogis, and YogaTrail has been very well received to date.
+
+Secondly: yoga professionals are organised into a vast network of independent operators (the teachers) who are loosely attached to studios (local) and yoga retreats (exotic and far away). Our site and database structure is built around that idea, and we have viral invite loops that exploit this social landscape.
+
+Thirdly: community-based directories are a lot of work.
+
+Proxino (Taazr)
+S10
+Successful
+Writing code is much like putting words to paper, an act of creation. When you write, it is important to spell things correctly, but few writers spend much time on this task, for they have spellcheckers. We think that testing should be just as straightforward. It is quite important, but should not monopolize your attention.
+
+bxblue
+S17
+Successful
+Users’ lifetime value is HUGE, as they usually get up to 30 payroll deductible loan in their life.
+
+However, banks, correspondent banks and brokers treat users in a transactional manner, always looking for gaps to profit more, regardless of their users needs. Their operation is focused on their monthly sales target and they lack the culture of recurrence.
+
+Our business, on the other hand, is based on recurrence. We believe in using transparency and convenience to help users empower themselves to make the best decisions regarding their loans, winning their trust in the long run. Even more, we understand that by giving them advice on how to wisely manage their loans (refinancing, lowering their interest rates, paying it back in advance) they will stay with us through their lifetime, rising their LTV while lowering their customer acquisition cost.
+
+Pic ur Photo
+S19
+Unsuccessful
+The problem with other platforms (like Snappr):
+
+We’re not under the delusion that Pic ur Photo is the only company starting in the photography space, but we believe we’ll be the big player in the long run. Those other platforms don’t understand that no one wants to pay $59 for 1 Tinder profile image, no one needs to spend 2 hours on a portrait shoot (and *only* end up with portraits), and people feel cheated when they’re forced to pay extra for high res images–we know, because we asked them..and our data doesn’t lie.
+
+The problem with freelance photographers:
+
+They set minimum booking times, weird rules, like “you get x number of photos or y number of outfit changes,” and “social media license vs full license”. It’s not more difficult or expensive to offer a full license or more photos, so it comes off as disingenuous, especially when they don’t get to pick which photos are the ones they get. Frankly, the whole thing confuses customers, and puts them off hiring a photographer to begin with. Photographers can also be quite pompous about their “art”, not realizing that their end game may be different than the person who hired them.
+
+Freelancers and platforms set these rules, because they have to earn enough to make it worth their time. There’s a lot more that goes into photography than just taking pictures: finding customers, communicating, negotiating, editing photos, & traveling. Imagine traveling 2.5 hours, round-trip across the city for a 1 hour shoot. Photographers do it on a regular basis, and it’s crazy. An average photographer only spends about 7% of their time taking photos, while our photographers spend about 70%, and that’s why we can charge less while earning more.
+
+Because of all this, would-be customers resort to smartphones. People in the photo services industry have enormously underestimated how important convenience and price have become in the smartphone era, where “good enough” photos are in your pocket.
+
+Syllble
+W18
+Unsuccessful
+Our business is focused around the creative process and finding the best way for people to collaborate from the get go, unclog their creativity and create best stories and product for the best audience.
+
+If done right this can eliminate the agents role within many industry and provide direct access to many creatives within the writing industry, entertainment and filmmaker.
+
+Spreadsheet Magic
+S14
+Unsuccessful
+Visual programming tools visualise the wrong thing – program structure, instead of visualising what is actually important – data.
+
+Existing spreadsheet system don’t make it easy to get data in and out (without manually copy-pasting). One needs to be able to get data from web API and visualise, save to DB or post it to another API without resorting to writing VBA code. It should be easy to do, like Zapier.
+
+Existing spreadsheets don’t allow you to create new abstractions in a natural way. Users should be able to define new functions using just a “sheet” in a spreadsheet, not by writing VBA code.
+
+Neither existing visual programming tools nor spreadsheet systems are friendly to programmers, i.e. no good integration with version control, diffs, etc. This can be solved by simply storing as much as possible in simple human readable text-based format (and using regular version control / diff / merge tools).
+
+Goodly
+S18
+Successful
+A focus on employees (not just employers) as end users:
+
+Many employee benefit vendors are focused on developing relationships with employers, Goodly is building a highly differentiated brand that is employee centric. Goodly will provide all of the tools needed for employees with student debt manage and pay off their student loans, allowing Goodly to become a trusted resource for employees and employers.
+
+Apptimize
+S13
+Successful
+Our competitors are developers building for other developers, so most only offer programmatic interfaces. We understand often the goal setters and decision makers aren’t programmers. Apptimize makes it simple for non-technical owners, product managers, designers, and marketers via a WYSIWYG interface and a website to control and create experiments.
+
+Our experimental setup, results, and analysis will be superior. Stanford PhD’s helped with our statistics by pointing out problems with competitors’ setups (ie. fixed sample sizes, small data set handling).
+
+We’ll target companies who don’t monetize through app sales, instead using apps for branding, coupons, other off-app conversions. Although our first users are indie developers, most profitable apps make <$2K per month, so we’ll grow to targeting corporations like United, Starbucks.
+
+Trestle
+W19
+Unsuccessful
+There’s a lot more to build here than a simple directory. Every HRIS system has some variation of name, picture, role, contact info, and org chart but what organizations are really trying to solve is a collaboration problem. Magic happens inside of companies when the right people get in a room together to discuss the right thing. It’s significantly better to be able to find out the right expert to talk to when you’re struggling on a task, or to make sure you’re talking to the right person before you book a meeting with them. Knowing a little bit more information about a person such as a short bio or interests or that their birthday is today can help you connect with them better when you message them on Slack or during meetings. Having a central repository for all of this information plus crucial company information such as important resources and events can create a minimally distracting destination for employees to easily understand what’s going on in the company.
+
+Relationship Hero (WittyThumbs)
+S17
+Successful
+Other companies in our industry have either not recognized the new problem modern daters are facing or aren’t trying to fix it on a global scale.
+
+Until recently, the biggest issue with dating used to be about finding people to date. Over the last 15 years, online dating websites like eHarmony and apps like Tinder have fixed that problem. But in fixing it, a new problem arose. In the past, you’d date people you somewhat knew or had an initial connection with. Today, your online matches are complete strangers with more options, making it harder than ever before to get to know who they are and how they feel about you throughout the dating process. This makes navigating the new world of dating a struggle for those without the right communication skills or experience.
+
+There are a few other companies that recognize this new problem. However, none of them are trying to solve the problem like dating websites and apps solved matchmaking. Unlike them, our business is designed to solve the problem on a global scale.
+
+PMAlerts
+S21
+Unsuccessful
+1) Social listening so much bigger than vanity searching. It's a means to a more actionable end - social listening should help users build relationships and sell solutions. We can use social listening data to build databases of qualified leads for any type of business. We can then learn how to most effectively sell against particular categories of pain / user.
+
+2) It's hard to make the most of social listening. The most effective queries aren't usually obvious. Folks create alerts and then are immediately conditioned to ignore them because first attempts tend to generate noisy results.
+
+For example: I want to find people who need social listening tools. At first, I created an alert for "social listening tool", but I found that an alert for "mrr $" gives me a far higher signal:noise ratio. This can be solved with improved UX and a services component - onboard new users for $x.
+
+3) Customer obsession can be quantified. Big tech's enterprise culture is embracing OKRs like "customer obsession", and PMAlerts could be used to quantify customer obsession. Product teams need an easily measurable (and gamifiable) way to engage with customers / improve product - beyond lagging indicators like MAU / revenue.
+
+4) Consumer-first can be a winning long-term strategy. My competitors are focused primarily on B2B enterprise contracts because that's where the money is. But social listening can be a consumer product. It just needs to be packaged up in a brutally simple way that feels familiar. This is why I'm mimicking the UX of Twitter - I want users to feel like they could visit PMAlerts just as often as they visit other social media sites. Not only for work, but for pleasure too. This way, users pollinate the tool across orgs/employers.
+
+5) Social listening can be a marketplace / platform. My competitors are focused on listening to mainstream social media because they seem to care mostly about macro trend analysis. But social listening can be actionable and tactical. In my opinion, effective use of social listening has you engaging with the results you capture, not just passively reviewing them. And this engagement can be improved by reducing the cost of developing special-purpose niche listeners. A "listener store" could give devs across the globe a way to monetize their scraping skills for a wide variety of use-cases.
+
+6) Social listening can lead us to a healthier form of social media. It can wrap around all social media / niche communities and deliver a simple, ad-free experience on top of a subscription model. The algorithms that power news feeds could focus entirely on user delight, without having to compromise the user experience for advertisers. This would also prevent things like Cambridge Analytica from happening.
+
+Pet Story
+S19
+Unsuccessful
+Pet owners seek a long term relationship with a pet caregiver who they can trust.
+
+You don’t care who drives your Uber, but you do care who you’re letting into your home to take care of your pet.
+
+Code For Cash
+W18
+Unsuccessful
+Freelance programming in USA is limited because of a 1986 tax reform act that targeted developers. Companies were penalized for hiring developers as 1099 workers and are at risk of being taxed as if their hires were w2.
+
+However, in spite of this, the “gig economy” is here and expanding. Some estimates peg the eventual TAM of the Gig Economy at $1.5T, attributing half of that to IT projects, including software.
+
+The software workforce is growing. Although most freelance developers are not Americans (due to the limitations in American law), with the advent of travel visas (such as Thailand introducing a Digital Nomad visa) and the general growth of the gig economy, freelance software development will grow in size in spite of the legislative roadblocks.
+
+Hiring a freelance software developer is currently like finding a taxi: you call up the cab company and hope that they show up on time or if you live in an area with a high enough volume of cabs, you go outside and hope one shows up near you in time. But with the right dispatch system (quickly matching developers to projects that are a good fit, not only technically but also culturally) and the right structural systems in place to make sure the software projects succeed (enforcing best practices for software development), we could become the Uber for Software.
+
+People understand that hiring is broken. Developers hate recruiters, and companies admit that up to 50% of their software hires are wrong. It’s clear that matching needs fixing.
+
+Freelance software projects are a chance for us to get this right, because freelance projects are small and more frequent than job postings, there is a higher volume of turnover – we get more passes through the funnel in order to get matching right. By the time we have developed a system for consistently outputting high quality software projects (with a lower failure rate), we will have a moat on competitors. Analogy: think about the YC application and its idiosyncrasies that give YC a competitive advantage in fundraising…
+
+Mattermark (Referly)
+S12
+Unsuccessful
+I'm an insider to small business, not a professional trained journalist or analyst. I have experience trying to create a meaningful footprint for Twilio, so I know where to look for the data to indicate growth and success. Often their are non-traditional ways to do this that require scraping, crawling, and mucking through seemingly disconnected information - but I can see patterns I think other people miss, and I am willing to dig deeper than anyone else because I find it endlessly fascinating.
+
+Standard Treasury
+S13
+Successful
+People who run banks don't care about providing high quality technology services, and the people who care about technology don't want to work with (or buy) a bank. Schlep blindness, as it were.
+
+Also, there is great power in abstracting away thinking about your particular bank. Take ACH: since we are willing to suffer through forming eight banking relationships, we can provide next-day payouts to 80% of checking accounts in the US. Everyone else can only do next-day payouts on their one bank.
+
+VEED
+S19
+Unsuccessful
+They don't understand that video editing platforms where designed for editing films and tv shows, not 10-second clips for Instagram & Twitter. This is further supported by the rising community of young content creators using platforms such as TikTok.
+
+Employbl
+S19
+Unsuccessful
+Information should be open and accessible to all, especially candidates who want jobs. Hiding candidate info
+
+Kash
+S14
+Successful
+Others are trying to make it easier to accept credit cards or get rid of the physical card. But that whole process is useless. Credit cards work fine. They are just too expensive. Folks working on Bitcoin get it. And we get it. Unlike Bitcoin based businesses, we think government-backed money has redeeming features worth saving.
+
+We have spent almost two years talking to retailers. In quick serve restaurants, for example, the average margin for a retailer run between 1 and 4%, and credit card fees often eat up to 1-2% of total revenues. Often, a reduction of fees by 25% would increase the bottom line by 25%. That’s why our existing retailers are pushing their customers to use our app. We have a direct impact on their bottom line.
+
+Swelly
+W17
+Unsuccessful
+people have strong opinions and are willing to share it. Brands can leverage that to make better decisions and create better products. Teens don’t want to talk to shop keepers + Foursquare/Yelp are too impersonal.
+
+Prolific
+S19
+Successful
+1. TRUST. Researchers aren't willing to pay if they can't be sure the data will be good. Participants aren't willing to answer thoughtfully and honestly if they can't trust their efforts will be fairly appreciated. Other companies in our space don't treat their users well – they underpay participants, randomly kick them out of surveys, and don't help mediate or resolve disputes between the two sides of the marketplace (researchers <> participants). As a result, trust is low, data quality is bad, and research progress is way slower than it needs to be.
+
+2. INCENTIVES. Competitors in our space don't get that it's important to align incentives to achieve high data quality. On MTurk, the misaligned incentives create a race to the bottom: Winners are those who complete the most "HITs" per hour, or those who spin up bots to complete "HITs" on their behalf. It's a constant battle between researchers and participants, and it's slow and difficult for the researcher to screen the data for quality.
+
+3. CONTROL. Researchers want transparent access and control over the data collection process because *how* the data is collected will affect the results. Traditional vendors do not realize this – they act as gatekeepers who slow down the research and reduce its quality.
+
+Slite
+W18
+Successful
+Word processors focus on independent docs, Slite is all about the big picture.
+And when Wikis see knowledge as static, Slite sees in it all the information that matters, and retains value over time.
+
+In short, for the first time an app makes the bridge between all the information that matters across a team, wether it's processes, how-tos, day-to-day learnings, meeting minutes, or whatever brings value to the rest of the team. And Slite leverages the power of notes to make this information clear for everyone.
+
+SketchDeck
+W14
+Successful
+We combine real‐world experience of the problem with a deep knowledge of computer science, cutting edge technologies and interaction design. All of competitors have just one of these.
+
+Laitum
+W20
+Unsuccessful
+I understand the importance of building a community and providing a social learning experience where students can be part of the learning process. Doing this right and with a great culture, word of mouth is not a dream.
+
+Learn Venue
+S18
+Unsuccessful
+OEMs do realize that using cloud or an on-premise server is not the best way to analyze video content from all the security cameras that are sold by them. Firstly, there is a perpetual cost associated with using it and secondly, there is a limit to the number of videos streams that can be analyzed at the same time with the limited computational power.
+
+For consumers, if the security cameras were to use the cloud, then the bandwidth required to upload the camera feed would be over 40 GB/day – just to figure out if there were unwanted people or vehicles in the video. Worst if the network breaks down leaving them vulnerable.
+
+Making the security camera do the job of identifying the objects is the best way forward. The camera must be made intelligent in itself. And thanks to our technology, the low-cost devices can now analyze the video in real time without the need for depending on the cloud.
+
+Dendron
+W21
+Successful
+Dendron is hierarchy first because we believe hierarchies are among the most efficient structures for people to make sense of vast quantities of information. The reason we don't see more people using them is because there has never been a note taking tool that has made working with hierarchies simple and scalable. Dendron is such a tool.
+
+Virtually
+S20
+Successful
+A few things really:
+
+Online trade schools are the future. Online courses are a generally ineffective medium for job training as only 13% of those bought are ever finished. For career-changing education, students need a project-based environment with direct access to the instructor and peers (for accountability and social pressure).
+Mid-career education and job retraining will continue to become increasingly important. Only 27% of college graduates land a job related to their major. This along with a host of other factors is leading to record job dissatisfaction rates; however, students aren’t willing to enroll in expensive 2–4 year-long programs to fix this problem. They want a more lightweight solution that helps them pick up new skills without the high cost of traditional universities.
+Income Share Agreements are essential for any mid-career educational programs to work. Unlike undergraduate programs, which can be financed through the support of your parents and/or student loans, the risk of transitioning to a new career after undergrad is drastically higher. ISA’s help de-risk this transition by requiring students to only pay the institution back if they are successful.
+
+Cruise
+W14
+Successful
+1) First‑mover in this market will gain a large advantage in datasets, maps and branding. We aim to be that first mover.
+
+2) The best way to differentiate a car is with new technology (like self‑driving systems). Existing car companies are adept at charging more money for leather and chrome, but that approach is pretty much dead.
+
+Mimir
+S15
+Successful
+Those holding a CS degree are best qualified to teach CS courses. There such a high demand for developers that CS graduates are more incentivized to take a high paying job at a tech company rather than go teach at a High School. That is why purely providing content and materials to run a CS course is not enough. We need to 100% automated classroom the Mimir Classroom offers.
+
+Task Pigeon
+W19
+Unsuccessful
+That people/companies don’t license task management or project management software to help them write things down. They license this software because they have an underlying need to get more things done.
+
+While digitizing what was previously a pen and paper based task or something that was done over email does provide some benefits it still doesn’t get to the root of the issue.
+
+All of these tools (Trello / Asana / etc) are great at what they do. They cut down the time it takes to find information associated with tasks, to see what it is due, who is responsible for it, etc but they don’t then take that next proactive step of helping you and your team move tasks off of that to-do list.
+
+Task Pigeon solves that issue via our marketplace and the long term vision is centered around helping you and your team get more done. Ultimately this allows businesses to move faster and turn on / off additional resources as and when required.
+
+InEvent
+S19
+Successful
+The integration between parts. People think that their system is so special for the customer. The current enterprise now has more than 35 SaaS solutions, your solution is just part of a bigger thing. So make your best effort to connect well with the other 34 or so SaaS platforms. Data should flow easily within the org.
+
+Flex
+S16
+Successful
+Women (and men) love our branding and positioning. 25% of our signups are from men. We’ve found a way to stand out amongst the cheap, pink-and-purple packaging of traditional feminine hygiene products, and our messaging (mess-free period sex) has been an effective hook to get women to try our product for the first time.
+
+Once women try FLEX, they want to switch to FLEX permanently for a few reasons:
+
+When women wear a pad or tampon, it’s a constant reminder that they’re undergoing this really uncomfortable experience
+FLEX is so shockingly comfortable that women tell us that they forget that they’re on their period when wearing it
+Instead of running to the bathroom 4–5 times per day to change a leaky tampon, FLEX requires changing only once every 12 hours
+It’s very easy to use
+In addition to a high-quality product, we’ve created a quality customer experience online. Most menstrual product purchases happen in drug stores, but drug stores don’t facilitate discovery of new feminine hygiene products. Millennials read and shop online, and we’ve created an e-commerce platform that educates them with peer-generated reviews and content.
+
+Women learn about feminine hygiene products from their friends. The bulk of our early traction (20k organic signups) have come from word-of-mouth. On average, every person that signs up to try FLEX, recommends us to at least 1 additional person. Our campus ambassador program is one great example of our grassroots marketing efforts.
+
+Simple Habit
+W17
+Successful
+There are two things that companies in our space don't get:
+
+1) Our competitors don't get that users experience meditation fatigue from listening to the same voice/personality over and over again. In other words, they start to tune out. Imagine if Spotify or iTunes only carried one band. One's enjoyment of music would diminish over time. Similarly, the effectiveness of meditation on a listener diminishes over time as they get accustomed to the techniques and personality of the same meditation teacher.
+
+2) Our competitors also don't understand that teachers can be a powerful channel for user acquisition. The key to developing this channel is to focus on creating a great experience for meditation teachers. This includes setting up the right financial incentive structure for teachers and building them tools that enable and encourage them to be an evangelist of Simple Habit.
+
+OpenPhone
+S18
+Successful
+Instead of focusing on being the best and most comprehensive phone system in the world, our goal is to build a product that helps small businesses communicate more effectively, save time and earn more money.
+
+We believe the product that will achieve this vision will be a fusion between a phone system and a CRM with integrations to further enrich the product as needed.
+
+The best CRM for small businesses will look nothing like Salesforce.
+
+Mixpanel
+S09
+Successful
+Working at Slide, known for being data-driven, inspired me to build Mixpanel. While at Slide, I got to work closely with Max Levchin on a specific product where he helped teach me how to truly build and iterate data-driven products from the start.
+
+Mixpanel was conceived from the ground up with companies like Slide in mind as well as the problems people there had to face letting us offer a more compelling solution. We can really say, we’re building an analytics platform the way large data-driven companies expect it to be.
+
+Paystack
+W16
+Successful
+Well, we’re firstly developers, then business owners, and merchants so we can feel the pain from a developer and merchant perspective. every other person right now seems to be more interested in their vested interests.
+
+Buffer
+S11
+Unsuccessful
+One of our users sent us this: “I really appreciate the “human” quality of your company. We try for that in our own company too for the exact reason that those are the kinds of companies we like to deal with ourselves.”
+
+We understand making customers happy is the most important thing.
+
+GitLab
+W15
+Successful
+An open source development process allows you to market your product for free. It also allows a good product market fit at a low cost. We believe that version control is infrastructure software and that open source is the natural model for this kind of software . But to create and grow a competitive open source offering you need to have a proprietary commercial version to generate scalable revenue, support income alone is not enough.
+
+Dropbox
+S07
+Successful
+Competing products work at the wrong layer of abstraction and/or force the user to constantly think and do things. The "online disk drive" abstraction sucks, because you can't work offline and the OS support is extremely brittle. Anything that depends on manual emailing/uploading (i.e. anything web-based) is a non-starter, because it's basically doing version control in your head. But virtually all competing services involve one or the other.
+
+With Dropbox, you hit "Save", as you normally would, and everything just works, even with large files (and binary diffs ensure that only the changed portions go over the wire).

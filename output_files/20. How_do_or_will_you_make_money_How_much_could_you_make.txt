@@ -1,0 +1,493 @@
+
+Courier
+S19
+Successful
+Courier has three paid pricing plans that discriminate based upon the number of notifications sent per month. This maps to how incumbent single-channel notification providers charge and I expect Courier to be able to charge prices comparable to a single-channel provider. The customer will be paying for both Courier and the underlying providers so it may result in Courier only being able to charge some fraction of a comparable single-channel provider.
+
+There are at least two existing individual channels that support $100M+ ARR (and in some cases much, much more) and two more supporting $10M+ ARR in revenue for the leader(s) in that space: email (SendGrid), SMS (Twilio), mobile push (Amazon SNS, OneSignal, Urban Airship), browser push (Pusher). Achieving revenues in excess of $100M ARR is achievable.
+
+Athens Research
+W21
+Successful
+We currently support the project based on sponsorships of $10k/year.
+
+We will provide a cloud-hosted SaaS.
+
+The office software space is $80B market, and grows at a rate of ~$1B per year.
+
+Notetaking is the first killer app. After dominating this niche, will create a suite of products that replace CRM, CMS, internal wiki, etc. to capture a large percentage of this market.
+
+Parobyte Technologies
+Unsuccessful
+We make money from the margin of the goods that we sell to the corner stores. As of now, we are keeping this as an inventory model with stock in the partner warehouses.
+
+Small stores account for ~90% of total Indian grocery market of $ 800 billion. Our addressable market size is 15% of it – $120 billion dollars. Our plan is to onboard around 1 million retailers by 2025. At an average order size of $6,500 dollars per retailer per year – we could reach a revenue of $6.5 billion.
+
+MagicBell
+W21
+Successful
+We charge a subscription fee for MagicBell's APIs and UI components. The pricing depends on a combination of the number of channels, active user count, notifications volume, and data retention period. Given the business model and deep integration into our customers’ code-base, we expect low churn and healthy expansion revenue (150-200% YoY).
+
+At an average revenue per account of $4k/mo and net revenue retention of 150%, we expect to make $30million/yr in the next five years or so, given the right growth capital. The first-mover advantage, combined with the growing market opportunity and our team's expertise in SaaS, makes this a realistic target.
+
+Supernote (Metlo)
+S21
+Successful
+We’ll make money with a SaaS subscription by charging $20-50/user/month and then charging for notebooks deployed as APIs on a usage-basis. We think we could be every DS’ daily driver tool so we could make a lot of money.
+
+For rough market sizing, we’ll assume that we can charge $25/user/month. According to LinkedIn there are 2.6M Data Engineers, 350K ML Engineers and 400K Data Scientists in the US alone, all of whom use Jupyter Notebooks everyday.
+
+For our notebooks product alone, we could make 25*12*3.35M = $1.05B/Yr. But more importantly, after we are successful in becoming the daily driver for DS, DE and MLEs, we can sell an E2E Data platform to our customers later which is a *much* larger market.
+
+Simula
+S18
+Unsuccessful
+1. Marketplace (possibly token based). Simula could be used as a platform to build a marketplace for 3D work applications. In particular, we have considered the possibility that a cryptoasset model might be adequate through some sort of decentralized app marketplace (emphasis: this would be a long-term decision, and not a scheme for the stakeholders to get rich quick off of an ICO).
+
+2. Licensing Fees. Right now we intend for the OS to be free and permissively licensed, but perhaps down the line this could change into a dual-license model.
+
+3. Search Ads. Canonical monetizes Ubuntu by putting Amazon affiliate links in their start menu search results. We could try to do something similar with Simula.
+
+4. Strategic Asset. We don’t know much about tech M&A, but it’s conceivable that a bigger company could swallow us. For example, Canonical might purchase our window manager to meaningfully differentiate Ubuntu from Apple.
+
+(1) is our favorite option. This would incentivize the creation of innovative 3D office applications, and could give us a valuation comparable to other large app stores (i.e., in excess of $10BB). (4) is our least favorite option.
+
+AthleteNet (FamilyLeaf)
+W12
+Successful
+We will use a freemium model and make money by charging coaches/organizers $10/mo or $60/yr for premium team sites, charging players/parents $10/mo or $60/yr for premium features/storage on profiles, and charging recruiters $100 for unlimited queries to our database. We can make about $2.3B/yr ($300MM/yr from team sites, $2B/yr for player profiles, and $2MM from recruiters).
+
+Parsnip
+S21
+Unsuccessful
+The current plan is a standard subscription model. At $100-$150/year/user and my current burn rate I could hire my first employee, have a modest marketing budget and be ramen profitable with around 2,000 users. Fluent Forever, Giphy for flashcards, was able to break 25,000 users in its first 18 months.
+
+Looking at concrete numbers in the larger market there are between 300 million (Duolingo total users) - 2 billion (total language learners worldwide) potential users. There is large potential for multiple $1Bn businesses in this space. Stepping back to Babbel, since Duolingo has a freemium model, they still have revenue >$100M and have sold more than 10M subscriptions.
+
+In the future I plan to sell premium content such as ebooks bundles, which would contain the native language edition, audiobook, and the translated edition. For publishers/localizers this would be a residual revenue stream with almost no added work on their part. For users it would simplify the process of obtaining legal copies of foreign language books while providing a consolation prize to users whose eyes are larger than their skills. However I am much less sure about the potential size of these products.
+
+derivative/d (Shotput)
+S15
+Successful
+We charge 10 cents per order.
+
+The average crowd-funded customer has 2000-3000 orders in the first month so we will make $200 – 300/month per customer. The successful companies increase to average 5000 orders/month by the end of the year, providing $500/month in revenue.
+
+There are 500 successfully crowd-funded hardware projects on KickStarter and Indiegogo since November 2013. This number excludes other product companies such as apparel, non-hardware physical goods, and food-related projects. The number of orders/customer and number of new products are expected to increase every year.
+
+CredCount
+S17
+Unsuccessful
+A specific case we’ve looked into is a contract or subscription service with big media companies. Similarly, DataMiner has made millions helping the news guys observe events as they happen going from labels of “this might be newsworthy” to “lots of people are talking about this; you should check this out”. We hope that our service will be an even bigger asset to news media companies bringing more than volume statistics through analytics. With early research, these contracts have figures in the millions.
+
+One Month Rails (One Month)
+S13
+Successful
+In less than 5 months of existence, One Month Rails has made over $80,000 in revenue by selling our product across platforms like Skillshare, Udemy, and General Assembly. For-profit trade institutions like University of Phoenix (which is shifting its focus online) have been able to generate hundreds of millions of dollars in revenue per year from their programming departments alone.
+
+Now consider this: 16% of sites on the web are built on Wordpress, a blog publishing platform people use because it's probably the easiest way to get a good looking site live relatively quickly. Yet even something as simple as getting your own Wordpress site up is way too complicated for most people. People who use One Month Rails are able to have their own application live on Heroku in less than half an hour.
+
+If One Month Rails can provide people a better and more flexible alternative for helping individuals deploy their web applications, the potential impact reaches far beyond just education. Imagine a world in which everyone has the understanding and tools necessary to build not just a content site but an entire web application.
+
+As One Month Rails evolves to better serve the needs of non-technical people building web applications by including web app hosting, plugins, and other services, the potential market grows well into the billions of dollars per year (if cloud solutions like Salesforce or Windows Azure are any indication).
+
+Circles
+S21
+Unsuccessful
+now: We are experimenting with 3 pricing tiers: $9 a month for the AI coach, $55 monthly to add 1 personal coaching session to check in, review your goals and set new ones. And for non Oura-ring users we aim to charge $100+ a month, buy the ring for the user and include 2 coaching sessions.
+later: once the AI coach is good enough we can charge the going rate of 1on1 coaching ($80-$200) per session. Assuming 5% of the Apple Watch users (100Million total) who own more than 1 tracking device (25%) book 1 session per month. = 1/4 of 5 Million = 1.25 million x $80 per session = $100 Million per month.
+
+MakeGamesWithUs (Make School)
+W12
+Successful
+We will make money by taking a portion of the revenue from the games we publish.
+
+Every addition to our game catalog is created at no incremental cost to us. We use live metrics and machine learning algorithms to estimate the lifetime expected value of each game and adjust our promotional spending and crosspromotions accordingly.
+
+Additionally, app sales are top heavy, so by not being selective and simply
+providing tools to facilitate high quality app development, we will sooner or
+later have a blockbuster on our hands.
+
+In our first two years we are targeting 450k in revenue with a 30% revenue share on 300 apps that average $5000 in sales each. From there as we continue to grow our catalog the average sales of each app will increase as well.
+
+The Muse
+W12
+Successful
+We have a clear step-­by-­step sense of how we could make $40M/year and market data that suggests a much larger opportunity if we can figure out how to monetize it. Currently, we're interested in:
+
+Recruiting:
+- Email newsletters targeted by industry containing a mixture of content, paid job postings and sponsorships;
+- A dynamic job board organized by industry and location, with additional predictive abilities telling candidates who possess certain skills or are looking in certain niche areas to consider [ X ] job in an unrelated field which fits a similar profile;
+- A large resume database which recruiters and hiring managers can access and search for a fee, again with predictive and skills-­based abilities to suggest that a certain professional in finance might be a very good fit for a lead dev role at a burgeoning start­up
+
+(To go bottom up, we believe email newsletters can get a $250 CPM for targeted job listings and a $2500 finders' fee for successful hires; job boards for our demographic can charge roughly $350/post, and resume database access runs roughly $1000 per recruiter per month ­ more if predictive functions are added. Top down, there are 7.5M women in our demographic changing jobs every year. If the top 10% are worth $20,000 each time that happens, the overall addressable market for recruiting alone is $15B.)
+
+Training & Professional Development:
+- Direct to customer or business / white labeled training program (a natural extension of our core content which we've already been approached about by several companies)
+
+(To go bottom up, we believe individuals will pay $15 per course or, as LearnVest & Lynda have demonstrated, $120-­$250 for a year of access to courses. Businesses, on the other hand, spend over $55B every year on training and development in the US alone, and this market has a 9.8% CAGR).
+
+Advertising & Branded Content:
+
+-Examples here include content branded by Dove's self esteem campaign; sponsorship of our "Finance" vertical by CitiCards, or an AmEx and Dell sponsored Women's Symposium
+
+Lollipuff
+W13
+Successful
+We charge a 7% commission on each sale. To start, Lollipuff will represent just 3 brands. Extrapolating Ebay’s completed listings for these three brands, there is more $77 Million in annual transactions ($5 Million revenue based on our commission). Ebay is undeserving of this niche. Many users refuse to use Ebay or other online sites for high-end items (ie. relying on consignment stores instead). In fact, we have several Ebay “power sellers” asking to use our services!
+
+We plan to introduce additional designers / brands as we grow. Additional revenue will be generated by affiliates (eg. for brands not currently represented.)
+
+YogaTrail
+S14
+Unsuccessful
+Freemium: yoga pro's can create free profiles and publish a limited number of events. Upgrading to a paid plan gets them more visibility, unlimited events, and some other perks. We estimate
+
+Proxino (Taazr)
+S10
+Successful
+Taazr will charge clients monthly. We see a market opportunity in the tens of millions.
+
+bxblue
+S17
+Successful
+We get a 6 to 10% commission on every loan generated by our platform. There are 11 million public servants and 30+ million retired in Brazil, which represents 90% of the payroll-deductible loan market.
+
+Let’s say we focus only in the Federal Government servants. There are around 1.1 million of them. If we get around 2k users helping them get their 5 next payroll-deductible loans (from the ˜30 they take in their life) we could be making around USD 1 million. If we help them re-take more loans we can go up to USD 5 million.
+
+We can always expand to other markets like Mexico, Colombia and Caribe, and also to the closest market which is to go to other Government branches like the regional Government, local Government, Army to reach the total of 11 million people. And, we could also go the other 30% of the market: retired people (+30 million people in Brazil).
+
+- SAM (Brazil): 11 million public servants, 30+ million retired = 41 million people.
+- Federal Governmt SAM (beach head): 1.1 million public servants
+- Initial goal: 10,000 Federal Government servants, 1 loan each = US$ 1 million revenue
+With recurring loans (already an offline trend), we project US$ 15 million.
+
+Pic ur Photo
+S19
+Unsuccessful
+Our customers buy photos individually, and they can choose upsells like edits and prints. We make a cut on every photo sold (the photographer makes the rest), and we take 100% of the revenue on upsells.
+
+The global photo services industry is worth about $30B, including $2B in the UK and $10B in the US. But we’re not just working for the existing market. Our main offering also appeals to people who would never have considered professional photography prior to being introduced to us.
+
+We aim to sell a total of 1 million photos in our first 2 years of operation, which translates to about £7.3M ($9.5M) in revenue (photos + upsells) for us and our photographers. We see ourselves selling 10 million photos annually once we’ve expanded to other major cities in 5-6 years.
+
+Syllble
+W18
+Unsuccessful
+This November with our soft launch during the “National Novel Writing Month”. We are going to charge creative writers $10/month to participate in the collaborative process. Charge readers $1/month to get access to the platform where they can follow writers and read their up to date stories as they write it, they can read for free. Sales will be through Amazon, Print on Demand, bookstores and contract with filmmakers and businesses for signature stories. Most royalties will go to Writers %50 — Editors, Illustrator and marketing %35 — Syllble %15.
+
+Spreadsheet Magic
+S14
+Unsuccessful
+I think most obvious way is just to sell the system either as subscription product (SaaS) or with upfront price.
+
+Given that the tool gives users ability to solve their real business problems, I assume that it should be possible to charge around $50/month for it (based on my experience selling Hosted CI).
+
+If you’ve already started working on it, how long have you been working and how many lines of code (if applicable) have you written?
+
+I’ve been thinking out ideas for several months, however I’ve only started working on prototype this March and have spent several days putting together some prototype.
+
+Goodly
+S18
+Successful
+Starting with a bottom up approach, our initial target market will be startups with 1 to 500 employees.
+
+Our immediate source of revenue will be a SaaS-based pricing model of $6/month for each employee that participates with no setup costs or annual fees. 44 million Americans have student debt, charging $6/month x 12 months would produce $3.16 billion in ARR.
+
+The total U.S. student loan market is $1.5 trillion (larger than all consumer credit cards and auto loans) and growing by $2,726 per second.
+
+Bipartisan legislation in Congress would make up to $5,250 a year in employer contributions for student loan repayment tax-free. The bill has 118 co-sponsors as of April 17, 2018.
+
+Apptimize
+S13
+Successful
+The plan is a monthly subscription. We’ll offer customers help with experiment design. If we charge premium customers $1K per month and get 200 customers (less than 2 sales a week) over 2 years we’d make ~$2.4MM per year 2 years in. Artisan (launched this month) claims to charge $1K-$10K per month, so that’s possibly a better price.
+
+Ultimately we want to be the default way people change their apps. Everyone would use Apptimize to test each idea, and then use Apptimize to deliver the change to users. 100% of apps would use our library to reduce time to propagate changes and tighten the app development cycle. We’d help erase the line between apps and the web.
+
+Trestle
+W19
+Unsuccessful
+I will be using the typical SaaS business model and charging a monthly fee to companies using Trestle probably on a per-head basis. Companies are currently spending hundreds of thousands to millions of dollars of engineering time building and maintaining these systems. The problem I’m solving for companies is almost unboundedly valuable, it makes the entire organization more effective as it scales. In the long term, Trestle could also start to eat into the traditional HRIS space and start offering features such as onboarding, benefits, payroll, etc. to provide an even more valuable and comprehensive solution.
+
+In just the US, as of 2012, there are over 100,000 businesses with over 100 employees employing a total of over 75 million people. Even if just 1% of businesses use Trestle, and it’s priced at $10/head, that’s over $90 million in revenue per year.
+
+PMAlerts
+S21
+Unsuccessful
+A monthly subscription fee that users pay to keep their alerts listening.
+
+Paths to $100M ARR:
+
+- 17,000 users paying $500/mo
+- 42,000 users paying $200/mo
+- 83,000 users paying $100/mo
+- 300,000 users paying $30/mo
+
+There are:
+
+- 21M software engineers who want to get closer to their customers
+- 10M big tech workers who want to get closer to their customers
+- 1M PMs who want to get closer to their customers
+- 150,000 SalesForce customers who pay for enterprise CRM
+- 2.5M active Etsy shops who would benefit from social selling
+- 150,000 users paying for LinkedIn Sales Navigator
+
+Gumroad creators, crowdfunding efforts - anyone with a business or value to provide - could accelerate their revenue growth / PMF with PMAlerts. TAM seems at least as big as Slack + Salesforce.
+
+If PMAlerts becomes a thin layer on top of all social media that delivers a composible social media experience - circumventing ad-driven social media feeds - I see $10/mo * 10% of say 1B social media users = $1B ARR.
+
+100,000 people paying $100/mo to generate leads = $120M ARR
+
+Pet Story
+S19
+Unsuccessful
+- Charge a monthly fee of $20 to $50 for single and small teams. We estimate that there are about 300,000 pet care providers in the US
+- Pet care alone in $6 billion industry
+- 90 million homes own a pet
+- Pet industry was a $72 billion industry in 2018
+- The average annual growth rate for the pet industry over the past 20 years is over 5% per year
+- Pet caregivers are our starting market, but we plan to expand into owners
+
+Code For Cash
+W18
+Unsuccessful
+We collect subscription fees from developers and hiring managers. We charge developers $45/month (with a discount for early adopters or multiple licenses, such as in the case of a bootcamp). We charge hiring managers anywhere from $0 to $200/month/developer for the duration of their contract.
+
+We estimate the freelance programming market to be anywhere from $500M to $3B in annual volume currently, depending on whether you include IT staffing in the definition of “freelance programmers”. Intermediary services get away with charging anywhere from 5% to 50%, so our annual revenue could be anywhere from $25M to $1.5B if we own the market. That’s immediately. Freelancing as a market is growing, though… with some estimates of the TAM maturing to $1.5T annually.
+
+Even immediately, however, there are opportunities for us to pivot our matching software into adjacent markets. Prospects have asked me if I could service other freelance markets: video post production, web design, marketing gigs… for now, we are focusing on conquering the software development market before expanding adjacently.
+
+Mattermark (Referly)
+S12
+Unsuccessful
+We can make money for data subscriptions, analyst reports, custom research and banner advertising on our media properties.
+
+Morningstar had $100M net income in 2012 (on $650M revenue), Bloomberg LP had $7.6B in revenue in 2011, Gartner had $165M net income in 2012 (on $1.6B revenue). Based on these benchmarks I believe it is reasonable to build a $100M/year income business in this space.
+
+Standard Treasury
+S13
+Successful
+We make money on transactions.
+
+For a (very, very) rough guide, profits at ten biggest banks last year were $120b. Let's call 50% of that transactional/FICC/pure commercial banking as we define it.
+
+As for TAM, SAM, SOM, using big-O:
+
+Total addressable market: O(100s of billions)
+
+Serviceable available market through APIs: O(10s of billions)
+
+Share of market: O(10s of billions)
+
+VEED
+S19
+Unsuccessful
+We will have a freemium offering.
+
+Users will pay for better quality exports and more tools.
+
+We think we will have a low conversion rate to paid at the start.
+
+Now I don't like projecting crazy numbers because it is to easy to say with little consequence but here goes.
+
+We think we can grow to address 5,00,000 users monthly in the next 2 years with 1% paying $20 a month making $12,000,000 in revenue annually.
+
+In the next 6 years, I believe we build the company to $50m revenue annually thought enterprise and education offerings and developing new products.
+
+Employbl
+S19
+Unsuccessful
+Employbl is a subscription service for young companies, seed to series C.
+8 cities, 300 companies per city signed up at $500/month = ~$14 million ARR
+at $250/month = ~$7 million ARR.
+
+Kash
+S14
+Successful
+Card processing costs US businesses $50 billion each year. Like card processors, we’ll charge a transaction fee. Card processors make a lot of money, but their margins are thin. They can’t reduce fees to compete. Their high fees are caused by the structure of their network. We can charge 1% where they have to charge 2-5%.
+
+Assuming our existing engagement rate, we will make $22 million a year once we reach 20,000 retailers. US has 1.1 million retailers. At our existing engagement rate, our total addressable market would be $1.2 billion a year.
+
+Swelly
+W17
+Unsuccessful
+Market Research; think ask questions + get answer within 24h (quantitative feedback) in a SaaS tool. Additionally send survey to top influencers in specific field to get qualified feedback.
+An active user votes 80+ swells per day, inserting a promoted swell into every 100th swell and charging $0.3 / vote leads to $0.3 / active user / day:
+
+$0.3 * 3M Users = $0.9M / Day
+$0.3 * 30M Users = $9M / Day
+$0.3 * 300M Users = $90M / Day
+
+Prolific
+S19
+Successful
+We currently charge a 30% commission to individual customers for the core service of finding and screening research participants. Going forward, new products and services (e.g., representative samples, external API) will add additional revenue streams and enable upsell. And we're currently working on a SAAS hybrid model (subscription + participant rewards) for institutions and enterprises.
+
+The market opportunity is huge. The "people research" space alone (we which we define as behavioral science + user research + market research) is a $100B+ global opportunity, but this is just the beginning as this market is nascent and growing. Fundamentally, we're developing a broad solution to a worldwide problem (learning about people).
+
+Slite
+W18
+Successful
+We'll sell Slite on a pay-per-user model, starting at 10$/user/month. The potential here is really similar to Slack's, as we intend to be the obvious choice for SMBs up to 500 people 5 years from now.
+
+SketchDeck
+W14
+Successful
+Revenue stream: For low volume clients we charge on a per slide basis. For higher volume clients we have per user subscriptions.
+
+Company size: £100m revenue in five years. We are testing a price point of £5 per slide or £100 per user per month. If we look just at the management consultancy segment, there are estimated to be more than 0.5m consultants worldwide. There are many adjacencies to expand to from here.
+
+Streamplate
+W21
+Unsuccessful
+For general orders, we charge 5% which is to cover the banking fees.
+
+For consumers, we charge $4.99/month for them to create events and receive unlimited orders/month. Additionally, consumers can curate venues/menus and create publicly accessible content eg. a Spotify playlist and receive a commission when other users order through it. We split our 5% transaction fee 50/50 with the curator.
+
+Then, we also charge a 30% transaction fee for users the cater — this could be serving a meal from their home or being booked for a catering event etc.
+
+Laitum
+W20
+Unsuccessful
+Selling courses in a first stage, to then move to a subscription model as soon as we have a decent number of courses.
+
+Learn Venue
+S18
+Unsuccessful
+We will be licensing the VisionOS to the OEMs such as Bosch, Panasonic.
+
+We charge $25/ device.
+
+Security cameras sold in the World in ‘16: 52 Million units; 17% CAGR
+
+TAM : 52 Mn x 25$ = $1.3 Bn
+
+SAM (IP cameras): 38 Mn x 25$ = $950 Mn
+
+https://www.sdmmag.com/articles/92407-rise-of-surveillance-camera-installed-base-slows
+
+Dendron
+W21
+Successful
+We plan on making money in three phases:
+
+- 1st phase: pro account (custom badge, priority support, once a month zoom chat, etc)
+- 2nd phase: server side features (eg. private hosting, cloud sync, online editor)
+- 3rd phase: team features (small teams to enterprise)
+
+We also have a completely orthogonal revenue plan that involves creating a marketplace for notes. This involves making it easy for people to publish and monetize their knowledge - think substack/medium but for notes. This would vastly increase our addressable marketplace (to anyone that needs to consume information) but also a departure from our current plans of making revenue. This is something that we would likely explore either in conjunction of after phase 3.
+
+Virtually
+S20
+Successful
+It’s free to accept the first ten students. From there, we charge $25 / month for every additional cohort of ten students.
+
+There are about 5.3 million active online educators, creators, and organizations that we think could leverage this technology to create virtual classrooms. If we, specifically, target online mid-career education, our total addressable market is $6.36 billion with room to grow if we expand to enterprise or government training opportunities.
+
+Cruise
+W14
+Successful
+We will make money by selling and installing our equipment on existing vehicles. Over time, more of our revenue will come from subscriptions fees.
+
+J.D. Power surveyed 17,000 drivers in 2012 and found that 20% would"probably" or "definitely" buy self‑driving technology in their next vehicle at an estimated market price of $3k.
+
+If that survey is even remotely representative of the rest of the country, those drivers who are ready to buy today will create at least a $100 billion market in the US alone.
+
+Mimir
+S15
+Successful
+We make money through recurring enterprise sales. There are around 80K High Schools in America that don’t offer any Computer Science courses. We estimate our average deal size will 35k (half the average cost of running Computer Science courses through conventional means). This gives us a total market size of close to $3 Billion in America alone.
+
+Task Pigeon
+W19
+Unsuccessful
+At its core Task Pigeon is a SaaS task management application with both free and paid tiers. Our free tier is limited to a maximum of 5 users and has more limited functionality. The paid tier starts at $9 USD per user, per month.
+
+Our marketplace offering augments this and provides an additional revenue stream. We have adopted a typical marketplace model and take 20% of the fee from the freelancer.
+
+Long term I expect the split of revenue to be 70% from Monthly Recurring Revenue associated with the task management application and 30% coming from the marketplace.
+
+Applications such as Asana have shown that there is demand for a paid task management application. According to recent reports they have 50,000 paying customers. Even if we assume an average of 10 team members per team (likely to be much higher once we engage enterprise level accounts) that would equate to 500,000 paying users or $4.5 million in Monthly Recurring Revenue (at $9 USD per user, per month).
+
+I really only see that as the start though and am taking on this startup because I see a path to building a multi-billion dollar company. Why? Because the future of the workforce is likely to be split 50/50 between employees and freelancers.
+
+That means that 50% of the current staff budget of corporations all across the world is potentially going to be allocated to engaging with freelancers. To make that process streamlined though there first of all needs to be a task management application that marries task management with access to freelancers together.
+
+Task Pigeon provides this access, so in time we become much more important to a company than merely being a task management application. We provide access to freelancers on-demand so that their employees/teams can get more done each day (and without all the hassle of posting jobs, waiting for responses, haggling over times, etc).
+
+With 125 million formal SME’s in the world even if we take just the top 10% of the market this results in 12,500,000 SME’s that could potentially benefit from our product and service. If we assume an average of 10 employees at this top tier and an average cost per user of $9 USD per month that equates to an total addressable market of $13.5 billion p.a. for the task management side alone.
+
+If we then assume just 30% of the top 10% of SME’s engage with a freelancer platform that’s a total marekt of 3.75m SME’s. If they each spent on average $500 on outsourced work each year that’s an additional market of $1.87billion to target (with our marketplace set up to take 20% of all fees).
+
+Targeting the SME market proves how there is a multi-billion dollar market in both segments. In time of course we believe going upstream to enterprise clients will only expand this number and our potential. In fact 25% of Fortune 500 companies are already using freelancers / on-demand workers and a report by Accenture showed that 85% of IT and Business executives expect to increase their use of freelancers in the coming year.
+
+InEvent
+S19
+Successful
+By charging our customers. Our largest competitor, cvent, makes 260 million dollars per quarter. We believe we can hit one billion dollars in ARR in 12 years.
+
+Flex
+S16
+Successful
+We’ll sell monthly subscriptions of FLEX through our own e-commerce website; subscriptions will include free shipping for subscribers.
+
+The global feminine hygiene market is over $15B and growing; the U.S. tampon market is $4B and growing. We aim to capture $3M in revenue during our first two years and see ourselves as a $100 million company in 5 years (similar to Dollar Shave Club).
+
+Simple Habit
+W17
+Successful
+In the US alone, 18M people are meditating (reported by Forbes), and this number keeps increasing every year. Capturing [redacted] of these users is a [redacted] business at our current subscription pricing. However, we consider this just the start of what we can do.
+
+According to research by IBISWorld, the meditation and mindfulness industry ranked in nearly $1 billion in 2015. The space is growing very rapidly. More than 22% of employers currently offer mindfulness training for their workforce. However, meditation and mindfulness is just the tip of an iceberg. We believe there are a LOT of ways to monetize a large audience of people who trust our company to guide their activities around their health. We'd like to take on larger market of mental health, stress relief and health & wellness which is a trillion dollar industry.
+
+Seeing Interactive (Own Local)
+W10
+Successful
+We are already making money. Our current product grosses several thousand dollars per month in revenue.
+
+Our most immediate source of revenue is direct from newspapers. Each newspaper pays us between several hundred and several thousand dollars for services. In the future, we will also present products directly to small businesses through newspaper ad reps in a tiered pricing scheme.
+
+For example, the local directory product that we are currently developing will sell directly to businesses for between $20 and $200 per month and we get a cut. The customers who are buying these services are accustomed to paying $40 just to place business-card sized ads in the paper once a week, so if they are interested in marketing via the internet, this purchase should be a no-brainer. Really though, it doesn't matter what we charge: $n 6,000,000 small-business is a number we can live with.
+
+OpenPhone
+S18
+Successful
+We are a subscription-based product with plans starting at $10/month. As the product grows, we will introduce higher-tier plans. We believe our product at its maturity can be priced anywhere from $50-$200 per month.
+
+There are 33 million small businesses in North America alone and at an average of $100/month per user we have a total addressable market of $40B annually.
+
+Mixpanel
+S09
+Successful
+Mixpanel’s business model is a subscription based freemium model. Based on the data logged and analyzed we can scale prices based solely on usage similar to that of Amazon S3.
+
+Our idea is to target small under-served startups before they build out an internal system. During that period, we aim to help, consult, build case studies, and provide a free trial to augment our brand and reputation before targeting larger potential clients.
+
+Paystack
+W16
+Successful
+Transaction fees. 1.9% + 50cents
+
+Buffer
+S11
+Unsuccessful
+– We are making $280/mo
+
+– We have a consistent conversion rate from free to paid plans of 4%
+
+– We have a strong acquisition engine through planned referral and affiliate programmes
+
+– We have been focused on building a great product and have not give much thought to how much we could make. At current growth rate, a monthly income in the tens of thousands of dollars seems very achievable.
+
+GitLab
+W15
+Successful
+Mostly by selling subscriptions that entitle our customers to support and our proprietary GitLab Enterprise Edition. Our most sold subscription by revenue costs $49 per user per year. Most or our revenue comes from organizations with more than 100 paying users. Every company with a substantial number of developers needs software like ours. We already declined an acquisition offer from a competitor for $10M because we want to grow this into a large company.
+
+Dropbox
+S07
+Successful
+The current plan is a freemium approach, where we give away free 1GB accounts and charge for additional storage (maybe ~$5/mo or less for 10GB for individuals and team plans that start at maybe $20/mo.). It's hard to get consumers to pay for things, but fortunately small/medium businesses already pay for solutions that are subsets of what Dropbox does and are harder to use. There will be tiered pricing for business accounts (upper tiers will retain more older versions of documents, have branded extranets for secure file sharing with clients/partners, etc., and an 'enterprise' plan that features, well, a really high price.)
+
+I've already been approached by potential partners/customers asking for a web services API to programmatically create Dropboxes (e.g. to handle file sharing for Assembla.com, a web site for managing global dev teams). There's a natural synergy between project mgmt/groupware web apps (which do to-do lists, calendaring, etc. well but not files) and Dropbox for file sharing. I've also had requests for an enterprise version that would sit on a company's network (as opposed to my S3 store) for which I could probably charge a lot.

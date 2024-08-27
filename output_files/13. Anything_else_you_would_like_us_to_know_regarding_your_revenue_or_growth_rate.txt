@@ -1,0 +1,111 @@
+
+
+Athens Research
+W21
+Successful
+Increased when I wrote a post saying how Sponsors would be the first beta testers and get the newest updates first.
+
+Parobyte Technologies
+Unsuccessful
+We are growing at a tremendous pace, and we are set to reach USD 50k in revenue in July’21. Our model is hyperlocal in nature. This growth has been achieved by operating in just a locality of Bangalore. We are planning to add more localities in the city and reach 5,000 customers by end of 2021 and reach a monthly revenue of ~$ 1 million per month.
+
+MagicBell
+W21
+Successful
+The august revenue is committed but not yet realized since we are still waiting for our EIN to set up our bank account and Stripe. We hope to have it all in place by the time YC sends out the interview invites.
+
+Supernote (Metlo)
+S21
+Successful
+All our revenue is from 3 pre-sales for lifetime use of our product. It's obviously heavily discounted but we couldn't think of a better way to validate our idea and asking for more seemed like a sure-fire way to get a "No."
+
+Additionally, 1 out of the customers who bought it in the pre-sale is a close friend of Shri's.
+
+Simula
+S18
+Unsuccessful
+N/A
+
+CredCount
+S17
+Unsuccessful
+Nope.
+
+Circles
+S21
+Unsuccessful
+This week one user started paying $ 55 per month for Circles Pro, which includes 1 monthly coaching session (with Peter). We aim for 3 paying users by next week.
+
+bxblue
+S17
+Successful
+We were using pocket money to test the marketplace. Next month we begin to invest our pre-seed money and will start a stress test in the audience \o/
+
+Syllble
+W18
+Unsuccessful
+N/a
+
+Goodly
+S18
+Successful
+We're preparing to launch our beta and plan to have revenue soon.
+
+PMAlerts
+S21
+Unsuccessful
+Using PMAlerts to drive growth for PMAlerts is working! But the tech itself is unstable, and some platforms aren't working very well (Facebook is good at detecting bots). My priority is stabilization right now. I want to improve the experience for existing customers so much that they share PMAlerts with their network over and over again.
+
+Code For Cash
+W18
+Unsuccessful
+I showed you our MRR from Recurly subscriptions, but a few of our early customers subscribed with SendOwl, so our actual MRR is about $500 higher (~$3300).
+
+I’m also leveraging the Code For Cash product itself to do consulting work in order to fund development of the platform – for example, instead of writing code for my consulting clients, I find Code For Cash subscribers to do it for them, charge a 5%-10% markup, invoice my clients and then pay the developers. In that way I’m “dogfooding” the app (as a hiring manager).
+
+There are also the book sales: The Software Engineer’s Guide to Freelance Consulting and 30 Days To Your First Freelance Programming Client are both published on Amazon and available for $2.99, selling ~13 copies a day (in the Top 10 – Kindle Paid – Software Development category).
+
+Last month I drastically reduced our advertising spend in order to focus on product improvements but revenue still increased.
+
+VEED
+S19
+Unsuccessful
+We plan to start adding paid plans in summer 2019 once we finish the beta product.
+
+Employbl
+S19
+Unsuccessful
+I focused on number of candidates signing up for a few weeks, but after feedback from a hiring manager and friend of mine I’ve realized that it’s the quality of relevant candidates and how I present that information, not the number of candidate signups that’s important. I’ll be spending my time going forward building better matching tools so that employers see relevant candidates and don’t have to spend wasted time reviewing resumes.
+
+Prolific
+S19
+Successful
+We have over [redacted] in deferred revenue which will be booked from prepaid funds going forward. We have seasonal effects (primarily due to the academic calendar). December to February are typically the slower months and we expect stronger growth in the coming months (we're projecting [redacted] in March).
+
+Dendron
+W21
+Successful
+We plan on getting to 50 very active users before launching our paid plans.
+
+Task Pigeon
+W19
+Unsuccessful
+We recently launched an updated version of Task Pigeon (which I call our V3). If was focused on improving the UI/UX of the application without losing the core functionality that our users have come to love. Since pushing that update we have seen an increase in user sign ups, MAU’s and user engagement which has been extremely encouraging
+
+InEvent
+S19
+Successful
+our revenue is better calculated per year:
+
+2015 - 39,000 USD
+
+2016 - 225,000 USD
+
+2017 - 696,000 USD 2018 - 1,151,000 USD
+
+OpenPhone
+S18
+Successful
+We started the app free while in private beta. Mainly to double down on product experience and making sure we are creating value for users.
+
+We introduced billing 2 weeks ago and gave all existing users at least 30 days of free trial and 32 of them have already started paying and we expect many more once we get closer to the end of existing trials.

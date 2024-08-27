@@ -1,0 +1,196 @@
+
+Courier
+S19
+Successful
+San Francisco
+
+Athens Research
+W21
+Successful
+SF / SF or remote
+
+Parobyte Technologies
+Unsuccessful
+Bangalore, India
+
+MagicBell
+W21
+Successful
+Barcelona. After YC, I’ll continue operating from Barcelona. The business is a Delaware C-corp.
+
+Simula
+S18
+Unsuccessful
+NYC, USA / NYC, USA
+
+AthleteNet (FamilyLeaf)
+W12
+Successful
+We both live in Seattle, but Ajay is currently in London for school. The company would be based in San Francisco after YC.
+
+Parsnip
+S21
+Unsuccessful
+Spokane, WA/Seattle, WA or Mountain View, CA
+
+derivative/d (Shotput)
+S15
+Successful
+Now: Jersey City, NJ. After YC: We’ve seen growth in NYC & Boston, will evaluate our experience in the Valley.
+
+CredCount
+S17
+Unsuccessful
+Atlanta, GA, United States / New York, New York, United States
+
+One Month Rails (One Month)
+S13
+Successful
+New York, NY.
+
+The Muse
+W12
+Successful
+We live in New York City, and the company would be based here after YC.
+
+Lollipuff
+W13
+Successful
+We’re currently based in Durham, NC. Post-YC, we’re open (and inclined!) to relocate -- for example, to the Bay Area or Boston.
+
+YogaTrail
+S14
+Unsuccessful
+The team is working out of Chiang Mai, Thailand. We don't see any
+reason to change that, and the runway we have here is 10x what it
+would be in the US.
+
+bxblue
+S17
+Successful
+We are now based in Brasilia, Brazil’s capital, which has a high density of public servants. After YC we might open an office in São Paulo, to get closer to the banks’ HQs.
+
+Pic ur Photo
+S19
+Unsuccessful
+London, UK/London, UK
+
+Syllble
+W18
+Unsuccessful
+Washington D.C.
+
+Spreadsheet Magic
+S14
+Unsuccessful
+I live in Ukraine. I’d prefer to base company in SF if I get enough funding and solve problems with visas.
+
+Goodly
+S18
+Successful
+San Francisco, USA / San Francisco, USA
+
+Bubblin Superbooks
+W18
+Unsuccessful
+Washington DC / San Francisco
+
+Pet Story
+S19
+Unsuccessful
+San Francisco, USA
+
+Code For Cash
+W18
+Unsuccessful
+New York, USA / New York, USA
+
+Mattermark (Referly)
+S12
+Unsuccessful
+San Francisco, but we are planning to move back to Mountain View (regardless of whether we are accepted to YC) back into the house we had last summer
+
+Standard Treasury
+S13
+Successful
+SF. SF.
+
+VEED
+S19
+Unsuccessful
+London, UK / Open To Ideas... The World
+
+Employbl
+S19
+Unsuccessful
+Alameda, CA
+
+Kash
+S14
+Successful
+We live in Waterloo and Toronto now. We plan to return to Ontario after YC.
+
+Swelly
+W17
+Unsuccessful
+Los Angeles, CA / Los Angeles, CA
+
+Prolific
+S19
+Successful
+We're currently based in Oxford, UK. After YC, the company would be based in San Francisco & London.
+
+Streamplate
+W21
+Unsuccessful
+Sydney, Australia
+
+Learn Venue
+S18
+Unsuccessful
+New Delhi, India / New Delhi, India
+
+Virtually
+S20
+Successful
+New York, NY / New York, NY
+
+Cruise
+W14
+Successful
+SF.
+
+Mimir
+S15
+Successful
+West Lafayette and we aren’t sure where we want to be based after YC.
+
+Task Pigeon
+W19
+Unsuccessful
+Sydney, Australia / San Francisco, USA
+
+InEvent
+S19
+Successful
+We live in São Paulo/Brazil. The company will be based in the US: TX, CA, or NY.
+
+OpenPhone
+S18
+Successful
+Kitchener, Canada/San Francisco USA
+
+Paystack
+W16
+Successful
+Lagos Nigeria
+
+Buffer
+S11
+Unsuccessful
+We both live in the UK, Birmingham at the moment. We plan on moving the company to the US, Silicon Valley after YC.
+
+GitLab
+W15
+Successful
+The Netherlands, Ukraine (with employees in San Francisco), we don't know yet where will be based after YC

@@ -1,0 +1,44 @@
+
+Simula
+S18
+Unsuccessful
+$8,000/month
+
+CredCount
+S17
+Unsuccessful
+N/A
+
+bxblue
+S17
+Successful
+5.000
+
+Syllble
+W18
+Unsuccessful
+
+Goodly
+S18
+Successful
+500
+
+Code For Cash
+W18
+Unsuccessful
+5000
+
+Learn Venue
+S18
+Unsuccessful
+500
+
+Task Pigeon
+W19
+Unsuccessful
+1500
+
+InEvent
+S19
+Successful
+50,000

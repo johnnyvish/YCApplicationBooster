@@ -1,0 +1,288 @@
+
+
+Courier
+S19
+Successful
+I have been working on Courier since roughly New Years Eve; none of that time has been full-time. I go full-time on Courier starting this Monday, April 1.
+
+Athens Research
+W21
+Successful
+7 months, entirely full-time
+
+Parobyte Technologies
+Unsuccessful
+We have been working on tools for Corner Stores since Dec’20 and pivoted to this product in May’21. Two of us are working full time on this since then - 2.5 months. Abhijith has started full time from June end.
+
+MagicBell
+W21
+Successful
+About six months, of which the last month has been full time.
+
+Supernote (Metlo)
+S21
+Successful
+We had the idea ~3 weeks ago. Since then, we've done 15 user interviews and are on track to ship our MVP by 03/26 to our first few users.
+
+Akshay has been working on this full-time for 2 weeks. Shri has been working nights and weekends for the last 2 weeks and full-time for 2 days (all the PTO he could take right now).
+
+AthleteNet (FamilyLeaf)
+W12
+Successful
+We have not started building yet.
+
+Parsnip
+S21
+Unsuccessful
+I’ve been working on it since May 2020 about half-time and in December I started working on it full-time.
+
+derivative/d (Shotput)
+S15
+Successful
+~5000 lines
+
+One Month Rails (One Month)
+S13
+Successful
+I've been working on a web app since November and `rake stats` shows me 615 lines of code and 415 lines of test code.
+
+How far along are you? Do you have a beta yet? If not, when will you? Are you launched? If so, how many users do you have? Do you have revenue? If so, how much? If you're launched, what is your monthly growth rate (in users or revenue or both)?
+
+The web app is live – it allows users to sign up to access videos, lecture notes, tracks progress and generates certificates – and serves around 500 unique users per day.
+As we're still bootstrapping, all of our users come in and pay through other educational platforms like Skillshare, Udemy, General Assembly, and
+Appsumo.
+Upcoming features include payment processing through the app, multiple paths to build different kinds of apps, and the ability to see progress on a user-by-user basis.
+
+So far over 6,000 users have paid between $20-50 each to sign up and the feedback is incredibly positive.
+We've generated over $80,000 in revenue with almost no cost. When we opened up the most recent class, 3,000 paid users signed up in two weeks (40% growth week over week versus previously).
+
+Circles
+S21
+Unsuccessful
+We started as a project in January and went full time early Feb.
+2 weeks ago we've changed the idea from building a better Apple Health, to a coach in your inbox.
+
+MakeGamesWithUs (Make School)
+W12
+Successful
+As of October 2011, we have:
+-Begun contacting solo developers of promising but ugly existing apps on the app
+store.
+-Begun contacting artists willing to work with these developers for free and
+share revenue.
+-Begun development of a very simple game that we will publish with and without high-quality graphics, so we can accurately measure the impact of production value on sales.
+
+By December, without needing to build to full site, we will have tested the
+essence of our site: matching talented engineers with talented artists,
+publishing the results, and taking a share of the revenue.
+
+The Muse
+W12
+Successful
+Our beta site is up and running at http://www.thedailymuse.com with a minimum viable product based on attracting the userbase necessary to hit the ground running with our job products. We are launching our first career newsletter Wednesday with a paid placement by Uber and are working on the outlines for our predictive job products.
+
+Lollipuff
+W13
+Successful
+The proof of concept evolved from a blog (HerveLegerObsessed.com), which was started in January 2011. The new effort (automated, multiple designers, own brand) started in late-June 2012.
+
+Our Django application has ~5 kloc python (application code), ~1 kloc javascript, and ~3 kloc HTML / CSS. We also rely heavily on several third-party open source libraries.
+
+YogaTrail
+S14
+Unsuccessful
+We've been working on YogaTrail full time for over two years, and the site has about 16,000 development hours in it.
+
+bxblue
+S17
+Successful
+About 12 months. Full time.
+
+Pic ur Photo
+S19
+Unsuccessful
+I first came up with the concept in June of 2018, and we’ve been working on it fulltime for the last 7 months.
+
+Syllble
+W18
+Unsuccessful
+Both of us have full-time jobs so we have been focusing part time on this endeavor in the afternoon and during the weekends.
+
+80,000 Hours
+S15
+Successful
+We started working as volunteers in November 2011. Since July 2012, we’ve had about three full-time staff on the project. The latest version of our website has 20,000 lines of code and our prototype app has 700.
+
+Goodly
+S18
+Successful
+We quit our jobs at Rippling four weeks ago to work on this full-time.
+
+Apptimize
+S13
+Successful
+We started in January, and Apptimize is currently ~8K lines of code (not including libraries, html, or css) and works end-to-end. The frontend is JS, CSS, and Angular. We’re on EC2 mainly using PostgreSQL, nginx, and Netty/Java.
+
+Bubblin Superbooks
+W18
+Unsuccessful
+arvin has been full-time on it for over two and half years. Sonica has joined full-time since July of 2018.
+
+PMAlerts
+S21
+Unsuccessful
+I built the first version of PMAlerts as a console app in Q1 2020. I started taking it seriously in Q4 2020. This has been part-time, as I'm currently employed by Microsoft.
+
+Pet Story
+S19
+Unsuccessful
+We’ve been working on Pet Story for 6 months. Ryan has been full time since January 2019. Luis will be full time at the beginning of April.
+
+Code For Cash
+W18
+Unsuccessful
+I’ve been working on this part-time since December 2016, supplementing my income with freelance programming jobs (dogfooding the system).
+
+Mattermark (Referly)
+S12
+Unsuccessful
+We've been working on this for about 3 weeks, most of the research is in spreadsheets rather than code at this point. We've written 663 lines of code for scrapers and crawlers to pull various data and process
+it.
+
+Standard Treasury
+S13
+Successful
+Pre-development. We've incorporated. I'm still at Stripe. Dan's still at Giftly. It didn't make sense to start until one of the banks signalled a willingness to sign a commercial agreement as their was nothing to integrate with. Ready to start now. Raising money because of non-trivial commercial and regulatory costs. Far along with recruiting the rest of the early team and considering raising a seed round.
+
+VEED
+S19
+Unsuccessful
+In total, we have been working on this for just over a year.
+
+However, we have been working on this exact iteration of the product for the last 5 months after pivoting into the current iteration.
+
+The first 9 months were spent experimenting with different ideas, getting the feel for the market, iterating and testing MVP's and getting feedback from our users. Everything we have learnt in the first 9 months helped us get to where we are today.
+
+We are currently completely bootstrapped and have been working evenings and weekends while contracting for the last 5 month. As of April 2019 we are both moving back into working on VEED full time, with another 8 months of runway and lots of interest from potential investors.
+
+Employbl
+S19
+Unsuccessful
+I had the idea and registered the domain name back in 2016 when I was a technical recruiter at a recruiting agency in San Francisco! It was a side project that landed on the front page of hacker news back in July. That was exciting for about two seconds. I’ve been working on this full time for about a month.
+
+Kash
+S14
+Successful
+We’ve been working on our product for nearly 18 months. We’ve written just over 80,000 lines. We’ve processed 179,156 transactions already.
+
+Swelly
+W17
+Unsuccessful
+since March 2015; 150k loc
+
+Prolific
+S19
+Successful
+Both of us have been full-time only the last 8 months and part-time (during PhDs) for the preceding 4 years. We've effectively used our PhD programs as incubators to get Prolific off the ground.
+
+Slite
+W18
+Successful
+Full-time, I have hard times being part-time on something ?
+
+SketchDeck
+W14
+Successful
+We have paying clients, for whom Chris manually converts sketches to slides. David is coding an iPad interface to automate this ‐ it's currently a small codebase (< 1,000 lines) David has previously worked on a number computer vision projects before with applicable technologies. David also wrote 15,000 lines of code last year for our previous startup, Datoral.
+
+Streamplate
+W21
+Unsuccessful
+I had the idea in 2016 when I was working in filmmaking as a writer/director. I realised the potential of a personalised food ordering app and decided to teach myself programming, enrol in Computer Engineering and Neuroscience at the University of Sydney and effectively work on the idea as much as possible since. I’ve been working full time on Streamplate since the start of 2020 having deferred the full year of university.
+
+Laitum
+W20
+Unsuccessful
+– I’ve been solo working on this since April to August 2020 (when I start putting together a team), and as I’m finishing my chemical engineering career this month, it’s going to be full time from now on.
+
+– But I can’t speak for the others, since we haven’t launch yet, some members have to work as a freelancers, but they’re compromised to turn it all into Laitum when we reach revenue/funding.
+
+Learn Venue
+S18
+Unsuccessful
+We have been working for almost 4 months together on this. The startup is, however, 2 years old and I along with other team members – most of whom have left – have been working on it before I boarded Nishchal as a Co-Founder. The idea has been pivoted 3 times in those 2 years. Nishchal and I both work full time on this startup and do freelancing for our expenses.
+
+Dendron
+W21
+Successful
+I left my full-time job at Amazon to work on Dendron. The first year was split between doing consulting work while working on Dendron. Starting February of 2020, I've moved to working full time on Dendron.
+
+Knowledge management has been a lifelong obsession of mine and I use Dendron to manage a corpus of +20K note
+
+Virtually
+S20
+Successful
+I’ve been full-time since leaving my software engineering role at Facebook in March of 2019. Since then, the company direction has changed 2–3 times after valuable insight from customers until eventually settling on this iteration in mid-November, 2019.
+
+Cruise
+W14
+Successful
+We have been working for about two weeks (started roughly mid October).
+
+Mimir
+S15
+Successful
+1 year and ##k lines of code
+
+Task Pigeon
+W19
+Unsuccessful
+I have been working on Task Pigeon for over 18 months now. During this time I have worked full time hours on Task Pigeon each and every week but do still hold down another job (with the view to go full time on Task Pigeon ASAP).
+
+I understand that this is often not viewed favorably but I would argue that I put in just as much if not more effort than the majority of founders out there. I have sacrificed a lot to ensure I have the time to dedicate to Task Pigeon with early mornings, late nights and letting go of a number of hobbies/sports I previously pursued.
+
+Furthermore deciding to retain my job for the time being was a conscious decision I made. Having that income allowed has me to invest more in Task Pigeon and ultimately provides an endless runway of funding so that I can continue to test and iterate where required in order to achieve our ultimate goal of empowering individuals and teams to get more done each day/week.
+
+InEvent
+S19
+Successful
+Full time for 4 years, all 3 founders. We will hit 5 years on November 4th, 2019. We have a commitment to work on this at least until 2030 or 1 billion in revenue, whichever comes first.
+
+Flex
+S16
+Successful
+I’ve been working on FLEX for over 1 year. Our product is fully designed and ready for manufacturing. We have a supplier contract drafted and we’re currently working to close with a North American contract manufacturer.
+
+In April, we launch preorders
+In September, we ship to customers
+In 2017, we expand to retail
+
+Simple Habit
+W17
+Successful
+We've been working on the company for 8 months (since February 2016). We have ~40k lines of code for all our platforms combined.
+
+Seeing Interactive (Own Local)
+W10
+Successful
+7 months and 2834 lines of Ruby, SQL and sh, plus a large but uncounted volume of HTML templates.
+
+Paystack
+W16
+Successful
+Since Nov, 2014
+
+Buffer
+S11
+Unsuccessful
+We have been working on Buffer since October 2010. We have a fully functioning product which we are shouting about.
+
+GitLab
+W15
+Successful
+Since 2011, over 10,000 commits, see http://contributors.gitlab.com/
+
+Dropbox
+S07
+Successful
+3 months part time. About ~5KLOC client and ~2KLOC server of python, C++, Cheetah templates, installer scripts, etc.

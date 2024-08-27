@@ -1,0 +1,457 @@
+
+Courier makes it easy to add multiple channels for user notifications. Think of how Slack or Twitch intelligently route notifications to the right medium - if you're active in your browser it shows it via browser push, if you're idle it'll send it to mobile push, or it can always fall back on email. Courier also makes it easy to add emerging notification channels like notifying users within their own Slack organization, via your instance of Intercom, or over a messaging channel like WhatsApp. Finally Courier can further reduce engineering costs by delivering out-of-the-box UI kits for managing notification preferences and subscribing to content.
+
+Athens Research
+W21
+Successful
+- Notetaking app with bi-directional links and block references, which improves users' ability to create and retrieve associations.
+- Particular focus on individuals and enterprises that desire security, privacy, and greater power over their data.
+
+Parobyte Technologies
+Unsuccessful
+We are building a platform for Corner Stores to search and order SKUs that are stocked-out at the time and get them delivered in <2 hours. It works on an asset light model with partner warehouses and partner logistics. Our tools would optimize SKU assortment, warehousing, and logistics. Our product will help in preventing the 15% sales loss that corner stores suffer due to stock outs.
+
+MagicBell
+W21
+Successful
+MagicBell is an out of the box, notification system with multi-channel delivery. Notifications are created via the API and the embeddable notification center can be fully customized to match your product's UI and UX. Companies with existing email notifications can simply bcc them to a project-specific email address to roll out MagicBell to their users within 30 mins. You can think of it like a smart router for your company’s notifications to your customers.
+
+MagicBell enables you to think in terms of users and respect their notification preferences, instead of being bogged down by the complexity of understanding platform APIs for different channels.
+
+Simula
+S18
+Unsuccessful
+We’re making the world’s first VR Linux distro, runnable as a standalone OS on any Head-Mounted Display (HMD) or VR/AR-equipped computer. We’re doing this because we believe the following:
+
+(T) Most people think that the future of VR is in games and entertainment, but it is also in office work; in particular, VR is going to replace screens and laptops.
+
+Because of (T), the VR industry is too biased towards Windows (where PC games are traditionally deployed); moreover, nobody is thinking about how VR can be optimized for (i) clear text resolution and (ii) having multiple 2D and 3D apps simultaneously running in a shared workspace.
+
+The product will work like this: simply plug in your headset, install our OS (or its window manager), and all of your existing 2D and 3D Linux applications will float in a shared work space (3D applications reside in either “cuboids” or “2D portals”, as shown in our demo). This will give users unlimited virtual screens (of any size), crystal clear text resolution (something the OS will be optimized for), and Linux. Initially, the OS will be able to run on any VR ready computer, but our ultimate goal is for manufacturers to be able run it as a standalone OS on their own HMDs (which increases our distribution upper bound; see below).
+
+1. Value proposition for consumers: A distraction-free, highly immersive and unlimited VR workspace that is 10x better than using physical screens. Literally: users can have 10x as many screens as they currently do. Each of these screens is more than 10x cheaper (i.e., free) than any physical alternative. A VR headset is even 10x smaller than a multi-monitor setup, and can fit in a bag.
+
+2. Value proposition for HMD manufacturers: A free and open-source VR OS they can modify and deploy on their headsets without having to pay Microsoft for any licensing fees.
+
+Something analogous to (2) held for Android in the late 2000s. During this period, Apple was closed off to smartphone manufacturers, while Microsoft’s mobile platform had expensive licensing fees and closed-source barriers to the hardware. This created an opportunity for a Linux-based OS to take off – an OS which is now installed on over 1.5 billion devices. In this sense, Simula wants to be “Android for VR”.
+
+AthleteNet (FamilyLeaf)
+W12
+Successful
+A website builder for sports teams/leagues. The first feature we will build is an about.me for athletes. We will focus on on the experience of creating and viewing individual athlete profiles and use the data collected from profiles to help coaches better manage teams.
+
+Parsnip
+S21
+Unsuccessful
+Imagine learning another language by reading Harry Potter in French, Haruki Murakami in Japanese, or watching Breaking Bad in German.
+
+My product, Parsnip, is an e-book reader (and later media player) with integrated definitions, conjugations and other references so you don’t need to jump back and forth looking things up. It also tracks the words you’ve seen or looked up and automatically creates and schedules review activities ensuring you don’t forget new words. You get the references you need, when you need them and the reviews ensure that you don’t forget what you’ve read.
+
+This is much better than the alternatives like:
+- sticking it in google translate and hoping it’s good enough or
+- writing new words down in a notebook and hoping you can find it in a dictionary.
+
+Then adding the words you found to a flashcard app which can’t tell that two cards both have the word ‘run’ on them.
+
+To begin with Parsnip will target intermediate and above language learners. There is currently nothing targeted at them. Initially, Parsnip will use text based content and later expand to include audio, video, and comics.
+
+derivative/d (Shotput)
+S15
+Successful
+Stripe for managing Supply Chains. We handle the post-manufacturing supply chain to the customer for small to mid-size product companies by connecting directly to manufacturers.
+
+We have developed a standard process to manage the supply chain for many product companies and allow for some flexibility during key points of the supply chain.
+
+CredCount
+S17
+Unsuccessful
+An analytics platform, backed by data science and machine learning, used to infer the credibility of events in real-time.
+
+One Month Rails (One Month)
+S13
+Successful
+A 30-day online crash course in web development.
+
+Circles
+S21
+Unsuccessful
+We are making an AI Coach that helps busy people to deal with stress and anxiety. We are starting by improving your sleep. The Circles coach is built on top of Apple Health etc. and asks you daily questions to help set goals, reflect and improve.
+
+MakeGamesWithUs (Make School)
+W12
+Successful
+1. We will build a matchmaking website that allows engineers and artists to make mobile games together. We will automate contracts and revenue share eliminating the need for business and legal knowledge. We will provide teams formed on our site with a workspace similar to Elance's or Odesk's.
+2. We publish the games created through our site. Unlike traditional game
+publishers (Zynga, EA, Chillingo), we can grow our catalog quickly and
+inexpensively. Every additional game we publish costs us less and less to
+promote as the strength of our cross promotional network grows.
+Our value proposition to engineers: we help you find an artist, promote your
+game better than you ever could, and you worry about nothing but code.
+Our value proposition to artists: we help you find projects to work on, give you finished projects to put on your portfolio, and help you share revenue with engineers you work with.
+
+The Muse
+W12
+Successful
+The Daily Muse is building a massive community of job-­seeking women to rival The Ladders. We curate high cache job opportunities across fields that reflect the varied interests of today's professionals: finance, start­up, tech, media, fashion, and global public health, just to name a few. In addition to pay-to-­post career opportunities, we offer smart content and soon to be ­launched professional development courses. We want to corner "career" for professional women.
+
+Lollipuff
+W13
+Successful
+Lollipuff is an online auction site dedicated exclusively to *authentic* designer clothing and accessories.
+
+Our site uses unique safety precautions and processes that result in buyer and seller confidence. For instance, we developed a unique technique (patent in the works) to verify item’s authenticity and the seller’s physical possession of it. This technique is used in conjunction with humans.
+
+YogaTrail
+S14
+Unsuccessful
+YogaTrail aims to be the "Tripadvisor for Yoga" - we're a global yoga directory with 50k+ yoga providers around the world at the moment (the site has been live since last summer), aiming for 1 million.
+
+Our current business model is "freemium', where yoga pros can pay to get extra visibility on the site, in our newly launched mobile app, and in newsletters. Revenue has been doubling monthly since the new year, and we expect to be profitable at the end of April.
+
+Proxino (Taazr)
+S10
+Successful
+Taazr detects bugs in live web applications through statistical inference.
+
+Think of a web application as a black box, with its inputs as HTTP requests and its outputs as HTTP response data. After a client instruments her web app with our javascript, Taazr will collect request/response data to build a model of expected behavior. When an “anomalous” response is detected, we notify our client, sending along details about the potentially faulty request/response pair.
+
+bxblue
+S17
+Successful
+We are making a platform where users in Brazil can compare, choose, and get an online payroll-deductible loans in under 20 minutes, rather than the typical 3–4 business days offline. Today, it’s a USD 80+ billion dollar market only in Brazil, representing 60% of all personal loans — and no online platforms are approaching it.
+
+Payroll-deductible loans works like that: the employee presents a salary deduction form from a bank authorizing the employer to deduct a monthly sum from the employee’s salary and pay it over to the lender. So, the employer starts making the authorized deduction, the loan is repaid and everyone goes their merry way. It is very popular because it is the cheapest personal loan available in the country, up to 10 times cheaper than credit card and other personal loans.
+
+Other characteristics of this loan are:
+- 92% of the market is focused on people who have stable incomes, such as retired people and public servants, who acquire job stability after 3 years of employment;
+- Users can get multiple loans, which can sum up to 35% of their monthly salary and pay it back in 96 months;
+- There is no need for credit scoring. If the sum of one’s monthly instalments is less than 35% of his monthly salary, he is good to go.
+
+It represents a HUGE market that grew 20% last year, while Brazil’s economy shrunk 1%. We are bringing speed, convenience and transparency to this market. It is impossible to overstress the importance of payroll-deductible loans in sustaining the level of consumption in Brazil. It need to be fixed. We are doing it.
+
+Pic ur Photo
+S19
+Unsuccessful
+Pic ur Photo is a visual photographer booking platform. It’s a curation of the best photo locations, where we place photographers in 3-8 hour shifts that are split up and booked out for quick 30 minute minishoots.
+
+The photography industry has barely adapted to the cell phone age. Professional photography is a difficult, expensive process that’s generally unattainable on a regular basis. 70% of social media users, LinkedIn Members, and business owners want better photos. That number continues to grow, but alternatives to the traditional model have failed to change materially from what existed 20 years ago.
+
+Pic ur Photo users search for inspiration on the platform. They browse locations, styles, and moods for a look and book a photoshoot in the same location as their favorite photos. Our peeps (aka customers) only pay for the photos they want to keep, and shoots are so fun, people tell us they forget we’re even taking pictures.
+
+Syllble
+W18
+Unsuccessful
+Through our Collab-Room MVP:
+We are connecting writers with ideas to create original content that is publishable. Connect original content to online reader audiences and connect established writers to business and interested filmmakers to create television shows, animation, movies and signature stories.
+
+80,000 Hours
+S15
+Successful
+We help graduates choose careers that make a difference. Currently we provide an online career guide and one-on-one coaching. In order to serve more users, we’re building a web app to automate parts of our coaching process. It will show users how to compare their options in terms of impact, and recommend high-impact paths they may not have though of. Afterwards, they'll receive personalized advice from our career coaches. Our users get the meaningful career they want, and society benefits because more talent goes to the most pressing social problems.
+
+Spreadsheet Magic
+S14
+Unsuccessful
+Programming system that uses direct manipulation and visualisation of data.
+
+Spreadsheets + Zapier (https://zapier.com)
+
+Infinite canvas (similar to Apple Numbers or earlier Trapeze).
+
+You drop data sources (like JSON web service URL) directly on it and see data in table.
+
+You can filter and group data in the table.
+
+You can process data using formulas by adding new cells to existing tables or even by creating new tables on the same canvas.
+
+You can change the view of data from table to some chart or other custom visualiser at any step.
+
+You bind UI elements and graphic objects to table cells to make user-facing interfaces / visualisations.
+
+You bind “robots” to table cells to do output data, i.e. to send e-mail, to post data to some web service, etc.
+
+You mark what elements on canvas should be published and app is generated from that.
+
+I’d like to make a better tool for programmers (for certain types of projects) and make it easy to integrate with existing programming systems using simple API.
+
+It should act as a lever and make big class of products easy to prototype compared to traditional programming languages.
+
+Goodly
+S18
+Successful
+Goodly makes it easy for employers to offer student loan repayment benefits. Our platform allows employers to make monthly payments directly to employees' student debt. Similar to a 401k to pay down student loans.
+
+Offering student loan benefits as an incentive for recruiting and retaining top employees and to foster diversity and inclusion has become increasingly essential for employers. Student loan benefits rank as one of the most desirable employee benefits for millennial and gen z employees.
+
+When we looked at existing options, it was clear that the market does not have a great solution for employers that want to offer student loan benefits. Current options are difficult to implement, expensive, and have limited resources for employees.
+
+Goodly will:
+Benefits administrator: implement plans, enroll employees, verify student loans, and facilitate payments.
+
+Improve workplace diversity:
+- Women hold two-thirds (66%) of all student loan debt
+- Black and Latinx Americans have 31% higher student loan debt
+- LGBTQ community holds significantly higher debt on average
+
+Apptimize
+S13
+Successful
+Apptimize lets you AB test mobile applications. You keep the native experience without needing to push changes blindly or rely on users to update. There’s a web interface to manage experiments, and a WYSIWYG interface for non-programmers. Apptimize removes the pain of designing a controlled experiment, serving variations, collecting results, and calculating statistical significance. Right now you have to be a developer and statistician to AB test a mobile app, but we make it so that non-programmers can AB test too. Apptimize makes optimization as easy for mobile as it is for web. Apptimize technology could transform the process of testing and pushing changes and be integrated into 100% of apps.
+
+Trestle
+W19
+Unsuccessful
+People working together is what drives companies, and Trestle is how they’ll know who they should be collaborating with, how to work with them best, and who the experts are for any given task. As organizations grow close to and past Dunbar’s number (150 people), it becomes nearly impossible for people in the organization to know who each other are. Employees are often put into situations where they don’t know the people in their next meeting, they don’t know the right person to talk to for help with a task, and they don’t even know that much about the people who work right next to them. Trestle is a website that connects people within companies. Each company has their own Trestle “homebase”, similar to a Slack workplace. Inside of a Trestle homebase, each employee gets their own personal page that allows them to share their name, picture, best ways to contact them, a short bio, areas of expertise, past projects, where they sit, and much more. Trestle homebases also act as a hub of company-wide happenings, the frontpage containing a company calendar with upcoming events, birthdays, anniversaries, plus recent announcements and new hires.
+
+Bubblin Superbooks
+W18
+Unsuccessful
+We're building a website where people love to come to read books. And share books with friends freely. Readers can connect with each other, offer insights, discuss and be a part of a well-read, calm and level-headed community.
+
+PMAlerts
+S21
+Unsuccessful
+PMAlerts monitors social media for the things you care about - including (but not limited to) existing and prospective customers who are talking about your problem space.
+
+For example: if you're running YCombinator's Startup School, you might create an alert for "Startup School" to find and engage with people who are talking about the program on LinkedIn, Reddit, Twitter, HackerNews, ProductHunt etc.
+
+Here's an example alert: https://www.pmalerts.com/alert/%22startup%20school%22
+
+Use-cases include lead generation, topic monitoring, reputation management, community cultivation, customer service, and competitive analysis. Over 1,300 people have created alerts on PMAlerts, including employees of Microsoft, Apple, Twitter, and Pinterest. I have eight paying customers generating a total of $175/mo revenue as of 5/16/21.
+
+Code For Cash
+W18
+Unsuccessful
+We have software that matches freelance programmers with jobs. We’re bootstrapping the marketplace by scraping all freelance and remote/contract programming jobs that we find on the Internet. Our pattern-matching software applies metadata to gigs (on-site vs remote, full-time, part-time, project-based, etc.), and it falls back to our human data team in cases where the information can’t be inferred. We have one machine learning model (SVMs using uni-,2-,3-grams) but will have more to fully automate this once we have a bigger, well-labeled, structurally sound dataset. (I’m not a machine learning expert, so we leverage a SaaS for our machine learning, but I did take lots of college level math and also know the relevant essentials, such as Garbage In, Garbage Out).
+
+Mattermark (Referly)
+S12
+Unsuccessful
+The leading resource investors use to determine the health and value of private companies. This is the Bloomberg terminal for a growing pool of non-public companies receiving investment through platforms like FundersClub, AngelList and Kickstarter.
+
+Long term we could offer a data product in the Bloomberg/Dow Jones/Morningstar territory plus a media/analyst business competing with Gartner/Forrester. Both models have expensive subscription- based models paid for by enterprise customers.
+
+Standard Treasury
+S13
+Successful
+We are building APIs for commercial banking services by building on top of multiple large banks.
+
+If someone needs advice they can call Goldman. If they just need to transact then they can use one of our APIs. We will build commercial banking middleware that will sit on top of banks just like Twilio sits on top of multiple phone carriers. It is much easier because we'll have (mostly) RESTful APIs with good documentation, etc, and (if we choose) cheaper because of bulks rates.
+
+1) Delivered programmatically, using good APIs - Anything transactional shouldn't involved a human being. Most banks suck at technology and admit that. They're excited to have us resell their services.
+
+2) Narrow to start, but ultimately broad services - We want to abstract away the pain of dealing with banks for transactional services like ACH, F/X, wires, factoring, short-term loans, etc, just as Stripe, Braintree, and others have done for getting a Merchant ID. We are starting with ACH and F/X as foundational products.
+
+3) Multiple banking partners - We're willing to endure the pain of setting up commercial contracts with many banks and then offering the transactional services (via API) in an intelligently routed way. We've gotten verbal agreement from Wells Fargo, and are pretty far along with JPMorgan and Capital One. Will start with other banks shortly.
+
+VEED
+S19
+Unsuccessful
+We are building a simple online video editing platform for short-form content creators, marketers and brands.
+
+It is better than other tools because it is a collaborative cloud platform, that renders videos faster than your device (desktop or phone) and our tools are in line with today's production needs
+
+Our users love it because they don't need to install anything. It is accessible on the web. Also, users love UI's simplicity and ease of use, yet being able to do powerful edits.
+
+They use it because it is simple, saves them time and the video content they make helps them to engage their audiences.
+
+Our vision is to give everyone the ability to tell stories and create amazing content through a democratised set of digital tools.
+
+Employbl
+S19
+Unsuccessful
+Employbl is a subscription service to supplement the sourcing efforts of in-house talent teams. We focus on Digital Marketing and Engineering opportunities in the Bay Area for budding talent teams, Seed to Series C.
+
+Kash
+S14
+Successful
+Venmo for Brick & Mortar Retail, not just P2P. Credit card fees are the single biggest pain point for retailers and can eat up to 50% of their profits. With our initial product, we’ve reduced the number of credit card transactions for our retailers by nearly 25%.
+
+Regular ACH is slow to clear, so it doesn’t work in retail. To solve this we link bank account and a credit card to user’s phone. Retailers get paid right away after a purchase. If the money is not in user’s account, we put a hold on user’s credit card. Then we collect funds via ACH. If that fails, then we charge the credit card.
+
+We make money from retailers. We get users because retailers push our app to avoid credit card fees and because we offer users free P2P transfers and cash back on some purchases.
+
+Swelly
+W17
+Unsuccessful
+Swell is streamlined for asking questions and getting feedback.
+Snap 2 pictures, add a question, and receive the first opinions instantly (10 in <30sec) or help others by sharing your opinion using our native app or our bots for KIK, FB-Messenger, Telegram, etc.
+
+Prolific
+S19
+Successful
+We've built a marketplace that connects researchers (from both academia and industry) with instant, high quality, global research participants. On top of that, we've built infrastructure for research: Prescreening tools (from niche segments to nationally representative samples), user validation software (to ensure high data quality), and research tools (e.g., longitudinal functionality allowing researchers to follow up with participants over weeks or months).
+
+We're going to build (1) tools for data reuse (to reduce research redundancy and waste), (2) the infrastructure to experiment with different incentive structures (e.g., micro payments, bonus payments), (3) a mobile app so participants can earn money taking part in research from their phone, when convenient, and researchers can ask the right questions at the right time (e.g., contextual surveys based on location, time of day etc.), and (4) an API platform (so anyone can tap our trusted and diverse participants). We have several customers interested in plugging their experimental/survey software into Prolific to allow their customers to easily access participants without needing to manage their own audience product. The next scale.ai/usertesting.com could be built on top of the reliable participants we already have, allowing for an ecosystem of people-powered tools that wouldn't be built otherwise. Just like Stripe is the go-to financial infrastructure layer for most YC startups, we hope to be the go-to infrastructure layer for "human responses".
+
+Slite
+W18
+Successful
+Slite brings transparency and accessibility to your team’s knowledge through notes, much like Slack brought transparency to your communication with chat.
+
+SketchDeck
+W14
+Successful
+Some of the highest paid people in the world spend more than 20 hours a week making PowerPoint slides. Chris used to be one of them. There are many inefficiencies in this process. We tackle the two most important:
+
+1. Creating slides in powerpoint takes a lot of time and people loathe doing it 2. Creating good looking powerpoint slides is important, but hard to do
+
+SketchDeck is an iPad app that turns sketches into slides: this saves time and delivers better slides.
+
+Our long term vision is to become the de-facto platform for presentation creation on touch devices.
+
+Streamplate
+W21
+Unsuccessful
+We’re building a personalised food ordering app with tailored health tracking.
+
+Our app allows for pre-ordering, at-table ordering, split bills via Bluetooth, reservations, messaging, customisable health tracking and ways to earn money by creating events, curating menus/venues or serving meals from a home.
+
+Through web-scraping, we’ve indexed over 1 million venues from around the world and use order-forwarding to submit orders to venues that aren’t connected to Streamplate with pre-existing services like UberEats and DoorDash. This means that on the app, we allow users to order from not just cafes, pubs and restaurants, but also supermarkets, corner stores and gas stations.
+
+The idea is that when a user opens the app, they see what they want. Once our app has stabilised we’d like to consolidate our recommendation system to minimise the number of clicks a user has to make to “find” what they’re looking for.
+
+Laitum
+W20
+Unsuccessful
+We are building a community and an online educational platform for science and engineering students and professionals, where they can learn or relearn the basics of their careers and find advanced courses in their multiple branches of specialization, along with content for their personal, academic and professional growth. Initially, we will sell individual courses and move to a subscription model when we achieve a sustainable course production per month.
+
+Learn Venue
+S18
+Unsuccessful
+We are developing an AI-powered operating system, VisionOS, for low-cost security cameras that will enable them to detect objects such as people, vehicles, or animals in a live video.
+
+Today, these security cameras lack the ability to detect objects in a live video feed as object detection is computationally expensive and the low powered hardware of a security camera makes it impossible to do so.
+
+With our technology, the security camera will be able to run object detection on the device itself and in real time. Our technology is up to 62x faster than the state of the art methods.
+
+Dendron
+W21
+Successful
+We are making a note taking tool that lets users find notes in seconds, no matter how many notes they have.
+
+If you are familiar with tools like Roam and Obsidian, then you're familiar with Dendron. We provide the same functionality as the aforementioned apps but tuned for our custom hierarchical note taking engine. This engine lets users create notes using flexible hierarchies.
+
+These notes can be found again by searching their path in the hierarchy, a process we call "lookup". Through lookup, users can find any specific note in seconds no matter how many notes they have.
+
+These notes are stored locally on the user's file system and can be synced via tools like Git and Dropbox or Dendron's (upcoming) native cloud sync. Users are also able to publish all or a subset of their notes as a website where they can find their notes using the same hierarchical engine that they use locally.
+
+The current implementation of Dendron is an open-source, markdown- based, note-taking tool that runs as an extension inside VSCode.
+
+Virtually
+S20
+Successful
+We’re building tools to power online trade schools. With our software, anyone can build a “Lambda School for X” business.
+
+Primarily, we bring together the most important components of any modern online school: admissions, live conferencing, payment processing, student/community management, and income share agreement tracking.
+
+Cruise
+W14
+Successful
+Cruise builds a system that inexpensively turns your car into a self‑driving vehicle.
+
+We constrain the problem by using commodity hardware, proven algorithms and only solving 90% of driving scenarios‑‑we still leave the trickiest 10% up to you.
+
+The product is an aftermarket add‑on for certain vehicles that bolts on like a roof rack. It contains cameras, radar, GPS, and other sensors, and we plan to build these at a cost of under $3,000 per unit.
+
+Mimir
+S15
+Successful
+We are building a set of standalone Computer Science courses that can be deployed with a couple clicks into any of the 80% of high schools in America that don’t offer any Computer Science courses. Schools won’t need to hire any additional staff to run our courses, just provide their students access to computers. We take care of automated project/assignment grading, plagiarism checking, content presentation and analytics and grade generation for administration. Student will be taking our courses as if they were a class on their daily schedule. If a student does need personal attention or has any questions, we have instructors on our staff that they can live chat with. We call our product Mimir Classroom.
+
+Task Pigeon
+W19
+Unsuccessful
+Task Pigeon is a task management application augmented by an on-demand marketplace of freelancers to help individuals and teams get more done each day.
+
+With up to 40% of tasks that people add to their to-do list never being completed we need to move away from a world where software (i.e. Trello, Asana, etc) has just created better/different ways of writing things down, and actually help people get things done.
+
+Task Pigeon achieves this by augmenting our underlying task management application with an on-demand marketplace of freelancers so that individuals and teams can outsource tasks or projects that are at risk of being delayed or cancelled altogether due to internal time constraints.
+
+InEvent
+S19
+Successful
+InEvent is the Salesforce for events. Our end-to-end marketing solution simplifies trainings, events and travel logistics with cloud technology.
+
+InEvent is an all in one platform that allows you to use multiple solutions (website, registration, mobile app, hospitality, check-in, badge printing, budgeting, etc) altogether, without having to upload data 3-4x times on different pages.
+
+Everything is available on the cloud, 24x7, for you and your attendees. Most of our competitors have modules that don't talk with each other, we solved this by creating a solid foundation that all of our solutions are built upon.
+
+We have already successfully improved more than 12,400 events, ​boosting more than 2,390,000 registrations so far.​ We have integrations with Salesforce, Marketo, Oracle, Microsoft, and other vendors to create a simple, easy-to-use marketing ecosystem for all our customers.
+
+Flex
+S16
+Successful
+FLEX™ is a disposable feminine hygiene product. It’s shaped like a diaphragm, used for mess-free period sex, and can be worn in place of traditional menstrual products.
+
+The menstrual products we use today were created in the 1930’s. They’re uncomfortable, disruptive, and inconvenient. 91% of women say they want alternatives, yet the $15B market for feminine hygiene continues to grow.
+
+FLEX is worn internally, was designed for 12 hours of wear, and has the added benefit of mess-free period sex. It is disposable, is not linked to toxic shock syndrome, and is so comfortable, women tell us that they forget that they’re on their period when wearing it.
+
+Simple Habit
+W17
+Successful
+We built an iOS app that offers 5-minute meditations for life situations throughout the day. For example, meditations to reduce anxiety before a meeting, improve focus at work, and sleep better.
+
+Meditations are recorded by top meditation teachers from all over the world — we currently have over 100 teachers on our platform and are listened to by [redacted].
+
+Our goal is to build the world's leading platform for mindfulness and meditation content. We want to help millions of people learn to live more mindfully and be more resilient.
+
+Seeing Interactive (Own Local)
+W10
+Successful
+A local business directory sold through small-town newspapers. The goal is to integrate hyper-local community and business information into a format that users can trust in their small towns.
+
+The directory will be branded as the newspaper's own, allowing businesses to update their information, add photos, news, and daily specials. Consumers will be able to comment and review. Eventually businesses will be able to pick a domain name and template to have a full-fledged website with the ability to sell their products on the internet. Think the Yellowpages plus Yahoo! Merchant Solutions divided by Angie's List.
+
+By leveraging trust that small newspapers have with their local advertisers we will create a nation wide network of businesses that feels local.
+
+Meanwhile, we automate and streamline every news-delivery task that we possibly can. The eventual goal is to create an all-encompassing online suite of tools for small newspapers: we won't be happy until small, ailing newspapers are able to cut their workforce by 30%. Eventually we will provide the tools necessary to abandon print media altogether
+
+OpenPhone
+S18
+Successful
+OpenPhone is a phone system equipped with CRM capabilities, built from the ground up to fit the needs of small businesses.
+
+Through our mobile application, small business owners get a simple yet powerful business phone system with a dedicated phone number on top of their existing mobile devices.
+
+We are not just another phone system though. We start by owning the communication channel and then use that data to help small businesses communicate better and earn more money.
+
+Some of the values our product will offer are:
+
+Giving businesses full control over their phone system right from their mobile devices (personalized voicemail, greeting, business hours, etc)
+Enriching their texting experience with other interactions such as appointment scheduling, sending/requesting docs/signatures/payments and more
+Allowing them to share the responsibility of their business phone with their colleagues or partners
+Integrating with their existing systems to bring all communications and customer data to one place
+Helping them manage their relationships and close more deals
+
+Mixpanel
+S09
+Successful
+Mixpanel is a business intelligence service that helps improve online companies by tracking user interactions, engagement, and optimization avenues instead of just tracking page views.
+
+Paystack
+W16
+Successful
+Software and services needed for merchants in Africa to accept online payments from local and international customers. We provide a full stack APIs and we’ll securely collect, encrypt, transmit and store customer card information in a highly protected vault and offer continuous anti-fraud and charge back protection services.
+
+To make these happen we’ve partnered with Access Bank (the third Largest Bank in Nigeria) and we’ve built a PCI Compliant payments infrastructure and APIs.
+
+Buffer
+S11
+Unsuccessful
+Buffer is an application for Twitter which helps people Tweet consistently without spending all day on Twitter. All people do is put tweets into their Buffer, and the app schedules tweets for them during the day.
+
+We have started development on two core features: detailed analytics and a “Buffer button” for blogs. We make the sharing easier, and we make measuring the impact of your social media efforts easier.
+
+GitLab
+W15
+Successful
+We’re making open source software to collaborate on code. It started as ‘run your own GitHub’ that most users deploy on their own server(s). GitLab allows you to version control code including pull/merge requests, forking and public projects. It also includes project wiki’s and an issue tracker. Over 100k organizations use it including thousands of programmers at . We also offer GitLab CI that allows you to test your code with a distributed set of workers.
+
+Dropbox
+S07
+Successful
+Dropbox synchronizes files across your/your team's computers. It's much better than uploading or email, because it's automatic, integrated into Windows, and fits into the way you already work. There's also a web interface, and the files are securely backed up to Amazon S3. Dropbox is kind of like taking the best elements of subversion, trac and rsync and making them "just work" for the average individual or team. Hackers have access to these tools, but normal people don't. It's currently in private beta and I add batches of people every few days.
+
+There are lots of interesting possible features. One is syncing Google Docs/Spreadsheets (or other office web apps) to local .doc and .xls files for offline access, which would be strategically important as few web apps deal with the offline problem.

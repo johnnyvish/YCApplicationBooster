@@ -1,0 +1,134 @@
+
+Courier
+S19
+Successful
+Developer Tools
+
+Athens Research
+W21
+Successful
+Other
+
+Parobyte Technologies
+Unsuccessful
+Retail
+
+MagicBell
+W21
+Successful
+Developer Tools
+
+Supernote (Metlo)
+S21
+Successful
+Developer Tools
+
+Simula
+S18
+Unsuccessful
+Virtual Reality
+
+Parsnip
+S21
+Unsuccessful
+Language learning
+
+CredCount
+S17
+Unsuccessful
+Artificial Intelligence
+
+bxblue
+S17
+Successful
+Financial Services
+
+Pic ur Photo
+S19
+Unsuccessful
+Marketplace
+
+Syllble
+W18
+Unsuccessful
+Marketplace
+
+Goodly
+S18
+Successful
+B2B
+
+Bubblin Superbooks
+W18
+Unsuccessful
+Consumer
+
+Pet Story
+S19
+Unsuccessful
+Other
+
+Code For Cash
+W18
+Unsuccessful
+Marketplace
+
+VEED
+S19
+Unsuccessful
+Media
+
+Employbl
+S19
+Unsuccessful
+Recruiting/Talent
+
+Swelly
+W17
+Unsuccessful
+Community
+
+Prolific
+S19
+Successful
+Marketplace
+
+Streamplate
+W21
+Unsuccessful
+Marketplace
+
+Learn Venue
+S18
+Unsuccessful
+Artificial Intelligence
+
+Dendron
+W21
+Successful
+Other
+
+Virtually
+S20
+Successful
+Education / SaaS
+
+Task Pigeon
+W19
+Unsuccessful
+B2B
+
+InEvent
+S19
+Successful
+Enterprise
+
+OpenPhone
+S18
+Successful
+B2B
+
+Paystack
+W16
+Successful
+Financial Services

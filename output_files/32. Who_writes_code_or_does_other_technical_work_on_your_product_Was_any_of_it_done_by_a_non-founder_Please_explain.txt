@@ -1,0 +1,208 @@
+
+
+Courier
+S19
+Successful
+All technical work has been performed by myself.
+
+Athens Research
+W21
+Successful
+I do technical work on the product. We've had ~30 code contributors and ~5 design design contributors.
+
+Parobyte Technologies
+Unsuccessful
+Both Abhijit and Muneeb write the code.
+
+MagicBell
+W21
+Successful
+Hana (founder) is writing the code with Josue, core team member.
+
+Supernote (Metlo)
+S21
+Successful
+Both of us do all the work. No one else has worked on Supernote.
+
+AthleteNet (FamilyLeaf)
+W12
+Successful
+No.
+
+Parsnip
+S21
+Unsuccessful
+I have written all of the code myself.
+
+CredCount
+S17
+Unsuccessful
+Tanu wrote the code, setup the Turkers and has done all technical work on the project so far. Christian is finishing his undergrad at Georgia Tech and has about 3 total years of work experience in internship, co-operative and other part-time capacities. He’s comfortable reviewing all code for the project in its current form as it relates to AI and machine learning. Christian was also previously head of web development at the European startup Glovo (http://glovoapp.com). That said, all technology was developed by founding members.
+
+One Month Rails (One Month)
+S13
+Successful
+All code not written by me is open source.
+
+Circles
+S21
+Unsuccessful
+Phil writes code, Pete builds websites, designs chat-flows, app prototypes...
+All technical work was done by founders.
+
+The Muse
+W12
+Successful
+We brought Alec Turnbull, a close friend of mine and a great web dev, onto the team in June to build our minimum ­viable ­product. He's a great guy but in September we mutually decided that his heart wasn't in staying with us long term, so we've been helping him find his next move and he's been helping us interview developers. We have narrowed the field down to two highly awesome, amazing female developers, one of whom we would like to bring on as soon as we close a round. (We like male devs too! We just happen to be finding females at the moment).
+
+Lollipuff
+W13
+Successful
+No. Aside from open-source libraries (GPL, BSD, or MIT), all of the code was written by Travis or Fei.
+
+YogaTrail
+S14
+Unsuccessful
+Much of the code was written by our lead developer (Jordan), who's an
+employee (not a founder). The site is built on Drupal (open source).
+
+Pic ur Photo
+S19
+Unsuccessful
+Christian is our only developer.
+
+Syllble
+W18
+Unsuccessful
+N/a
+
+Spreadsheet Magic
+S14
+Unsuccessful
+No (except open-source)
+
+Goodly
+S18
+Successful
+Hemant writes the code and technical work.
+
+Bubblin Superbooks
+W18
+Unsuccessful
+We are both developers and write all our code.
+
+Pet Story
+S19
+Unsuccessful
+Both Ryan and Luis write code. Due to priorities, Ryan writes most of it while Luis has been focusing on other responsibilities such as pitches, P&L estimations, business plans, legal, and talking to users in the field. All of the code has been written by Luis and Ryan (excluding open-source libraries of course).
+
+Code For Cash
+W18
+Unsuccessful
+I write code and have programmed for over 20 years. I hire freelance programmers (often through searching the Code For Cash database) and pay them as independent contractors. I’m capable of personally handling all the necessary tech; it’s simply a matter of scaling my time.
+
+Mattermark (Referly)
+S12
+Unsuccessful
+No (Not done by a non-founder)
+
+Standard Treasury
+S13
+Successful
+No. (Our code was not written by a non-founder)
+
+VEED
+S19
+Unsuccessful
+We both write code, but Sabba focuses on growth, marketing and design. Tim writes most of our front end and back end code. Maté Nagy is an amazing freelancer who works part-time with us and focuses on our render engine and graphics programming.
+
+Employbl
+S19
+Unsuccessful
+I write the code and built the website.
+
+Kash
+S14
+Successful
+Yes. We have two employees that work full time on the company. They are both University of Waterloo alumni and DannySu has known them both for over 10 years. All of our code is covered by proper legal agreements. (CanadaKaz is a lawyer.)
+
+Swelly
+W17
+Unsuccessful
+yes, by 2 employees. They signed contracts and all IP belongs to the company.
+
+Prolific
+S19
+Successful
+100% of our code was written by my co-founder (Phelim) and the four engineers we've hired (all still employees). No work was done by anyone outside the company. Phelim built the entire MVP, and we've hired using revenue to date.
+
+Slite
+W18
+Successful
+Christophe kicked off the first version of the project. The technical part of Slite is now lead by our 2 senior developers Pierre & Arnaud, both highly invested, while the product development is lead by Christophe.
+
+Streamplate
+W21
+Unsuccessful
+I’m the primary author of the codebase. I’ve received help from Kevork Mouradian and Lina Kim.
+
+Laitum
+W20
+Unsuccessful
+Although I use basic technologies such as HTML, CSS and JS, the platform was built with the BudyBoss theme and the LearnDash plugin on WordPress. These technologies allow us to have a 100% functional platform for the development of courses and social learning.
+
+Dendron
+W21
+Successful
+Kevin is the sole full time developer for the project
+
+Virtually
+S20
+Successful
+I was a previous Software Engineer at Facebook and write all our code.
+
+Cruise
+W14
+Successful
+No (it was not done by a non-founder)
+
+Task Pigeon
+W19
+Unsuccessful
+I know my chances of getting in are diminished when I say this but I have outsourced development work on Task Pigeon. Before you write that answer off entirely though let me explain further.
+
+I’m not one of those non-technical founders who doesn’t have a clue. I tapped into my network to make sure I was bringing on the right people and am extremely proud of my resourcefulness and ability to bootstrap Task Pigeon to where it is today. In fact I built our entire MVP for only $8,000 (and that included the cost of registering the company)
+
+I also consider myself a “semi-technical founder” I can have detailed conversations with my team and have learned enough HTML, CSS, Javascript and Node.JS to understand the inner workings of our application. To save costs I also have the ability to build the website/landing pages myself.
+
+The benefits I have of outsourcing is that I can be extremely cost efficient. Even $10,000 USD would allow me to significantly advance Task Pigeon from where it is today.
+
+InEvent
+S19
+Successful
+Our development team is composed of 5 people: 2 co-founders and 3 employees. All InEvent software belongs to InEvent as per our contracts with current and past employees.
+
+Flex
+S16
+Successful
+All code and intellectual property has originated from The Flex Company team members.
+
+Seeing Interactive (Own Local)
+W10
+Successful
+We subcontracted two developer friends to do some work for us, but we paid them for their time and we have contracts and releases saying the code is ours.
+
+Mixpanel
+S09
+Successful
+All code written thus far is safe to use based on the licensing.
+
+Paystack
+W16
+Successful
+Android library written by a contractor, but we have contracts already
+
+Dropbox
+S07
+Successful
+No

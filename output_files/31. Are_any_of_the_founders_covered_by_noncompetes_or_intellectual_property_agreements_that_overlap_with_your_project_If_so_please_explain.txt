@@ -1,0 +1,189 @@
+
+Courier
+S19
+Successful
+I am covered by a standard (for California / Bay Area) Inventions Assignment document for my current employer relevant to any competing technology, work done on company time, or on company resources/hardware until the end of this week. Starting this Monday, April 1 I am full-time on Courier and not covered by any IP agreement.
+
+Parobyte Technologies
+Unsuccessful
+No
+
+Supernote (Metlo)
+S21
+Successful
+No
+
+Simula
+S18
+Unsuccessful
+No.
+
+AthleteNet (FamilyLeaf)
+W12
+Successful
+No.
+
+Parsnip
+S21
+Unsuccessful
+No
+
+CredCount
+S17
+Unsuccessful
+No.
+
+One Month Rails (One Month)
+S13
+Successful
+I'm currently a growth hacking consultant at Quotidian Ventures in NYC (not under any noncompetes or IP agreements).
+
+The Muse
+W12
+Successful
+No, we will not be working as employees or consultants for anyone else, nor are any of us covered by noncompetes or intellectual property agreements.
+
+Lollipuff
+W13
+Successful
+Travis (beambot): I have been working at Lollipuff part-time (nights / weekends). My postdoc fellowship at Duke permits side work without IP restrictions. If we get accepted, I will resign from the fellowship and go full-time at Lollipuff. (No other employer / consulting.)
+
+Fei (bebefuzz): I resigned from my job in late June to found Lollipuff, and I’ve been working on it exclusively since. (No other employer / consulting.)
+
+Dave (dmohs): I currently work at Google (Boston offices). Pre-YC, I have not contributed to the project (code or otherwise). If we get accepted, I will leave Google to go full-time at Lollipuff. (No other employer / consulting.)
+
+YogaTrail
+S14
+Unsuccessful
+No
+
+Syllble
+W18
+Unsuccessful
+N/a
+
+Spreadsheet Magic
+S14
+Unsuccessful
+No
+
+Goodly
+S18
+Successful
+Nope
+
+Pet Story
+S19
+Unsuccessful
+No.
+
+Code For Cash
+W18
+Unsuccessful
+No.
+
+Mattermark (Referly)
+S12
+Unsuccessful
+No
+
+Standard Treasury
+S13
+Successful
+We both have CIIAA's that could cover this work.
+
+Dan's company is pretty far away.
+
+Zac declared this idea when he signed his at Stripe. He's asked Stripe for an IP waiver letter, or whatever it's called.
+
+(I also described this entire idea in a youtube video I sent to you in December before we didn't accept a late interview, so...there is a lot of documentary evidence that I had this IP before Stripe).
+
+VEED
+S19
+Unsuccessful
+N/A
+
+Employbl
+S19
+Unsuccessful
+I am not covered by any noncompetes from my recruiting agency and I work on this full time.
+
+Swelly
+W17
+Unsuccessful
+no
+
+Prolific
+S19
+Successful
+No
+
+Slite
+W18
+Successful
+No
+
+Streamplate
+W21
+Unsuccessful
+N/a
+
+Laitum
+W20
+Unsuccessful
+No.
+
+Learn Venue
+S18
+Unsuccessful
+Nishchal writes the code primarily for the on-device intelligence technology. We together research on it. Servers and designs are handled by me. We have one more team member (non-founder) who is developing the OS.
+
+Dendron
+W21
+Successful
+no
+
+Virtually
+S20
+Successful
+N/A
+
+Cruise
+W14
+Successful
+No.
+
+Task Pigeon
+W19
+Unsuccessful
+No
+
+InEvent
+S19
+Successful
+No
+
+Flex
+S16
+Successful
+None of the team is under an overlapping non-compete.
+
+Seeing Interactive (Own Local)
+W10
+Successful
+No. jnovek already works full-time for Seeing Interactive and lloydarmbrust will quit his current job when YCombinator starts. The YC money will be used to get lloydarmbrust running full time faster than we could just bootstrapping it.
+
+Mixpanel
+S09
+Successful
+No to both questions.
+
+Paystack
+W16
+Successful
+None
+
+Dropbox
+S07
+Successful
+Drew: Some work was done at the Bit9 office; I consulted an attorney and have a signed letter indicating Bit9 has no stake/ownership of any kind in Dropbox

@@ -1,0 +1,16 @@
+There will be two groups of application reviewers. 
+
+Each group consists of N separate LLM instances.
+
+The first group has access to:
+- our entire application
+- a specific question and all the answers to that question
+
+The second group has access to:
+- our entire application
+- The top 10 applications
+- a specific question
+
+Each group will go through our application one question at a time. 
+Every LLM instance will critique our answer and suggest an improvement. 
+There will be N critiques for each question in total, and a final LLM will compile all the critiques into one concrete answer.

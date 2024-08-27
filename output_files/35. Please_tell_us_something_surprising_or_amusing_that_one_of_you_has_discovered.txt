@@ -1,0 +1,304 @@
+
+
+Courier
+S19
+Successful
+When I incorporated Courier via Stripe Atlas in January, it was the middle of the government shutdown. Atlas uses Rocket Lawyer to file the necessary paperwork, including for your EIN. After some time it became clear that my EIN was taking longer than anticipated to arrive so I checked in with the folks at Stripe, who then checked in with Rocket Lawyer - turns out any 3rd-party agent registering an EIN on behalf of someone else must do so with the IRS via fax. With the government shutdown the fax lines were also down; I suppose there was simply nobody there to pick up whatever papers were arriving at the fax machine!
+
+Rather than wait through what was expected to be at least a multi-week delay after the government opened back up, I instead used the IRS website to apply for my EIN. It was free, took roughly 30 seconds, and the EIN document was emailed to me within a minute or two…
+
+Athens Research
+W21
+Successful
+I learn 100x more from founders than anyone else.
+
+Parobyte Technologies
+Unsuccessful
+In my eleventh grade, I (Jeff) used to toy with various equations in physics. Out of the blue, I decided to equate the RHS of Einstein's mass energy equivalence (E = mc2) and Plank's equation (E=hv). I ended up getting an equation: λ = h/mc. Without knowing much on what the equation would mean, I thought that it connected mass and wavelength in some way.
+
+Just a few months later, I ended up realizing in 12th grade that this is actually the de Broglie's equation on wave particle duality and the equation was derived in pretty much the same way. Although, it meant that I wasn't the first discoverer of wave particle duality, I did invariably come up with the concept unbeknownst to me that this is something that all physicists knew for many years. A discovery that I'm still proud of :)
+
+MagicBell
+W21
+Successful
+Restaurants and hotels spend an insane amount of money on electricity but obsess over keeping lights turned off in toilets. Who hasn’t found themselves in a dark toilet because the motion sensor flicked the lights off while you were doing your business? :)
+
+Supernote (Metlo)
+S21
+Successful
+1/ The vast majority of subscription revenue comes from people who forgot they were paying for a service and consumers’ willingness to pay for stuff is way higher than people give them credit for.
+
+2/ Paid marketing is a *much* better channel than people give it credit for. It often costs a heck of a lot more to get word of mouth growth and “organic” growth than it does to just use FB or Google Ads for customer acquisition. Few companies like Netflix, Wish and Spotify understand this deeply; most others just complain about CAC and give up quickly.
+
+Simula
+S18
+Unsuccessful
+If you want to listen to a book that hasn’t been converted to an audiobook, you can download its PDF and listen to it via Text-To-Speech engines, which have gotten surprisingly good over the past few years. Perhaps Voicery (YCW18) might even able to make these PDF audiobooks indistinguishable from human read audiobooks in the future.
+
+AthleteNet (FamilyLeaf)
+W12
+Successful
+Red Robin is one of many companies who don't realize gmail users can add a period (".") anywhere in their email address and it lands in the same inbox. And because Red Robin now offers new loyalty club members one free appetizer and a free burger every year on the month of their 'birthday,' gmail users can get several free appetizers and a free burger every month of the year (I am 6 down, and 6 to-go).
+
+Parsnip
+S21
+Unsuccessful
+I believe one of the first uses of music was to teach language to children. It combines everything needed not just how to say the words, but also correct pronunciation, cadence and emphasis. It even incorporates movement and to heighten memory.
+
+derivative/d (Shotput)
+S15
+Successful
+Have you seen how many bathrooms some warehouses have?? They have some of the highest densities of bathrooms in a workplace. One union negotiated a clause that every employee must be less than 90 feet from a toilet at all times.
+
+CredCount
+S17
+Unsuccessful
+Christian: I over analyze social settings a bit too much and over the years I’ve noticed just how much weight we give first impressions… With that, I always try and give strangers and new contacts the time of day/benefit of the doubt while attempting to be my best self in return.
+
+One Month Rails (One Month)
+S13
+Successful
+The Nike logo was designed in 1971 by a graphic design student for $35 (http://en.wikipedia.org/wiki/Swoosh).
+
+Circles
+S21
+Unsuccessful
+there are 3 kinds of quality: the technical meaning is 'according to specs', so Toyota beats Rolls Royce; Quality also means luxury, so a Rolls Royce to most people has higher quality than a Toyota. The 3rd definition is 'Creative Magic' which Is the one that matters: Hamilton beats West Side Story. (Source: [https://seths.blog/thepractice/](https://seths.blog/thepractice/))
+
+MakeGamesWithUs (Make School)
+W12
+Successful
+We recently found out that Trader Joe's sells the cheapest beer money can buy: Name Tag Lager. It turns out to be far more palatable than all the typical cheap college bears.
+
+The Muse
+W12
+Successful
+91% of women feel advertisers don't understand them.
+
+Also, honey badger don't care.
+
+Lollipuff
+W13
+Successful
+-- Scammers and fakers hate us. We helped uncover a scam ring (selling counterfeit designer clothes) that was honeypotting Google servers [1]. If we’re pissing off the scammers and fakers, we must be doing something right!
+[1] http://www.hervelegerobsessed.com/blog/2011/07/31/google-adword-loophole-anyone-can-redirect-ad
+
+-- Historically, Chanel bags have a stable rate of appreciation: 20% annually. This outperforms many stocks!
+
+-- Approximately 70% of Herve Leger dresses sold on Ebay are fake.
+
+-- Women think about fashion more than men think about sex [2]. (Travis & Dave: Seriously?!? Fei: Yep. Travis: Bummer.)
+[2] http://www.huffingtonpost.com/2012/06/08/fashion-study-online-2012_n_1580663.html
+
+Proxino (Taazr)
+S10
+Successful
+You can start small word-memes among family and friends. Choose a word that is fairly obscure (but not obviously so), something like pedantic, sycophant or obsequious. Over a few days, casually inject it into conversation.
+
+Listen throughout the next week. The word will come up with surprising frequency. You can also do this with unique inflections, and distinct rhythms of speech.
+
+Pic ur Photo
+S19
+Unsuccessful
+Sometimes, our “bad” shoots end up with the best sales.
+
+We’ve concluded that people are more willing to pay for experiences than they are photos. When the user scrolls through their gallery, it reminds them of an experience they had. A great time is harder to part with than great pictures. Not that ours aren’t great, but we prioritize personality over photography skills. Those skills can be taught, personality is harder
+
+Syllble
+W18
+Unsuccessful
+I have discovered that when I write fiction stories, characters within the stories often begin to take a life of their own and they almost take the lead in the direction that they want to go. You almost have to listen to them, understand their needs and why they do what they do to create the world around them. It reminds me of the process of listening to the customer.
+
+80,000 Hours
+S15
+Successful
+The eradication of smallpox in 1973 has saved five times more lives than world peace since that time would have done.
+
+Even if we assume that all foreign aid was completely wasted except insofar as it caused the eradication of smallpox, it would still have saved a life for every $40,000 spent.
+
+Spreadsheet Magic
+S14
+Unsuccessful
+I’m programming for more than 15 years, but most debuggers in use still cannot even display array of values in a decent way (not to mention visualising data).
+
+Goodly
+S18
+Successful
+Recent college grads in the Bay Area without student loan debt will spend 12 years saving for a home. Recent college grads with debt will spend 27 years to do the same.
+
+Apptimize
+S13
+Successful
+People think it’s red, but no one knows the best button color.
+
+Bubblin Superbooks
+W18
+Unsuccessful
+Physical books are not files. Files belong to bureaucracy. Books belong to children (or the child within us). Books are about creativity, about counter-culture and overthrowing rotten ideals of our society. Files are about encoding those rotten ideals and forcing them on us.
+
+So why should an e-book book be a file at all?
+
+Food for thought: Do files masquerading as e-book pass the Occam's Razor? Is the reader of the future expected to understand words like file, format, device, disk, compatibility or OS?
+
+PMAlerts
+S21
+Unsuccessful
+Alerts for "app sucks", "app blows", "shitty app", etc is a fun way to find problems that need solutions.
+
+Pet Story
+S19
+Unsuccessful
+- There were about 1.1 million pets living in NYC. That is almost the same as the population of Oakland and San Francisco combined
+- There are more dogs(130K) than children(110K) living in SF
+
+Code For Cash
+W18
+Unsuccessful
+Most programmers work as w2 rather than 1099 employees because of a 1986 tax reform act that threatens to (at the IRS’s whims) tax employers as if their 1099 programmers are w2 employees. Congress suspected that programmers were using their companies as tax havens, but studies show that programmers are actually more scrupulous than average when it comes to IRS reporting. The freelance programming economy is growing in spite of this (since software is eating the world), but many companies have an institutional memory from this 1986 law (which is still a threat) and prefer w2 or c2c arrangements.
+
+Mattermark (Referly)
+S12
+Unsuccessful
+Andy wants to go to the moon or Mars one day, and he's fine with a one-way ticket.
+
+Standard Treasury
+S13
+Successful
+"The failure, if it was one, lay in the fact that, having too much to hold on to, they slowly lost what they had. On the whole, it was those who had least who were able to move most freely to the new world which was coming into existence." --That reading The Making of the Middle Ages can make you think of everything from startups to the state of America in the world (this happened in December)
+
+VEED
+S19
+Unsuccessful
+There was more time between the Stegosaurus and the Tyrannosaurus Rex than between Tyrannosaurus Rex and you right now.
+
+Employbl
+S19
+Unsuccessful
+The most confident candidates after the interview never gets the job.
+
+Kash
+S14
+Successful
+Americans, each year, write roughly 25 billion checks. They use their credit cards roughly 22 billion times. While the number of consumer-to-business checks is going down, the number of consumer to consumer checks is going up. American consumers write on average 2.5 billion checks to each other each year.
+
+Swelly
+W17
+Unsuccessful
+Men in 2016 have 70% less testosterone then in World War 1.
+
+Prolific
+S19
+Successful
+Did you know that most claims about human psychology and behavior in the world's top journals are based on WEIRD samples (i.e., from Western, Educated, Industrialized, Rich, and Democratic societies)? This is a big problem as you can't generalize most findings to the broader population or to other countries!
+
+Slite
+W18
+Successful
+As I was working on a previous side project & getting into deep learning methods, I discovered the Word2Vec Libraries. Those are the equivalent of image recognition algorithms for text, and go way further: they let you modelize words in such a way that sentences and their meaning can be mathematically explained.
+
+For instance, it will give you in output : Obama = Poutine + US - Russia
+
+That's not by chance I chose this example, at some point this algorithm could create a lot of intelligence within your Slite usage.
+
+SketchDeck
+W14
+Successful
+It turns out that if you vaporize alcohol into fog, it becomes a lot more fun. From inhaling just milliliters of the fog, one becomes light headed and tipsy. Furthermore, you can create flavored aromatic cocktails by crushing herbs into a glass, then passing the vapor over them and inhaling. I plan to incorporate this into a piece of immersive theatre.
+
+Streamplate
+W21
+Unsuccessful
+I think people are a lot more comfortable being with someone that’s consistently truthful even if that means they sometimes hear things they don’t like.
+
+Laitum
+W20
+Unsuccessful
+– I discovered that the state of the art in this sector is so bad (at least in Latin America), that I got to receive recommendations for courses taught with zoom with organic compounds drawn freehand in PowerPoint.
+
+– Combine good content + good production and it will be mindblowing.
+
+Learn Venue
+S18
+Unsuccessful
+Founderspeak – /faʊndə-spik/, noun
+
+Speech used by founders to get the attention of people and investors at large with an ulterior motive.
+
+“I’m not looking for money, just your feedback.”
+Translation: I need your money.
+
+“We have 100s of organic sign-ups.”
+Translation: We forced 100s of people to sign up.
+
+Virtually
+S20
+Successful
+N/A
+
+Cruise
+W14
+Successful
+I spent a week as a tourist in Iceland and never had to touch a piece of physical currency. It was amazing. Everyone took debit cards.
+
+Yet I still have to fumble through my pocket for some wadded up dollar bills to get across the Bay Bridge.
+
+Mimir
+S15
+Successful
+The word sonder from The Dictionary of Obscure Sorrows. It is the realization that everyone you see on a daily basis has a life just as complex as your own. Not something you really think about.
+http://www.dictionaryofobscuresorrows.com/post/23536922667/sonder
+
+Task Pigeon
+W19
+Unsuccessful
+The limit of human potential is something we all underestimate. Six years ago I read the story of Pheidippides who ran from Athens to Sparta (a distance of 153 miles) to seek aid in fighting the invading Persians.
+
+He is said to have run the distance in a day and a half or 36 hours. This run had never been replicated until 1982 when five Royal Air Force officers attempted the course. Three of them completed it, proving it could be done and the following year a competition was born.
+
+Today the course record stands at 20 hours and 25 minutes, but it was the original story that propelled me to take up the sport of ultrarunning myself (since put on hold to focus on my startup). While I haven’t completed a 153 mile race I have competed in numerous 24 hour endurance events and 100km trail runs. Each and every time I believe I have learned something new about myself, as well as the power of perseverance and commitment to a goal or cause.
+
+InEvent
+S19
+Successful
+I had an issue when ordering sushi rolls from Japanese bars. I wanted them without cream cheese. It was hard. I got in trouble sometimes. People said they could not "customize food" for me. So I discovered a trick. I started saying I was allergic to cream cheese. It solved the problem. How you sell is very important. Keep trying until you make it.
+
+Flex
+S16
+Successful
+I’ve always gotten yeast infections for a full week after my period when using tampons, and I learned through speaking with hundreds of women that many have the same issue; a dirty secret tampon companies and women themselves don’t talk about.
+
+After using FLEX many women — including Erika and I — no longer get post-period yeast infections.
+
+This isn’t so much amusing as it is amazing.
+
+Many of the women I speak with about their periods tell me that their mom started them on pads… because if they used a tampon, they “wouldn’t be a virgin anymore.” Women are always surprised at themselves for saying that. I think we don’t realize that period stigma is so deeply ingrained in us.
+
+Seeing Interactive (Own Local)
+W10
+Successful
+Children are useless until around the age of three. I never thought it would take them that long to become real people.
+
+OpenPhone
+S18
+Successful
+Last year, we discovered that when we get a video interview with YC and the web page says “Wait until Adora connects” for longer than 3 hours, it probably means our connection dropped and the video interview is not happening. ?
+
+Mixpanel
+S09
+Successful
+Users have the tendency to defy your expectations all the time. If you don’t listen, you won’t survive.
+
+Buffer
+S11
+Unsuccessful
+We managed to create a DoS attack on ourselves. We have a Chrome extension which lets people add tweets, and which shows people how many tweets are left in their Buffer too. To show the number, the extension polled the server every 5 seconds. After a few hundred people installed the extension, we found the server almost came to a halt. After some investigation, we thought we were under attack and even started banning some IPs, of our own users! Glad we weren’t!
+
+GitLab
+W15
+Successful
+Before GitLab Sytse has build recreational manned submarines from scratch, the company he started is currently the largest producer of them in the world and is called U-Boat Worx http://www.uboatworx.com/
+
+Dropbox
+S07
+Successful
+The ridiculous things people name their documents to do versioning, like "proposal v2 good revised NEW 11-15-06.doc", continue to crack me up.

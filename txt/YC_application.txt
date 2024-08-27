@@ -1,0 +1,226 @@
+Founder information:
+
+Founders
+Akshaj Tyagi (Ak)
+how_to_reg
+Profile complete
+keyboard_arrow_down
+Basics
+Name
+Akshaj Tyagi (Ak)
+Email
+akshajtyagi1@gmail.com
+Phone Number
++19733077381
+Age
+22
+Gender
+M
+City where you currently live
+Monroe
+Role
+What is your title, or if you haven’t set it yet, main responsibility?
+CEO, CTO, Sales, Engineering, etc.
+CEO
+What percent equity do you have?
+If you haven't incorporated yet, give the equity percent you expect to have.
+50
+Do you have at least 10% equity in the company you're applying with?
+yes
+Are you a technical founder?
+You are a programmer, engineer, or scientist who can build the product without outside assistance.
+yes
+If accepted to YC, will you commit to working exclusively on this project for the next year?
+i.e. you won't be in school or have another job
+yes
+Background
+Your LinkedIn URL
+https://www.linkedin.com/in/akshaj-tyagi-6843341b6
+Education
+Rutgers University–New Brunswick
+Jul 2019 - May 2023
+BS, Computer Science, Physics, Statistics
+Work Experience
+Deloitte - Research Engineer
+Sep 2023 - Present
+- Building custom AI applications for US department of defense.
+Rutgers University - Machine Learning Researcher
+Aug 2022 - Apr 2023
+- Researched Natural Language Processing under Prof. Karl Stratos
+- Researched ML based Solar Energy Prediction (NSF-REU funded) for Prof. Ahmed Aziz Ezzat.
+Johnson & Johnson - Data Science Intern
+Apr 2022 - Jul 2022
+- Researched, built and tested ML models for the J&J supply chain team.
+Social Media
+Github URL
+https://github.com/MrTripleMajor
+Accomplishments
+Please tell us about a time you most successfully hacked some (non-computer) system to your advantage.
+I was an early adopter of OpenAI's GPT-2 and GPT-3 models (well before ChatGPT was released). When I realized that GPT could do most of the college writing assignments, I saw the opportunity to offer essay writing services to my friends for cheap. Little did they know, I would use GPT to do 90% of the work. Through this I made approx. $2000 doing barely anything.
+Please tell us in one or two sentences about the most impressive thing other than this startup that you have built or achieved.
+I successfully completed a triple major (Physics, Statistics, Computer Science + philosophy minor) during my 4 years at uni.
+Tell us about things you've built before. For example apps you’ve built, websites, open source contributions. Include URLs if possible.
+I built (with Johnny):  1. Citebot, RAG-LLM tool that answers medical questions with citations using RAG. https://citebot.vercel.app/  2. Chat Audio, an AI music making tool. https://www.chataudio.com/  3. Look up, a website inspired by the movie don't look up that shows the effect of climate change using a meteor hitting our planet as a metaphor. https://lookup.vercel.app/   I built (at Deloitte):  1. TSA Answer Engine: RAG-LLM tool, sold to TSA (handshake agreement) for $9 million.  2. SOP Updater: AI agent that edits internal government documents based on new policies. 3. Aries Bot: internal LLM tool to help speed up new hire onboarding using RAG. 
+List any competitions/awards you have won, or papers you’ve published.
+2023: Awarded the title of Paul Robeson Scholar for my thesis "Understanding the prompting capabilities of large language models."  2022: Designated as an REU fellow for my research in solar energy forecasting using ML. Accepted by IISE to present my research.   2019: Selected by NASA sponsored program to send my research experiment, hydrogel diffusion in microgravity, into space.
+Johnny Vishnevskiy
+how_to_reg
+Profile complete
+keyboard_arrow_down
+Basics
+Name
+Johnny Vishnevskiy
+Email
+johnny.vishnevskiy@gmail.com
+Phone Number
++12019687506
+Age
+22
+Gender
+Male
+City where you currently live
+Bloomfield
+Role
+What is your title, or if you haven’t set it yet, main responsibility?
+CEO, CTO, Sales, Engineering, etc.
+CTO
+What percent equity do you have?
+If you haven't incorporated yet, give the equity percent you expect to have.
+50
+Do you have at least 10% equity in the company you're applying with?
+yes
+Are you a technical founder?
+You are a programmer, engineer, or scientist who can build the product without outside assistance.
+yes
+If accepted to YC, will you commit to working exclusively on this project for the next year?
+i.e. you won't be in school or have another job
+yes
+Background
+Your LinkedIn URL
+https://linkedin.com/in/johnny-vishnevskiy-29782919a
+Education
+Rutgers University–New Brunswick
+Sep 2020 - Jan 2025
+BS, Computer Science, Data Science
+Bloomfield High School
+Sep 2016 - Jun 2020
+High school diploma, None
+Work Experience
+DoorDash - Driver
+Jan 2022 - Aug 2023
+American Red Cross - Lifeguard
+Aug 2020 - Aug 2021
+Social Media
+Github URL
+https://github.com/johnnyvish
+Accomplishments
+Please tell us about a time you most successfully hacked some (non-computer) system to your advantage.
+In the summer of '21, while working as a lifeguard, my pay depended on my hours. This was tracked by a timesheet app using my phone's location. I hacked my phone to spoof my location, allowing me to clock in earlier and out later, earning an extra hour each shift. By the end of summer, I made an additional $700, helping me buy a car to commute to college.
+Please tell us in one or two sentences about the most impressive thing other than this startup that you have built or achieved.
+My previous startup, ChatAudio helped people with no musical experience make music using natural language prompts.
+Tell us about things you've built before. For example apps you’ve built, websites, open source contributions. Include URLs if possible.
+I built (with Ak):  CiteBot used RAG LLM's to conduct realtime medical research based on user's queries. (https://citebot.vercel.app).  ChatAudio used A.I to generate music, sound effects and piano covers. ( https://www.chataudio.com ).  LookUp was an ideation attempt to communicate the severity of climate change through an interactive 3D meteor impact ( https://lookup.vercel.app ).  I built (alone):  An A.I that detects violence in surveillance video footage with over 95% accuracy.
+List any entrepreneurship programs or clubs you have participated in or are currently participating in.
+I was a member of the Future Business Leaders of America (FBLA) club for two years in HS.
+
+Q: How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+A: We've known each other for 2 years. We met in college in a deep learning class and have worked on multiple projects together (including a previous startup!).
+
+Q: Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain.
+A: Johnny writes most of the code. Ak is also technical but focuses on sales + suppliers.
+
+Q: Company name
+A: Red Sync
+
+Q: Describe what your company does in 50 characters or less.
+A: Prevent metabolic diseases using cheap biosensors.
+
+Q: Company URL, if any
+A: https://www.theredsync.com/
+
+Q: Please provide a link to the product, if any.
+A: https://testflight.apple.com/join/wwHvnT3H
+
+Q: If login credentials are required for the link above, enter them here.
+A: INVITE CODE: "TEST"
+
+Q: What is your company going to make? Please describe your product and what it does or will do.
+A: We sell a kit of biosensors that measure your body weekly and sync with our app. Our AI analyzes your data, calls you, and provides coaching each week. This helps reduce your risk of metabolic diseases over time.
+
+Q: Where do you live now, and where would the company be based after YC?
+A: Monroe Township (NJ), USA / San Francisco, USA
+
+Q: Explain your decision regarding location.
+A: We want to be surrounded by other motivated founders.
+
+Q: How far along are you?
+A: We have 10 paid users using our private beta app. For the weekly measurements, we drive to our user's homes once each week and manually measure them using the single set of sensors we own. We have a prototype smart-ring that we're 30% done integrating with the app.
+
+Q: How do users find your product? How did you get the users you have now? If you run paid ads, what is your cost of acquisition?
+A: At the moment, we talk to people in our local friend/family circle and ask them if they are interested in this product. All the current users were recruited this way. To keep them from saying yes prematurely, we didn't charge them the first month, and asked them if this is a service they would pay for. They all said yes.
+
+Q: How long have each of you been working on this? How much of that has been full-time? Please explain.
+A: We started 5 months ago. 3.5 months ago, Johnny went full-time. I (Ak) have a full-time job but I'm efficient with my work so I only end up working12-16 hrs/week for my job. The rest (including weekends) are spent on Red Sync.
+
+Q: What tech stack are you using, or planning to use, to build this product?
+A: NodeJS, MongoDB, React-Native, React.
+
+Q: Are people using your product?
+A: Yes
+
+Q: How many active users or customers do you have? How many are paying? Who is paying you the most, and how much do they pay you?
+A: We have 10 users, paying $30/month. (Side Note: In our founder video we mention having 8 users but since shooting we're at 10.)
+
+Q: Do you have revenue?
+A: Yes
+
+Q: Where does your revenue come from? If your revenue comes from multiple sources (ex. multiple products, multiple companies or a mix of consulting and this product), please break down how much is coming from each source.
+A: We have a monthly subscription which accounts for all our revenue.
+
+Q: Anything else you would like us to know regarding your revenue or growth rate?
+A: Monthly Growth Rate: 50%. MRR: $270. Total Revenue: $390
+
+Q: If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?
+A: We applied to the last YC batch as "ChatSynth," building an AI music making tool. While all our users found our tool to be "cool", not one found it to be useful. So, we stopped. We learnt that we needed to solve a real problem people have as opposed to building a solution in search of a problem.
+
+Q: If you have already participated or committed to participate in an incubator, "accelerator" or "pre-accelerator" program, please tell us about it.
+A: N/A
+
+Q: Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+A: I (Ak) gained weight last year and had high A1C scores, indicating a risk for diabetes. When I couldn't find an affordable solution to help reduce my risk, I talked to my friends/family. All of them agreed this was a real issue. More importantly, all of them expressed that if I found a cheap solution, they would buy it. I did not find a solution. I asked Johnny if we could build one. So, we did, and now we have 9 paid users, all of whom are those same friends/family who expressed this need. We don't have expertise but the alarming rise in metabolic diseases keeps us motivated to build an affordable solution.
+
+Q: Who are your competitors? What do you understand about your business that they don't?
+A: We have two camps of competitors. Daily trackers, like Oura and Whoop, excel in hardware-software integration but lack a specific focus on improving metabolic health. Metabolic trackers, like Ultrahuman and Levels are effective but depend on continuous glucose monitors. This makes them cost $300/mo. We cost $35/mo. By using affordable sensors and some clever statistical algorithms, we can help predict and prevent metabolic diseases for much cheaper. Plus, we offer an AI that calls and coaches users weekly. This makes it easier to understand your data and stay accountable- something our competitors don't offer.
+
+Q: How do or will you make money? How much could you make? We realize you can't know precisely, but give your best estimate.
+A: We make money by selling a monthly subscription: $35/mo. or $399/yearly (current users pay $30/mo.). At scale, our cost per sensor kit is $122 (based on official quotes by suppliers) + $75 for yearly OpenAI calls. Eventually we plan to also sell the same product to also help manage (as opposed to prevent) metabolic diseases. According to the International Diabetes Federation, approximately 537 million adults were living with diabetes in 2021, and this number is expected to rise to almost 643 million by 2030. The market for preventing and managing metabolic diseases is substantial and rapidly expanding. If we capture even a small fraction of this market, the financial upside is significant.
+
+Q: How do users find your product? How did you get the users you have now? If you run paid ads, what is your cost of acquisition?
+A: At the moment, we talk to people in our local friend/family circle and ask them if they are interested in this product. All the current users were recruited this way. To keep them from saying yes prematurely, we didn't charge them the first month, and asked them if this is a service they would pay for. They all said yes.
+
+Q: Where will most of your initial users be located?
+A: US
+
+Q: Which category best applies to your company?
+A: Wellness
+
+Q: If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
+A: We're super focused on Red Sync.
+
+Q: Have you formed ANY legal entity yet? This may be in the US, in your home country, or in another country.
+A: No
+
+Q: If you have not formed the company yet, describe the planned equity ownership breakdown among the founders, employees and any other proposed stockholders. If there are multiple founders, be sure to give the proposed equity ownership of each founder and founder title (e.g. CEO). (This question is as much for you as us.)
+A: Akshaj - CEO, 50% Johnny - CTO, 50%
+
+Q: Have you taken any investment yet?
+A: No
+
+Q: Are you currently fundraising?
+A: No
+
+Q: What convinced you to apply to Y Combinator? Did someone encourage you to apply? Have you been to any YC events?
+A: The Paul Graham essays. We have not been to any YC events yet.
+
+Q: How did you hear about Y Combinator?
+A: Johnny heard about YC from Ak. Ak found YC on google years ago.

@@ -1,0 +1,38 @@
+
+
+Courier
+S19
+Successful
+Friends & family MVP by end of April, public beta by end of May.
+
+Supernote (Metlo)
+S21
+Successful
+03/26/2021
+
+derivative/d (Shotput)
+S15
+Successful
+Currently testing our beta with customers
+
+CredCount
+S17
+Unsuccessful
+N/A
+
+Streamplate
+W21
+Unsuccessful
+End of September
+
+Seeing Interactive (Own Local)
+W10
+Successful
+Our first product is nearly ramen profitable. Although our current product is in a market that is rapidly losing value -- print to web ad conversion -- it still helps us build relationships with these newspapers and makes them money (adds about 5% to their bottom line).
+
+Our second product is weeks away from its first release. We are launching at one of our partner newspapers on November 9th--they have already pre-sold about 50 customers to the online directory so we will have immediate revenue from that, and several of our other papers are anxious to launch as well.
+
+Mixpanel
+S09
+Successful
+We currently already have a alpha build with a variety of clients saying they will or have integrated including some YCombinator companies: Posterous, TicketStumbler, and HeyZap. A beta will likely be finished either before summer starts or soon during. Our alpha version is already earning revenue at a profit and we are working on stream-lining this process.

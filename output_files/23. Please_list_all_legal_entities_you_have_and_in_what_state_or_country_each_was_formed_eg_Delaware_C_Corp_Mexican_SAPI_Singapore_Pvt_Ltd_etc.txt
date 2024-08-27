@@ -1,0 +1,109 @@
+
+Courier
+S19
+Successful
+Delaware C Corp
+
+Parobyte Technologies
+Unsuccessful
+Private Limited Company
+
+Parsnip
+S21
+Unsuccessful
+LLC
+
+CredCount
+S17
+Unsuccessful
+N/A
+
+One Month Rails (One Month)
+S13
+Successful
+One Month Rails is currently a part of The Front Labs LLC, which I incorporated in August of 2011 in Delaware.
+
+Lollipuff
+W13
+Successful
+Currently a North Carolina LLC (redacted equity).
+
+80,000 Hours
+S15
+Successful
+Charitable company, formed in the UK.
+
+Goodly
+S18
+Successful
+Delaware C Corp.
+
+Code For Cash
+W18
+Unsuccessful
+Delaware C Corp
+
+VEED
+S19
+Unsuccessful
+LTD - United Kingdom
+
+Employbl
+S19
+Unsuccessful
+Delaware C Corp
+
+Kash
+S14
+Successful
+We incorporated in Canada in November 2012.
+
+Swelly
+W17
+Unsuccessful
+Delaware C Corp
+
+Prolific
+S19
+Successful
+Limited company in the UK.
+
+Streamplate
+W21
+Unsuccessful
+Australian Private Company, Australia
+
+Dendron
+W21
+Successful
+n/a
+
+Virtually
+S20
+Successful
+Yes. We’re a Delaware C-Corp
+
+Cruise
+W14
+Successful
+Cruise Automation, Inc. is a Delaware C corp created in September 2013.
+
+Task Pigeon
+W19
+Unsuccessful
+Pty Ltd company in Australia
+
+InEvent
+S19
+Successful
+Delaware C Corp
+
+Flex
+S16
+Successful
+We are incorporated in Delaware as a C-Corp.
+
+Paystack
+W16
+Successful
+Trading entity created in Lagos, Nigeria

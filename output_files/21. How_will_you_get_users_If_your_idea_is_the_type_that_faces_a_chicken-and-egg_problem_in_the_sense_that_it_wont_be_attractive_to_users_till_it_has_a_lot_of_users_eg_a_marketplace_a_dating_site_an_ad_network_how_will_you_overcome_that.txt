@@ -1,0 +1,397 @@
+
+Courier
+S19
+Successful
+Content marketing and developer relations to attract engineers who are tasked with adding notifications to their products.
+
+Athens Research
+W21
+Successful
+Serve C-Suite, consultants, investors insanely well. Rest of the organization will follow.
+
+Parobyte Technologies
+Unsuccessful
+We have grown to 100+ users as now. 60+ stores were onboarded by meeting and signing up them when they visited Metro CashNCarry for their purchases. We offered them the same price as that of Metro at zero delivery fees. The rest 40 were added by these customers through referrals. All 100 stores are within a locality of 3 km radius.
+
+It is evident that a large fraction of small store operators would require 1-1 onboarding to start using B2B ecommerce apps. Hence, our plan is to grow users through a mix of 1-1 onboarding, referral campaigns and tie up with bookkeeping apps with high penetration to add more users. We do not have a chicken-and-egg problem.
+
+MagicBell
+W21
+Successful
+Our blog post describing the challenge of building a complete notification brings us one lead a week. Given the search volume for relevant keywords, we plan to publish more valuable content to double down on organic user acquisition.
+
+Additionally, we are implementing several channels to generate growth - cold emails to targeted companies, a freemium model with a MagicBell branded widgets and partnership with providers of channel APIs (email/text/push). We hope to accelerate all these efforts with the additional funding from YC.
+
+Supernote (Metlo)
+S21
+Successful
+Most of our users initially will come from sales and marketing but in the medium-longer term, a free tier for students and individuals will help us get much more organic and word-of-mouth growth similar to Qualtrics and Benchling’s early GTM.
+
+Simula
+S18
+Unsuccessful
+1. 0-10,000 Users: Target the overlooked intersection of VR Enthusiasts ∩ Linux Enthusiasts, especially those that are interested in working with significantly more screen real estate (i.e., https://news.ycombinator.com/item?id=13405472). Our value proposition to these people: “take your Vive, plug it into your Linux system, and multiply your screen real estate by 10.” For these people, our product should be so good that they want to use us for more than 1hr/day.
+
+2. 10,000-100,000 Users: Ensure that the absolute best 3D office applications are made available on our platform/marketplace (while others are focused on games/entertainment, we we will be focused on office work). It should also be easy to virtually collaborate with others, adding extra incentive for people to join the platform.
+
+3. 100,000 - 1,000,000+ Users: Distribute Simula as a standalone OS that comes pre-installed on VR/AR HMDs.
+
+AthleteNet (FamilyLeaf)
+W12
+Successful
+To get teams to sign up for websites, we will get players to have their profiles hosted on our site. In addition, we have a database of 600K teams we scraped from eTeamz and can use that to email current unhappy customers. To get players to host their profiles on our site, we will offer a superior product and implement viral mechanics/incentives similar to Kicksend. For instance, an athlete could pay for more video or just get one friend to sign up. We'll also have consistent email and blog tips about dealing with recruiters and marketing yourself as an athlete that will be availably only to teams/athletes with pages.
+
+Parsnip
+S21
+Unsuccessful
+Before launching my prototype I recruited people for interviews and other feedback directly from Reddit and other forums I’m a part of while experimenting with posting to social media. So far I’ve talked with dozens of people on Reddit and other forums and interviewed around two dozen people individually over Zoom and chat.
+
+While beta testing I will engage with people on forums, create content and do other audience building activities creating a foundation for later search engine optimization (SEO) to improve organic reach. An example might be “A vocabulary analysis of popular fiction books.” I can look at the number of unique words vs the total words in the first Harry Potter, then discuss how many new words would you need to read for each additional book in the series.
+
+Once the beta wraps up I plan to do a full scale launch starting with a kickstarter. Building awareness and anticipation through social media along with Facebook and Google Ads.
+
+derivative/d (Shotput)
+S15
+Successful
+We currently get customers by reaching out to recently over-subscribed, crowd-funded projects on KickStarter & Indiegogo. We have found startups by partnering with TechStars, Northeastern IDEA, and Kairos Society. We are also working to become preferred vendors for KickStarter & Indiegogo.
+
+As our customer base grows, we will continue to optimize the process of fulfillment for even higher cost-savings thus increasing our ability to close more customers.
+
+CredCount
+S17
+Unsuccessful
+For a product of our own we’d need to attract potential users by having a narrative for the social benefit of “news literacy”. Minds are changed through emotion rather than factual concrete evidence so this application would be more of a training to see both sides idea instead of showing someone raw evidence against their position. In this manner we’d be very chicken-and-egg. As a service, we’ll get users by sales and marketing showing how much value we could add to markets like high frequency trading or politics. We’d have to lineup demos and grow through grassroots from the beginning.
+
+One Month Rails (One Month)
+S13
+Successful
+The feedback from graduating students is tremendous, so we get a lot of new users through referral. Since learning to code is a hot topic, there's a lot of opportunity for content marketing, as well as speaking engagements. Finally, given the fairly high transaction value, we should be able to profitably run pay-per click advertising.
+
+Circles
+S21
+Unsuccessful
+we start with users who bought an Oura ring and joined one of 3 Oura ring groups on Facebook (20k in total). We spoke to 132 of them about our Coach. We are going to build a product 1000 of them use daily, most promising niches: founders, people with chronic illnesses, retirees, female athletes, and coaches with clients (holding each other accountable and help each other improve). Adding friends or clients to your Circle makes the product better for you (Group coaching). We plan to later integrate with Oura's competitors.
+
+MakeGamesWithUs (Make School)
+W12
+Successful
+-Focus on generating success stories.
+-Heavily promote first games produced through our site.
+-Reach out to dozens of artists Manifold Studios has worked with, artist forums, and art students, pay them or give special perks to seed our site's community.
+-Reach out to friend network, Boston game developer community, contact solo developers of games on app store, pay them or give perks to seed our site's community.
+-Provide metrics drawn from apps we've published showing how publishing with us is really valuable.
+-Use existing games in Manifold Studios catalog to drive traffic to site.
+
+Similar to how Craigslist began, we will first manually play matchmaker for our network of developers and artists. Once we begin to grow we will automate the process through our website.
+
+The Muse
+W12
+Successful
+We use content as a lead gen to attract users: our content is currently syndicated out via Huffington Post, Forbes, Business Insider, and Inc, and we're working on closing a video deal with HuffPost that will drive additional thousands of users back to our site. One of our strategies that has been very successful has been having inspirational and influential women write original content for The Daily Muse.
+
+Arianna Huffington wrote the lead article for our launch in September, and she's been followed by women ranging from Cindy Gallop and Rachel Sklar to the head of the U.S. Geological Survey. Marissa Mayer from Google and Nicole Lapin from CNBC have agreed to write as well.
+
+We've also agreed to a partnership with Refinery29, a global fashion newsletter with 500,000 subscribers, to provide information & plugs for The Daily Muse to all of their subs in November in exchange for awesome tailored career content from us. If it goes well, we plan to extend it.
+
+Lollipuff
+W13
+Successful
+Based on user participation on the blog, we anticipate a few hundred users from the test site will immediately join Lollipuff -- they’re the ones who have been clamoring for a new, automated and expanded site (and currently endure a 2-month wait list).
+
+Fei has an impressive personal collection of luxury women’s clothing in our first three brands (roughly $35,000 MSRP). She has agreed to sell a large portion of her personal collection to seed the new site. We also have budding relationships with “power sellers” on Ebay who have expressed an interest in using our site upon launch.
+
+Existing relationships with fashion blogs, sites, and forums should also enhance our exposure.
+
+YogaTrail
+S14
+Unsuccessful
+We have two viral growth loops that are providing viral growth factor of 60% (10 users bring in 6 others, on average). They need some optimizing... We're also very successful on social media (FB 100k fans, Twitter 30k, Pinterest 20k), and we've built
+
+bxblue
+S17
+Successful
+Getting the banks on board hasn’t been an issue. We were immediately perceived by them as an opportunity to finally offer this type of loan online. We have already met with the 10 most important banks and we are currently integrating with the banks.
+
+Regarding the users, aside from word of mouth, we are experimenting online channels,such as Facebook, Google Adwords, Google Display Network and Google Sponsored Promotions, and a bit of geo targeting. Hits on the page have 80% of people inside our target.
+
+Pic ur Photo
+S19
+Unsuccessful
+We’ve gained most of our users/paying customers with an Instagram DM campaign. We target specific niches and our name vibrates around the same circles of friends.
+
+Companies will pay hundreds to get in front of even a micro-influencer’s audience, but we have paying customers with thousands of followers gladly uploading our photos and spreading the word, thanks to the shareable nature of our product.
+
+We’ve also just begun holding interviews for something called the street team. Our managed teams will storm the streets of London to fill remaining slots for the week. We’ve already done this on a trial basis, but we just finished getting the legal ok and building the software to handle logistics and do it in mass.
+
+Our longterm acquisition strategy focuses heavily on content marketing and SEO. People are increasingly looking to social media as inspiration on where to eat, how to dress, where to go, how to frame the perfect photo.
+
+People travel more because of the beauty they see in photos. People dress differently, eat new things, and connect with a lifestyle a photo represents. Instagram and Pinterest are great places for inspiration, but they’re lacking in detail needed to create.
+
+There’s a desire and a need for information on exactly where and how to take the most awe-inspiring images. We’ll partner with content creators in each city we want to launch to become the go-to place to find the content our target audience is searching for, and as soon as they want to be in the photo, we’ll be there to catch them with a “negligibly-priced” photosession.
+
+Syllble
+W18
+Unsuccessful
+Through social proof of created stories we will use word of mouth and then attract established writers and filmmakers who can create social buzz about our platform. We have also thought of making this an invite only community at first that can create a sense of exclusivity.
+
+Spreadsheet Magic
+S14
+Unsuccessful
+There is no chicken and egg problem.
+
+Main plan is to promote the system on software developers community sites, however promoting among non-programmers (e.g. in finance or science) also may make sense (need to be tested).
+
+Goodly
+S18
+Successful
+Bottom-up approach targeting other startups as beta users and rapidly expanding to target professional services companies (law firms, consultants/MBAs, medical/dental) to gain a foothold in the market and then expand to other sectors.
+
+- Working through personal networks to gain traction with beta users
+- Connecting with startups in major tech hubs
+- Education/Awareness: seminars/workshops for employees on how to manage student loans
+- Online distribution to employers
+- White papers/case studies
+- Gaining traction in the press/media
+
+Apptimize
+S13
+Successful
+Our first customers are our friends’ startups. To target our next customers, we downloaded their apps and their competitors’ apps and are designing experiments for them. If they find the pre-designed experiments useful, they can easily start testing with those the instant they sign up.
+
+We’ll offer customer referral rewards such as temporary premium memberships. We also want to make it easy to see and implement case study results by suggesting experiments to potential users. For marketing, we will ask and answer stackoverflow and Quora questions regarding how people AB test on mobile.
+
+We could partner with companies in related fields like App Annie or Parse.
+
+Trestle
+W19
+Unsuccessful
+We will sell the product to entire companies by selling to the COO, Head of People, or Head of Internal Tools at companies. I fully acknowledge Slack’s bottoms-up approach is a better sales tactic and I will continue experimenting to see if there is a way to make Trestle useful on a team-by-team basis, but currently Trestle is most useful when everyone in the company has profiles on the platform. Once companies reach over 100 people, these decision makers (COO, Head of People, Head of Internal Tools, etc.) already clearly understand the problem and realize that they will either have to buy a solution (Trestle) or build and maintain it in house, which makes the sales process easier.
+
+Bubblin Superbooks
+W18
+Unsuccessful
+SEO and social urges are primary drivers of our traffic. One of the advantages of hosting a full book on site is that we can extract SEO juice from the “inner pages” of the book. This capability is not available to any other publisher because they'd have to link to a file outside of web.
+
+Second, social urges. Readers love talking about the book that they have read or a passage that they liked. We tap into these individual urges to reach further into their network of friends. Organic search and social drive 70% of our reader traffic.
+
+Third is meet-ups and local writing groups. We work with writers and help them publish using modern tools and get the word out. In the process we increase our outreach with each new book alongside a campaign undertaken by the writer.
+
+PMAlerts
+S21
+Unsuccessful
+- Push alert notifications into Teams, Slack, Discord so one person's engagement turns into an entire team's engagement.
+- Integrate into ecommerce platforms to help sellers "social sell".
+- Use PMAlerts to find and engage with people who talk about revenue, selling, SaaS, etc.
+- Act as the "salesforce" for small startups - manually creating alerts and personally pushing users to product.
+- Apply to SMM / PR / PM positions specifically to demo PMAlerts to hiring managers / teams that budget for social media tools.
+- Create shareable "topic pages" with PMAlerts (a topic page for a YCombinator startup, for example) that gives folks a single place to see what people are saying about the startup across the whole web.
+- Create educational materials (video, blogs, books, a podcast, etc).
+- Sell consulting services to businesses who are new to social media monitoring / social selling.
+- Produce sketch comedy routines where the PMAlerts "bot" (a human with a big robot helmet) sneaks into meetings / eavesdrops on customer conversations and then runs like mad across various scenes (subway, city, park, etc) to to share the latest details with you, the user.
+- Produce a video series where early-stage startups are brought from 0 to 100 paying customers by using PMAlerts to find + talk to customers.
+- Offer an API that devs can use to build on top of social listening capabilities
+- Cold-call PR / marketing agencies to sell them a whitelabeled PMAlerts subscription (that they can offer to their customers)
+- Expose the PMAlerts API to developers who want to build on top of social listening capabilities (doing to social media what Stripe did for transactions - ditch the linkedin and twitter api keys, use PMAlerts for everything).
+
+Pet Story
+S19
+Unsuccessful
+We are exploring ground level channels to start with. Pet caregivers can easily be found during the day at various parks and beaches. There are disenchanted users on Rover/Wag specific subreddits. Nextdoor and Craigslist have frequent posts from pet caregivers looking for new clients. Other channels we will explore include as hosting events, content marketing, and local business partnerships.
+
+Code For Cash
+W18
+Unsuccessful
+We currently have five customer acquisition channels that are effective for sourcing freelance software developers: Reddit ads; Indie Hackers community participation; Instagram (organic– suggests that paid Instagram could work as well); Social media articles; the books, 30 Days To Your First Freelance Programming Client and Software Engineer’s Guide to Freelance Consulting – I estimate 1 in every 200 readers becomes a customer. Using Amazon Marketing Services, I estimate that we can move books at scale for about -$2 net per copy.
+
+The main point to get across is that I’m confident we could scale paid acquisition of freelance developers, although LTV is approximately == CAC, and through product improvements (reducing churn) and normal growth hacking, we are on a mission to move LTV == 3X CAC.
+
+It has occurred to me that some of our users come from referrals from fellow users. So we technically have six customer acquisition channels, including referrals.
+
+However, we don’t yet have scalable systems for acquiring hiring manager customers (aside from networking and referrals– not *scalable*). Although our social media articles (designed to attract developers) are also accidentally finding us hiring managers, (including developers who are, internally, responsible for hiring), we don’t have a system where we can spend $X and ensure $Y hiring manager signups. In fact, we don’t yet have a software product for hiring managers to manage the hiring process… everything is done manually, with me often not charging the hiring managers and working closely with them to recruit a developer to their project, simply in order to facilitate customer learning.
+
+We’re overcoming the chicken-and-egg problem this presents by writing scrapers to scour the Internet for freelance programming jobs, and we’ve written scrapers for about 50 different markets so far.
+
+Currently, the bottleneck is scalable systems for signing up freelance hiring managers, but we haven’t even built software to manage the freelancer hiring process yet, though it will be shipped by the end of October, if not sooner. Now, after many conversations, we know what to build and what aspects are important, systematically addressing the bottlenecks within the hiring process, itself: pre-screening with rubric-based technical evaluations, having a spec, getting the description in front of developers who are well-suited to it in terms of ability and availability, signing developers to NDAs where appropriate, conducting reference checks, and transparently monitoring of the process, for both sides.
+
+Mattermark (Referly)
+S12
+Unsuccessful
+Direct sales, online media property using our own data to write interesting data-driven content, highly targeted paid advertising.
+
+Standard Treasury
+S13
+Successful
+Working the network, undercutting others on price and (especially) ease, directly reaching out to every startup that needs banking services beyond payments that exists or is founded for traction.
+
+We've focused our user research on three customer segments: (a) Corporate treasury departments (a heretofore undisrupted part of most enterprises) (b) hedge, private equity, and venture funds (minus quants/HF) and their back offices (c) technically inclined SMEs and startups who aren't served well by big banks.
+
+VEED
+S19
+Unsuccessful
+Our primary acquisition strategy is to continue to acquire users through search and to date this accounts for 75% of our traffic. Over 500,000 people search for online video editing tools each month and we want to capture as much of that market as possible. Our platform naturally performs really well due to having a high session duration and extremely low bounce rate.
+
+Employbl
+S19
+Unsuccessful
+The company discovery tools and rich information about companies helps bring active candidates inbound. When new job openings come in from our partner companies the requirements are specific so I need to tap into my network and hit the phones to find them leads, traditional recruiting work!
+
+For bringing on initial employers as early adopters I’ll be relying on friends and word of mouth. We’re at two companies right now and haven’t made any placements yet so need that dialed in! Once I start making placements I have an entire database of companies to reach out to and offer my services.
+
+Kash
+S14
+Successful
+Right now, retailers prompt users to download our app and 12% of those who walk into our retailers download our app. We are in the process of significantly upgrading our user app. The new app will embed ACH/Credit transactions. Our new, updated app will grow much faster because it embeds P2P transfers which give us both a network effect and a use case outside our retail locations. Users will now have a reason to download and use the app outside stores. We will target users outside stores using Facebook ads. Our initial testing suggests that we’ll be able to acquire users for about $1 per user.
+
+We have two channels of attracting retailers now. First, we pay for inbound leads. Second, we have sold our product to enterprise, multi-location retailers who make it mandatory for all their franchisees.
+
+Swelly
+W17
+Unsuccessful
+Growth:
+1. People invite friends so they can share private questions.
+2. We work with influencers who become our experts: pay them initially; CPI < 1$; keep them by growing an audience for them 3. Getting Featured (currently at Messenger + kik)
+
+Prolific
+S19
+Successful
+We will grow our users by continuing to enhance our core product through user research and nudging users towards referring friends and colleagues. We will accelerate virtuous growth cycles by building tools for data reuse, sharing, and collaboration. We'll further enhance network effects and lock-in by developing an API platform and an ecosystem of tools and a community around it. Plus, we'll start doing direct sales to reach new institutional and enterprise customer segments where we have low penetration.
+
+As a marketplace, balanced growth of both sides of the platform is important, and we've already solved the first stage of the chicken-and-egg problem with 30,000+ monthly active participants and 2000+ monthly active researchers. We have an allocation algorithm which distributes studies evenly to participants ensuring balanced platform growth.
+
+Slite
+W18
+Successful
+Our first customers are tech companies from 3 to 200 users. 2 very simple ways of sourcing them is to target Slack's paying users as well as companies relying on remote teams.
+
+SketchDeck
+W14
+Successful
+1) Our extended networks are revealing a large a number of people working in consultancies, banks and other corporates who want our service
+
+2) From this, we are getting introductions to relevant decision makers in big consultancies and MDs at small consultancies to set up pilots which will convert to subscriptions
+
+3) Our delighted clients will provide good references for our service which will help us to extend from our network.
+
+4) From here we will grow further in two ways:
+
+5.a) For large clients: Prove the value proposition at a company level and then sell into consultancies, banks and large corporates at a senior level.
+
+5.b) For small clients: We will have a low friction sign up process and free trials to encourage smaller companies to sign up directly through our site.
+
+Streamplate
+W21
+Unsuccessful
+This is a marketplace and we get around the chicken-and-egg problem with our health tracking dashboard and order-forwarding.
+
+With our health tracking dashboard, users can select from a list of 30+ widgets to monitor their health, log their meals, track their nutrition and follow exercise plans. This means there’s a “single-player mode” available on our app upon launch.
+
+The order-forwarding is in effect a “backward compatibility” feature to ensure ordering is immediately available from venues that we’ve web-scraped. It’s by initially embedding ourselves with pre-existing services that we plan to build up our “multiplayer mode” so users can order and interact with venues.
+
+We’ve spoken to dozens of venues and they’ve asked to see an active userbase before committing to the app. With this in mind, the strategy is to magnetise the app with the health-tracking dashboard so venues come to us. This also mitigates the reliance on a sales-team to onboard venues which in turn significantly reduces the operational cost that has otherwise held back many competitors from growth.
+
+Laitum
+W20
+Unsuccessful
+– Using our dissemination channels (YouTube, LinkedIn, Facebook and Instragram mainly), and the social channels of the university incubators in our country.
+
+– That is why we will focus on enriching our course catalog to develop both hard and soft skills, motivating our students to create and disseminate what they learn with a focus on sustainability.
+
+– Regarding the social learning experience (our chicken-and-egg problem), everyone on the team will be our first students, creating content of additional value to that offered in the courses and motivating other students to do the same. We are truly focused on creating such a great product for our students that they will not hesitate to share their experience with others.
+
+Learn Venue
+S18
+Unsuccessful
+Since we are a B2B startup getting the right connection to the OEMs will get us there.
+
+Dendron
+W21
+Successful
+We plan on publishing vertical specific notes on particular domains to drive adoption from people within that domain. The "Open AWS Catalogue" (http://aws.dendron.so/) is an example of a domain specific publication to attract people from AWS into Dendron.
+
+Virtually
+S20
+Successful
+Most of our initial users have come from my pre-existing relationships with creators. We’ve generally found that content creators are vocal about the software that they enjoy using and for that reason we expect they will be our biggest engine for growth.
+
+Cruise
+W14
+Successful
+There's already quite a bit of buzz around self‑driving cars, but nothing is on the market yet. This has created an enormous $100 billion shadow demand that we'll tap into once we launch.
+
+Mimir
+S15
+Successful
+Since Mimir Classroom is B2B SaaS we will be selling through direct sales. Although students make up the majority of our user base for our product, we will be selling to instructors and administrators since they make the decision to implement our software in their schools.
+
+Task Pigeon
+W19
+Unsuccessful
+Task Pigeon is live and has seen 17% average growth in Monthly Active Users over the last 8 months. Currently our user acquisition strategy focuses heavily on content marketing and SEO. I have been developing a comprehensive blog at https://blog.taskpigeon.co even prior to our launch.
+
+We do run some retargeting campaigns using Google Adwords and Facebook Ads but the budget on this is minimal at this stage and is more about keeping Task Pigeon front and center of mind for those who are going through out 14 day free trial.
+
+Interestingly enough, unlike most startups with a marketplace we haven’t faced the traditional chicken/egg issue. Most people who sign up for Task Pigeon originally engage with our application because of our task management capabilities. It is then within the app that they learn about their ability to outsource tasks via our marketplace in just a few clicks. As a result we have a growing user base to tap into for our marketplace offering.
+
+On the supply side I have developed a curated list of freelancers who I have worked with in the past. When a new job comes in via the marketplace it is routed to one of the pre-vetted freelancers I have worked with. While this isn’t scaleable it will serve our needs until we have 20+ orders a day coming in. At which point we will need to source additional freelancers for the platform but will be able to do so with the proposition that we have business waiting for them straight away.
+
+InEvent
+S19
+Successful
+5 strategies:
+
+- outbound - inside sales - sales people at our office calling / emailing enterprise companies offering our product
+
+- inbound - content marketing
+
+- corporate ventures (example is Oracle Global Startup Accelerator program, which we are part of and allows us to sell software to Oracle)
+
+- networking leagues, such as EO and general networking at events - trade shows, such as IMEX Europe.
+
+Flex
+S16
+Successful
+Distribution: starting online/direct to consumer; we’ll also leverage existing relationships with online retail partners.
+
+Awareness:
+
+Earned: media & influencers — we’ve given samples to well-known women (media, bloggers, Instagram, founders) and we will run a hero campaign featuring them, and seek a celebrity endorsement; we’ll run an aggressive PR campaign for earned media
+
+Paid: traditional online advertising (social media, Google Adwords); content networks
+
+Owned: content & social — we’ll continue to write original content and contributed articles and share on social media
+
+Grassroots efforts are the most important part of customer adoption; 79% of women say they’ve made purchases based on the recommendation of a peer, and 82% of women say they share brands and products with friends (Ladies’ Home Journal). This includes campus ambassador programs (sororities, sports teams, clubs), and direct selling
+
+Samples and referrals: every new subscriber gets a free sample to give to a friend with discount code; we run frequent contests for online friend referrals
+
+OpenPhone
+S18
+Successful
+There are 2 million people searching for small business phone systems every month on Google just in North America. So we want to spend money on AdWords initially as an acquisition source.
+
+Our initial target customers are people at the bottom of the decision making funnel, those searching for solutions on Google, AppStore, Play Store, etc.
+
+We will take the learnings from the kinds of users who sign up through these channels to create targeted FB and Twitter ads to capture people higher up that funnel.
+
+We will also focus strongly on organic growth through referral programs, SEO and ASO.
+
+Paystack
+W16
+Successful
+We’re already getting users by word of mouth. We’re active in the local developer community, we’ll reach out to merchants directly, and we’ll signup merchants via integration with existing services (Shopify, eventbrite, woocommerce) Our banking partner has also asked that we onboard thousands of Merchants that are their customers.
+
+Buffer
+S11
+Unsuccessful
+We have 3 main sources to get users:
+
+– Via blogposts (we write a lot of reviews about our own product and submit them for guestposting or ask for being reviewed)
+
+– Planned referral programme
+
+– Planned affiliate programme
+
+GitLab
+W15
+Successful
+Currently we get users through word of mouth (amplified by twitter). During our time at YC we would like to grow our marketing, our continuous integration product GitLab CI and our SaaS (GitLab.com). GitLab.com currently has only 15k monthly active users but we see a lot of possibilities to grow and differentiate it.

@@ -1,0 +1,218 @@
+
+
+Courier
+S19
+Successful
+N/A
+
+Parobyte Technologies
+Unsuccessful
+We pivoted. Our first product - ClearBook was a bookkeeping android app for the small stores to accurately track profit and cash in hand. We grew this app to 5,000 downloads and 200 DAU with zero marketing spend.
+
+However, after spending time with around 200+ customers of ClearBook in Bangalore, we understood that frequent stock-outs are a bigger problem for the stores. This leads to revenue loss and at times, even customer churn. Although this problem is more operationally complex to solve, it is a bigger pain point for them, and the solution is also monetizable from day 1.
+
+Supernote (Metlo)
+S21
+Successful
+We did not apply for the last batch.
+
+Simula
+S18
+Unsuccessful
+1. We have updated our prototype to support the HTC Vive (as opposed to the older Oculus D2K) and tested it against 6 alpha testers. It is still not good enough for a single one of these testers to use it for more than 1hr/day, so we’re continuing to focus on product development at the expense of everything else (we don’t have a website, vanity metrics, etc).
+
+2. After working with us for a year, David Kraeutmann – the person responsible for most of our codebase – has been added to our founding team.
+
+3. We started sending monthly updates to our network to increase transparency/pressure; you can see our monthly updates here: https://github.com/SimulaVR/Simula/wiki/Monthly-Update:-2017.12.31
+
+4.Carl Wheeler has been funding the project entirely through crypto market activity (in particular: by syndicating and participating in the pre-ICOs of other startups). This sounds crazy, but it has given us the ability to fund the project without raising money, and increases the chances we’ll be able to survive long enough to have an impact. It has also, as a side benefit, opened our minds to the possibility of a token-based business model (see our answer to “How could you make money?”).
+
+derivative/d (Shotput)
+S15
+Successful
+N/A
+
+CredCount
+S17
+Unsuccessful
+N/A
+
+Circles
+S21
+Unsuccessful
+We identified health & fitness as the main problem space, as it's hard to stay fit while running a company.
+At Swelly (swelly.ai) we had 2.5M MAU before product/market fit and we've learned 1. spend more time finding users who use the product daily before scaling to millions 2. focus 3. pivot earlier and more radically.
+At Susta (susta.at = elephantskin.com) we've learned 1. to pivot fast, 2. create & sell a physical product to Xk retail stores within 6 months and 3. exit asap when it doesn't feel right.
+
+bxblue
+S17
+Successful
+First time ;)
+
+Pic ur Photo
+S19
+Unsuccessful
+We’ve relaunched our platform, and opened fulltime availability in various locations around London. We’ve added new dedicated photographers, and have had more applications from photographers who want to be part of what we’re building.
+
+Additionally, we’ve introduced a commision-based “street team”. We’ve improved our software, data, vetted new hotspots, and tried out the platform in Berlin, San Francisco, and Paris.
+
+We’ve created jobs for creatives like me. Take our photographer, Paul, for example: musician by passion, with stunning images on his instagram and professional equipment, but holds a normal (boring) job. We’ve created a platform where we can fund his passion for music, while still doing something he loves. He works for us part time, but has expressed he’s ready to quit his other job at the earliest opportunity.
+
+There’s a high entry barrier to starting a freelance photography business, so many people like Paul wouldn’t bother, but they’re perfect candidates, because they’re creative and have likeable personalities.
+
+We’ve collected an enormous amount of information, and we’ve discovered that photos are changing. People don’t want to look like models in their photos (staged), nor do they want to look like blatant tourists, and most photographers cater to one of those two things. They want–and they respond to–photos inspired by real life.
+
+Syllble
+W18
+Unsuccessful
+N/a
+
+80,000 Hours
+S15
+Successful
+Winter 2014.
+
+Team: Added a hacker, Peter Hartree, and a hustler, James Norris.
+Traction: 173 significant plan changes vs. 20 previously.
+Product: Created a 40 page online career guide and prototype web app.
+Domain expertise: Have coached another 100+ people, further testing our key content.
+Distribution: Will secured a $150,000 book deal with Penguin and a column in Vox.com. The book is finished and will be published in August 2015.
+
+Goodly
+S18
+Successful
+This is our first time applying :)
+
+Bubblin Superbooks
+W18
+Unsuccessful
+Yes, we applied with the same idea for YC Summer 2018. We have made a considerable progress on finding product-market fit since. The most radical change has been our adoption of a social strategy around books.
+
+Readers want to talk about what they have read with their friends. They often share insights, annotations or recommend the title itself to their friends. We introduced a few simple features to let them do that on major social networks and it resulted in an N! magnification in referrals and word of mouth.
+
+We are now calling ourselves 'a social book reader for web'! :-)
+
+PMAlerts
+S21
+Unsuccessful
+Product changes:
+- I'm now exposing the "Listeners" construct publicly. Listeners are the little pieces of code that query (via APIs, crawling, scraping) the supported platforms. In the future, I'd like for any developer to be able to easily build a listener of their own for niche sites/forums. Listeners are listed here: https://www.pmalerts.com/listeners
+- I'm also exposing PMAlerts Internals now. This lets anyone track PMAlerts KPIs, and helps keep me accountable to effective prioritization / growth / improvement: https://www.pmalerts.com/internals
+- Many of my existing users reported receiving noisy results. I've since implemented thumb ratings on results so you can grade your results as either good or bad. This helps "train" PMAlerts to improve relevance over time (right now it's just me manually tweaking things on my end, but this seems like a categorization problem that ML could help with).
+- One paying customer asked for a UberPeople.net listener, which I was able to spin up quickly because of the generalized "listeners" construct: https://www.pmalerts.com/listeners/UberPeople
+
+Perspective/priority changes:
+- In the short term, I think PMAlerts can make money by giving PMs an easy way to get closer to their customers, and by giving B2B sales professionals an easy way to "social sell". One long-term possibility is that PMAlerts becomes a thin layer on top of all social media sites that lets people build their own social media feeds (or maybe subscribe to others'). Another long-term possibility is that PMAlerts becomes the go-to social selling tool, and then works its way down the funnel for businesses of all kinds, tracking conversion from initial engagement all the way down to retained, paying customer - "salesforce for everyone" / "sales as a service".
+
+Pet Story
+S19
+Unsuccessful
+We have not applied previously.
+
+Code For Cash
+W18
+Unsuccessful
+Monthly Recurring Revenue has gone from zero to over $3300.
+
+We’ve found five unique customer acquisition channels.
+
+We learned that freelance developers really hate paying referral fees, even if they wouldn’t have found the work otherwise, and would rather pay a flat rate.
+
+We learned that hiring managers vary in their price sensitivity according to how tech-savvy they are: for example, a nontechnical founder is willing to pay a $200/month/developer recruitment fee, but a technical founder would pay one-time flat fee <$200, if that. We learned that there are more w2 developers in USA than freelance developers due to tax reform legislation that was passed in 1986. We’ve grown our customer base from fewer than 5 subscribers to over 60 active accounts, and increased our prospect list (e.g. purchasers of our books and mailing list signups) to over 2,000. We’ve identified the size of the market using top-down as well as bottom-up estimates and identified some key players (in the freelance programming platform market: Upwork, Guru, Freelancer; ancillary competitors: IT staffing firms like Randstad; development agencies like YC-funded Gigster). We have improved the product from barely a crontab, some ruby scripts, and a mysql database into a webapp with 6 major functional areas, (Preferences, CRM, Portfolio webpage, Training Materials, Share An Opportunity, Search [this is really just Algolia]). We search 40+ markets for jobs instead of just 10+. We filed for incorporation and started preparing essential legal documents, started to open a business bank account, and hired a bookkeeper to label all of our transactions in our accounting software. We’ve grown to understand the importance of culture fit (communication) during the freelancer hiring process, as well as the importance of having a specification/scope of work for freelance projects in order to ensure both parties are successful (we haven’t implemented this, structurally, into the webapp yet, but we will). We learned that freelance developers immensely care about time commitment when searching for work, and like to search based on a fulltime, part-time, or project-based commitment. I learned that developers respond very well to transparency, as do hiring managers. Despite relying on it as a livelihood, freelance developers dislike sales, so creating a “pull” approach to placement (that results in getting matched to a paycheck very quickly) rather than a “push” approach will be adopted very quickly. The main hurdles for a software development project not getting started are: manager doesn’t trust developer; developer doesn’t trust manager; project doesn’t have a specification yet; manager doesn’t know what a fair price is; developer doesn’t know how to bid the project. (Most of such problems are solvable through the right software). Developers are willing to take a chance on new platforms and see if they quickly get matched with a project that’s a good fit. So a smarter-matching engine is essential, as is a high volume of projects. The list goes on…
+
+VEED
+S19
+Unsuccessful
+Lots have changed since we last applied, apart from stats that we have listed below, I believe we have learnt so much from our past experiences running VEED and also matured as
+entrepreneurs.
+
+Last application
+- 2.000 users a month
+- 500 video a month
+- Manual Growth
+
+This application
+-30,000 users a month
+-40.000 videos a month
+- 50-80% MoM organic growth
+
+Employbl
+S19
+Unsuccessful
+This is my first time applying to YC
+
+Swelly
+W17
+Unsuccessful
+changed our approach from App to Multi-Platform. Swell is a source for asking questions & getting feedback no matter where you are. Bots, Apps, Smart-Mirror-Applications for Decisions in Fashion stores, etc.
+
+Prolific
+S19
+Successful
+We haven't applied previously.
+
+Streamplate
+W21
+Unsuccessful
+The biggest learning from developing Streamplate has been building for scalability once a product market fit is found. As we’re exploiting last-mover advantage, it’s been important to invest in the operation that’ll enable us to undercut the competition as much as possible from the moment we publicly launch. This is the idea of scalability in action — avoiding competition and looking to build a product that catapults ourselves far ahead of everyone else.
+
+Laitum
+W20
+Unsuccessful
+I haven’t applied in the last batch, but the idea has matured and has had small pivots in recent months, going from being a platform for basic science courses with students as teachers, to one that has (or will have) a whole educational ecosystem, ranging from vocational guidance to branches of specialization by career.
+
+Learn Venue
+S18
+Unsuccessful
+NA
+
+Dendron
+W21
+Successful
+The most notable changes: working on Dendron full time, launched the tool, and have active users.
+
+The idea is still the same but the implementation is different. Instead of building a standalone app, Dendron launched as an extension inside VSCode. This let me avoid much of the undifferentiated scaffolding work required to build a text editor and focus on Dendron's features around hierarchies.
+
+Virtually
+S20
+Successful
+We’ve applied before with different iterations of the same company.
+
+Our biggest learning has been that just selling online courses doesn’t cut it for most content creators. In order to attract high-ticket customers, online educators must turn to provide premium options to their students which includes real-time support either in 1-on-1 or group setting rather than just pre-recorded video.
+
+On the consumer side, we learned that for consumers to pay high-ticket prices ($1,000+) for any online educational program, it has to have very high ROI, often meaning transformational for their life and/or career. We’ve decided to double down on empowering career education, specifically mid-career education.
+
+Task Pigeon
+W19
+Unsuccessful
+No, I have never previously applied to YC.
+
+InEvent
+S19
+Successful
+We applied in 2015. At that time we had just started and we had only 8,000 dollars in ARR Since then we have increased our revenue to more than one million dollars.
+
+Flex
+S16
+Successful
+This is my second time applying to YC. (I was in the Fellowship W16 batch)
+
+OpenPhone
+S18
+Successful
+Launched and grew the product to 1,500 users.
+Started getting paying customers (32 people).
+Went from a three-tier pricing model to a simple $10/month plan.
+Launched billing in the app and improved our funnel conversions.
+Matured our thoughts about our distribution strategy.
+Launched new features to delight users.
+
+Paystack
+W16
+Successful
+By the last application, it was just a prototype, now we’re already running live transactions and we’ve released additional libraries.
+
+GitLab
+W15
+Successful
+No

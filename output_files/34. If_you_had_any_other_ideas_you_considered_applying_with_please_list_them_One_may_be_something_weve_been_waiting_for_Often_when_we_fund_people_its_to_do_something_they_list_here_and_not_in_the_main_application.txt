@@ -1,0 +1,291 @@
+
+
+Courier
+S19
+Successful
+A more abstract version of Courier that I have considered is an OEM integrations provider. Think: embeddable Zapier or IFTTT. B2B applications often need to let their users enable integrations between their service and other services, but this is built by hand today. Tools like Zapier or IFTTT are currently focused on enabling the end-user, but not on letting a SaaS provider easily offer certain out-of-the-box integrations.
+
+Parobyte Technologies
+Unsuccessful
+SMB investment marketplace - it is extremely difficult for a small business in India to raise equity investment. Also, individuals with dispensable income are unable to invest in small businesses because of lack of information. We intend solve this problem by resolving this information asymmetry and bringing together small to businesses and small investors.
+
+Supernote (Metlo)
+S21
+Successful
+1. Feature Store for ML
+
+2. Consumer subscription app studio (many are very successful in Belarus, Israel, China, Florida, and Bordeaux)
+
+3. Sourcing tool for recruiters based on data merged from GitHub and LinkedIn
+
+AthleteNet (FamilyLeaf)
+W12
+Successful
+Flower delivery business for spontaneous romance and home/office subscriptions. An exchangeable gift card. An AirBnB for audio, video, and photo equipment (e.g. sound mixers, DSLR lenses, high-end HD camcorders). A Birchbox for organic dried food. A Zappos for sports equipment. A web-based video chat client focused on scheduling meetings (great for office hours). A furniture shopping comparison engine. An API for product data from all retailers with an online presence.
+
+Parsnip
+S21
+Unsuccessful
+- Using Apple Pencil to teach penmanship and alphabets/characters for foreign languages.
+- Bilingual e-books: Automatic alignment and creation of parallel texts for foreign language reading practice. I’d like to make a marketplace for these in Parsnip.
+- Enhanced Accessibility tools for language learning: Make universal extensions (kennel extensions) for operating systems which allow looking up word meanings at the text to rasterization level.
+- “Subtitled” comics: Using optical character recognition and pattern matching on comics automatically.
+- Khan Academy for languages
+- Flash cards that understand the content to make learning easier. Using granular “knowledge components” (instead of mapping words to text like in Parsnip mapping photosynthesis to text) in a knowledge hierarchy to improve flashcards, textbooks and studying.
+
+CredCount
+S17
+Unsuccessful
+Christian’s ideas include:
+
+- A social experiment much like Facebook where every login or session has you assume the role and identity of a fictitious person. All data created by you while in the role of this person persists upon session expiration or sign out. Each time you log back in you must put yourself in the shoes of the previously created identity and post as such breaking the echo chamber that is social media today while also having fun.
+- Event-going today has turned into a very spontaneous unscheduled sort of thing. Often times I find myself wishing to get in touch with the people I met within the context of some random evening for pictures, videos and just networking in general. Think of this as a digital collection of your concert/sports tickets where each one expands into your experience prior and after the specific event!
+- Having spent 3 summers abroad in Barcelona working closely with nightlife promoters, one thing they always talk about for general improvement of their day to day is a way to more easily get in touch with their network to predict figures for guest lists and to not spam as much. Think of this as a 1 degree removed connection of the promoter and I want to hand over my network list of those specific few that are headed to Barcelona for vacation. Hopefully this would be that he’d have my network only for the time that my friends are travelling to cut through on the spam.
+
+One Month Rails (One Month)
+S13
+Successful
+An app to send a picture to a doctor for diagnosis, a marketplace for second-hand airline tickets, reliable Wifi for conferences, a line of brain enhancing supplements, among many others.
+
+Circles
+S21
+Unsuccessful
+1. A market place to book coaches
+2. software to enable teachers & coaches to offer cohort-based learning
+3. global health insurance for remote teams.
+4. a Co2 dashboard for corporates to measure and reduce their carbon footprint
+5. [ApplyDeck.com](http://applydeck.com/) - the admission office of online education helping you apply to YC, On Deck, Stanford,...
+6. A slack for a-synchronized audio & video team communication.
+7. An open source backend allowing companies to enable crypto rewards and payments.
+8. a fitness tracker for dogs and their owners to stay fit together.
+9. software that magically designs a fashion collection in your companies CI: we've built this: [[https://www.dasmerch.com/konfigurator](https://www.dasmerch.com/konfigurator)]
+10. @CryptoKitties for endangered animals donating to conservation.
+11. Back and neck therapy for remote workers
+11 [Segment.com](http://segment.com/) for health & fitness data (hospitals, doctors, Pharma...)
+12. Coffeebreak - 5-minute breaks with co-workers initiated in Slack.
+
+MakeGamesWithUs (Make School)
+W12
+Successful
+1. Social games - we are developing a social game for iPhone called Realms at War. We hope to be the Kixeye or Kabam of mobile gaming – a more hardcore audience that is correspondingly more engaged and spends more.
+2. Games that teach people real world skills or solve real world problems. We could turn a website like Omegle into a game, allowing people to rate each others' conversation ability, and have everyone compete for the title of "Most Interesting Man/Woman in the World".
+3. Kickstarter, but for mobile apps.
+4. An App recommendation engine, through user profiling and collecting data from their social networks we could address the problem of discoverability in the app store.
+5. This or That engine. A user would input two products they wanted to buy (or two cities they wanted to visit), the system would profile you based on your Facebook and Twitter accounts and try to predict which of the two you would like more. Effectively this would be like asking your wife/girlfriend/mom for advice on what to do.
+6. The precursor to our main application idea: an app academy, open only to developers in high school in college. We provide guides, help, and a community, they develop (simple) games for free, we pay artists to skin them at no cost to the developer, and we publish the games for 99c or $1.99 taking 50% of the revenue.
+
+The Muse
+W12
+Successful
+Nope :)
+
+Lollipuff
+W13
+Successful
+We didn’t have any other application ideas per se.
+
+However... we do have ideas for auxiliary uses of our platform. Consignment shops (both online and off) often lack expertise in authenticating clients’ goods too. Using our authentication expertise, we could provide a service to such stores. The store could go through the authentication process in the same way as creating an auction listing. Instead of placing the item up for bid, we could generate a “certificate of authenticity” that could be displayed (and verified via a Lollipuff URL) to potential buyers. In this way, we become a trust service... much like the origins of “PayPal verified.”
+
+YogaTrail
+S14
+Unsuccessful
+I’ve discovered that building a website like YogaTrail is in many ways more difficult than building a nuclear fusion reactor. Just the technical aspects are much more involved than I had imagined at the outset (with all the different browsers, mobiles, etc) – but the real challenge lies with the users:
+
+In science/engineering, things are very straight-forward: apply an electric or magnetic field, and electrons move in a predictable fashion. But humans are totally mysterious beings… where the colour of a button can have all sorts of effects.
+
+Trying to figure out what people around the world want, what they will pay for, and generally what they’re thinking when they use a website is very challenging and often surprising, although taking a scientific approach (testing and measuring) has been very helpful.
+
+Pic ur Photo
+S19
+Unsuccessful
+We are 100% fully committed to Pic ur Photo.
+
+Syllble
+W18
+Unsuccessful
+N/a
+
+80,000 Hours
+S15
+Successful
+No
+
+Spreadsheet Magic
+S14
+Unsuccessful
+Search engine specialised in answering questions in natural language.
+
+People centred e-mail with advanced natural language processing features (like extracting events and tasks from e-mails automatically).
+
+Goodly
+S18
+Successful
+Marketplace for job applicants to find open roles at companies that offer the benefits that matter most to them.
+
+Apptimize
+S13
+Successful
+EEG machine to read babies’ minds. We like playing with our Emotiv machine, know prominent MIT/Stanford researchers, and see parallels between EEG analysis and high frequency market data for financial instruments (both systems produce massive amounts of data that seem random but aren’t).
+
+A page-less browser using crowdsourcing. It’d show logical dependencies, assumptions, relationships between ideas, and best arguments for and against each belief.
+
+Bubblin Superbooks
+W18
+Unsuccessful
+We considered building a startup of book writing tools earlier. Some of its technology and tools are in use on the supply side of Bubblin. In many ways without these tools Bubblin might not have come into existence at all.
+
+The site is still live at: https://bookiza.io
+
+PMAlerts
+S21
+Unsuccessful
+FStop.fm connected models to photographers, but if I had to try again, I'd make it the easiest way for businesses to get creative work done. "Project management for creative teams". MVP done, 50k+ users from my original attempt in 2016. I applied to YC twice with this idea.
+
+GuardMyPad.com is a SaaS home security solution built on WebRTC that lets people recycle old devices into motion-detecting security cameras that record media into their cloud storage accounts / local device storage. The MVP for this was finished in 2017, but I never brought it to market because I didn't know how. My mission with this was to give lower-income folks a free way to recycle their old tech into a "better than nothing" security solution.
+
+Karma is a public notebook / collaborative self-education platform (like Roam, but social). I'm using this to internalize a lot of YC / Startup School lectures, eg https://www.karma.fm/p/yINKGvw/how-to-sell-by-tyler-bosmeny https://www.karma.fm/p/vszjKtl/do-things-that-dont-scale---paul-graham
+
+CondoGrades is meant to give power to residents/owners who have fallen victim to incompetent HOAs / property management companies / abusive landlords. It would begin as Yelp for condos - "get paid to grade your HOA". Renters and homeowners would get paid to provide data that CondoGrades sells to home buyers / real estate agents. Landlords would pay for the ability to respond to public renter feedback.
+
+Tweet.fm is a voice-based twitter alternative built on subscriptions (no ads).
+
+Rolo is an omnichannel CRM solution - connect your Rolo account to all social media + email channels, and have one place to communicate with customers on whatever channel they prefer (Twitter DMs, emails, Facebook messages, etc).
+
+Kanban is like a public Trello that allows people to contribute to projects via small tasks, and get paid for closing out those tasks. "Public project management" positioned to support the growing needs of decentralized projects. (PG's talk on "solving email" by treating it like a TODO list is what inspired this - step 1: forward emails into a spam-detecting Trello-like interface so you never have to visit an inbox again, step 2: evolve from private, personal task management to collaborative project management).
+
+Docs.fm is a simple docs-tracking utility that automatically reminds product teams to review / QA / sign off on their technical documentation. This is a huge problem for product teams - technical docs tend to go stale because our systems don't make it easy for PMs / EMs / SWEs to form a healthy documentation habit. Docs.fm is the habit-forming solution.
+
+Unionite is a universal unionization platform / "nonviolent resistance as a service".
+
+BitSpend is a simple tax calculator for crypto holders who spend their holdings and need an easy way to calculate their cost basis / tax liability. It just needs your public wallet address(es) and your income bracket. Then, you tell it when you spend, and it spits out the lowest possible tax liability based on when your crypto was purchased (first in, last out to minimize tax). All in a format that's easily attachable to your state/federal tax returns.
+
+Pet Story
+S19
+Unsuccessful
+- The elderly market is underserved and growing with the aging baby boomer population and longer life expectancy. We’ve touched the surface with Memoir Share and Reader Vision (a utility app to help read menus).
+- We are both passionate about education/learning, and believe it still has major flaws. High level concepts often escape understanding if a person hasn’t graped core principles. Imagine breaking it down into smaller concepts and focusing on the ones you as an individual need clarity on.
+
+Code For Cash
+W18
+Unsuccessful
+I think there’s an opportunity for a service that hires product-inclined software developers to write specifications for software programs: from having facilitated many consulting projects via the platform, I can tell you that projects with well-defined data-input and data-ouput tend to end in success rather than tears. This would be beneficial for the FTE software market/ecosystem as well as the freelance developer market. These specifications could consist of simply wireframes/data flow descriptions, or even possibly automated testing systems (TDD, except the test writing is outsourced).
+
+Mattermark (Referly)
+S12
+Unsuccessful
+Twilio for global logistics
+P2P postal delivery service
+
+VEED
+S19
+Unsuccessful
+No, we think there is a lot of opportunity in our current idea and look forward to developing new tools under the same company. Such a live video editing platform for streamers, VR & AR Editing..
+
+Employbl
+S19
+Unsuccessful
+One idea is to have personal shoppers in Cape Town send swag to Americans.
+
+When I was in Rwanda I worked with a friend on a software solution for a dairy factory called Cows N Hills. Never applied to YC with it but could’ve been awesome.
+
+Swelly
+W17
+Unsuccessful
+1. Represent.wtf — send the start-up you want to represent to a bot. It gives you todos like “Share App to twitter” and rewards you with free Swag.
+2. Avo.do — A bot that sends you 1 todo + 1 question a day. Do it to get fit and healthy, it learns in gives you individual tips and workout plans.
+3. Oma.ai — DIY bot platform that let’s fashion brands offer great customer support, so they feel like when talking to their granny.
+
+Prolific
+S19
+Successful
+If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
+
+Slite
+W18
+Successful
+Really not for right now but at some point in the future I'll build the next generation of remote tool, allowing with a set of mixed reality & 360 cameras to get the proximity effect you have with your teammate across the desk.
+While it's really still in my mind, I'd be happy to be challenged on this one!
+
+SketchDeck
+W14
+Successful
+Pulse: A lightweight employee engagement/happiness gauge that measures and advises managers how to improve their workplace
+SnapBet: Take a photo, choose a bet (e.g. "I'm better looking", wager £5) and be pitted against a random stranger. Third person judges, and one photo taker wins the bet (e.g. £10)
+Nobox: An inbox that tracks what is unread / what items are flagged as 'being worked on' and rejects further mail until you've had time to deal with the current load. This forces senders to take responsibility rather than overload their colleagues
+Work for Change: Connecting up homeless people with Amazon Turk and Virtual PA work, to empower them to generate an income and change their lives for the better
+‍A platform that radically evolves an entire website's design, through A/B testing for core business metrics
+Shazam for calories ‐ Snap the menu, get the nutritional info
+Automated corporate communication advice ‐ it gives an effectiveness measure against target demographics and suggestions for improvement
+An easy way to short bitcoins in the UK/Europe
+Automated personal finance advisor ‐ pulls your current account and savings account information, then provides cashflow suggestions throughout the month
+
+Streamplate
+W21
+Unsuccessful
+Copy text in images: Drag cursor over image-based assets (eg. JPG, PNG etc) and highlight text within an image and by using OCR, the text in the image can now be added to the user’s clipboard.
+
+Rosebud: Patients with a low Glasgow Coma Scale score can be in a vegetative state for years, and their progress or receptiveness is manually recorded by a visiting physician. This momentary assessment misses the minute reactions the body has throughout the day to surrounding stimulus, and so with computer vision, this process can be highly automated and then leveraged to extrapolate tests to ‘awaken’ a patient.
+
+Synthetic neural tissue: If I ever pursue neuro-trauma surgery this is what I’d like to work on as it’s effectively developing constructive neurosurgical techniques rather than relying on the methods that focus on ablation eg. tumours, hematomas/haemorrhages, vascular malformations etc.
+
+Malteser sized computer mouse: Using the fingertips to move a mouse cursor rather than an entire mouse.
+
+Modularised kitchens: Creating a set of modules that can be added together like Lego, to create automated kitchens. The business model would be users sharing IP of recipes which can be used by other kitchens. The focus is on domestic instead of commercial kitchens.
+
+Firefly: Automated drones that fly over rooftops for last-mile delivery.
+
+Learn Venue
+S18
+Unsuccessful
+Our technology can also be used in:
+
+Developing an SDK:
+The SDK can be used by mobile developers to harness the power of the mobile device to run computer vision applications.
+
+Augmented Reality:
+To detect objects in a live video stream. Think of Google Glass with added object tracking to achieve near ‘Iron Man’ capabilities. Drone OS: Drones are essentially low powered computers and our technology can provide them with much needed visual intelligence data for navigation, object tracking, or object avoidance.
+
+Reducing the number of servers:
+If our technology were to be deployed in servers, it will require less number of them to run AI models such as image classification, speech recognition, or video intelligence.
+
+Vision for the blind people:
+Once integrated into Google glass type of devices it will deliver much more useful information about the environment to the blind person than current ‘smart’ cane that only tells if ‘something’ is ahead of them.
+
+Virtually
+S20
+Successful
+N/A
+
+Cruise
+W14
+Successful
+Turbotax for mortgages
+DNS for snail mail
+Github for CAD
+
+Task Pigeon
+W19
+Unsuccessful
+No, I’m 100% committed to Task Pigeon
+
+InEvent
+S19
+Successful
+None at the moment. We are really interested in the business enterprise software market. We are open to similar ideas at them.
+
+Seeing Interactive (Own Local)
+W10
+Successful
+We spend so much time thinking about newspapers and local advertising, that we find that our ideas can almost always be integrated into our current goals. However, here are some annoying things that need to be fixed: a clothing recommendation engine or Zappos plusAmazon for shirts and pants; online grocery shopping application with an Amazon-style recommendation engine, ie, "it's been two weeks since you've purchased milk, do you want that added to your order?"; a search or recognition engine that matches houses or cars to a unique set of user-entered values, ie, John is a traveling salesman who wants an efficient vehicle with plenty of room to install his laptop; and a kayak-style travel search for idle corporate and private jets--both for buyers and sellers.
+
+Mixpanel
+S09
+Successful
+We’re considering entering other areas of analytics and business intelligence such as Mobile and outsourced data processing through Hadoop.
+
+After looking at your ideas page, we thought it was interesting that we might address #30: Startups for startups.
+
+Dropbox
+S07
+Successful
+One click screen sharing (already done pretty well by Glance); a wiki with version-controlled drawing canvases that let you draw diagrams or mock up UIs (Thinkature is kind of related, but this is more text with canvases interspersed than a shared whiteboard) to help teams get on the same page and spec things out better (we use Visio and Powerpoint at Bit9, which suck for working collaboratively); some ideas surrounding better web analytics for newbies

@@ -1,0 +1,410 @@
+
+Courier
+S19
+Successful
+Competitors line up in two categories: marketing focused, such as Iterable (https://iterable.com/), and engineer focused, such as Twilio Notify. Iterable is easily the most robust competitor in this space, but is focused on a different buyer persona and thus a different set of features. With the acquisition of SendGrid, I expect Twilio to re-invest in this space in the future - currently Twilio Notify is not a compelling product. I still expect whatever solution Twilio brings to market to be Twilio+SendGrid-centric rather than open to many providers, but given their dominance in both of those respective channels, they're certainly who I fear the most.
+
+Athens Research
+W21
+Successful
+Roam and Notion.
+
+Fear an open-source competitor more.
+
+Parobyte Technologies
+Unsuccessful
+Udaan, Amazon Business and Flipkart B2B, among others, are our competitors. These companies have a slightly different value proposition. They provide the broadest selection at the cheapest prices. We, on the other hand, provide a selection of fast-moving SKUs with fastest delivery.
+
+We fear firms with deep market penetration such as Udaan and Amazon Business. Even though they have evolved as B2B ecommerce firms with a big fulfilment centre per region, it is not impossible for them to add multiple small FCs within in the region/city to cut down on the fulfilment time.
+
+MagicBell
+W21
+Successful
+Twilio provides APIs for delivering notifications on different channels and hence could be considered indirect competition. In fact, Twilio just participated in the Series A funding of XXX, that’s solving the same problem, albeit with a different approach.
+
+It's possible that companies like Pusher or Onesignal offer a competing product in the future.
+
+Supernote (Metlo)
+S21
+Successful
+We don’t have any real competitors right now except Deepnote (YC S19) and Naas (https://naas.ai). We don’t really fear them.
+
+In the future we think Databricks, Domino Data Lab, AWS, Azure and GCP could all become competitors. We do fear Databricks changing their notebook product to be exactly the same as ours -- if they do this, we’re not sure what we’d do because they own so much of the data infra in a company’s stack that it would be very difficult to compete with them.
+
+Simula
+S18
+Unsuccessful
+What we fear the most: bad timing/VR Winter. In 2017, VR failed to meet the industry’s growth expectations, suggesting it has not reached its moment of ascension on the hype cycle curve. This could require the founders to survive a “VR Winter” by staying lean and keeping the project alive long enough to be around when VR takes off (that, or try to be the reason VR takes off: providing the killer use case that the rest of the industry was missing). We have been handling this by finding clever ways to fund the project internally (see our answer to “If you’ve applied previously with the same idea, how much progress have you made…?”)
+
+Other risk factors:
+
+- Explicit competition. Microsoft Holographic is providing the well-polished, proprietary VR OS in the Windows ecosystem; meanwhile, other VR Desktop startups (BigScreen) are based in the MS ecosystem. In addition, some headset manufacturers appear to be making their own VR OS’s internally (i.e., Magic Leap), but haven’t actually released anything. Other than this, nobody is explicitly targeting Linux Desktop users like we are, primarily because it is such a small market (1%-2% of all PC desktops run Linux).
+- Implicit competition. We also fear that Valve’s SteamVR could organically evolve into a viable VR desktop environment (to the surprise of people who think of it primarily as a gaming/entertainment platform). The same holds for Google Daydream or Oculus.
+- Headset Friction. The friction of having to mount and unmount an HMD just to access your OS might prohibit VR Desktops from taking off.
+- Lack of Open-Source Durability. Open source projects are easily forkable. Simula lacks long-term durability until it can find a way to protect itself from other competition.
+- Poor Text Resolution. You can’t spend 16 hours a day in VR Desktop if the text resolution is poor. Industry improvements to GPUs and HMDs might solve this for us, but if it doesn’t there might be other techniques (vector-based 3D text rendering) that we can try.
+
+AthleteNet (FamilyLeaf)
+W12
+Successful
+Competitors: eTeamz, TeamSnap, LeagueLineup. Potential competitors: BeRecruited, Takkle, MaxPreps, Rivals, Scout, Weplay. Who we fear most: BeRecruited.
+
+Parsnip
+S21
+Unsuccessful
+DuoLingo, Babbel, Busuu, RosettaStone, Chatterbug and Anki are some of my name brand competitors. We are in the same market but our approaches are so different we won’t directly compete.
+
+Even though DuoLingo has become the first $1Bn company in the market there is no market leader. The top 15 language learning apps only have 42% market share. It’s a free-for-all until someone achieves product-market fit. And as mentioned previously there is no one that targets intermediate and advanced language learners.
+
+LingQ is my closest competitor. They started with learning vocabulary from native books and articles. But I don’t fear them, they’ve been around since 2007 and seem content being a niche product. Also, I feel like they launched too early when the content and technology was lacking. Which led to them continuously adding “me too” features. In the end making them look like every other language learning app plus a small gimmick.
+
+Voxy is the company I fear most; they are solidly executing on the principles I am aiming for. If they were to drastically change their target market it could be troublesome but for institutional and corporate English as a second language (ESL). Fortunately their chief educational officer is completely dismissive of independent language learning and student choice.
+
+derivative/d (Shotput)
+S15
+Successful
+Competitors: ShipWire, SymphonyCommerce, JaggedPeak, Amazon
+
+Fear the most: Amazon
+
+CredCount
+S17
+Unsuccessful
+Based on data science and specific to the social computing field, we fear FactMata (https://medium.com/factmata/introducing-factmata-artificial-intelligence-for-political-fact-checking-db8acdbf4cf1) the most. As far as we know, to this day, they have no model or product and haven’t released anything close to the technology described within our whitepaper. That said, other fact checking websites will be our main competitors such as Snopes (http://www.snopes.com/) and PolitiFact. Otherwise, as Google and Facebook begin to roll out their own solutions these will be internal solutions to problems faced by the all media services on the internet. We do not fear these big guys as much because we stand to help all the rest using a paid for plug-in service if we decide to go that route.
+
+One Month Rails (One Month)
+S13
+Successful
+Online competitors include Codecademy, Treehouse, Code School, Thinkful, AngelHack (they'll announce it soon), Khan Academy, Skillshare, Lynda.org, and Code.org. Potential competitors include offline "bootcamp" programs like General Assembly, Flatiron School, Starter League, Dev Bootcamp, as well as more traditional for-profit institutions like University of Phoenix.
+
+My biggest fear is that the big for-profit players like University of Phoenix shift in the direction of web development and are able to outspend smaller startups to capture the mainstream market.
+
+Circles
+S21
+Unsuccessful
+we build on top of health data provided by thousands of tools (Apple Health API, etc.); we help you improve not only track.
+Currently, people use 1. journaling, takes ~ 10 minutes twice a day and you never look at it again. 2. Coaches & personal trainers, but it takes them months to get good data about you. 3. Apps: Gyroscope, Oura, Whoop, Apple Health, MyFitnessPal 4.platforms: Headsup Health,..
+
+MakeGamesWithUs (Make School)
+W12
+Successful
+Companies like Odesk, Elance, or 99designs are competitors, so are mobile game publishers (Zynga, EA). Incentivized install and ad networks such as Flurry and Tapjoy have raised developer funds which will compete with our service. Appcelerator’s Open Mobile Marketplace is who we fear most, they sell individual components and modules created by developers to be used in other apps.
+
+The Muse
+W12
+Successful
+LinkedIn will always be a fearsome player in the recruiting space, but its approach and interface will always leave room for other players in the space. The Ladders is another likely competitor, though we believe they are limited by the banker­-esque brand they've created and the fact that many young professionals do not solely define themselves by the ability to make over a certain salary; more and more, individuals are drawn to tech start­ups or global development in addition to, say, corporate strategy.
+
+On the media end, Marie Claire is moving sharply in our direction (professional women, career content) but because of its strategy and the limitations of its mass-­market, print-­focused model, it is likely to become more of an ally than a competitor. We are in frequent touch with Marie Claire's publishers to talk about how we can work together.
+
+LearnVest is another potential competitor, should we decide to move into personal finance or should they move strongly into career.
+
+Lollipuff
+W13
+Successful
+eBay, Bonanza, HipSwap, ThreadFlip
+
+We fear eBay the most. However, Ebay is built around a broad, general audience. Our authentication process isn’t necessary for the bulk of their listings (eg. sub-$100 items). Our site targets eBay’s underserved luxury good niche -- starting with women’s designer clothes.
+
+YogaTrail
+S14
+Unsuccessful
+There are many competitor sites out there (about 50), but they all fail because they're generally built very badly, they're not populated, or they restrict themselves to small regions. The biggest competitor is "yogafinder.com”, xxxxxxxxxxxxxxxxxx.
+
+Our biggest fears are actually caused by places like yoga.com, who are not competing with us at all at the moment, but who have the money and the resources to quickly build a directory and throw lots of money at marketing.
+
+Proxino (Taazr)
+S10
+Successful
+Coverity and Klocwork also find program bugs, but they don’t target web applications. Moreover, engineers use their products throughout the development process, whereas Taazr operates, automatically, on live production code.
+
+bxblue
+S17
+Successful
+Our biggest competitors are bank correspondents: regular stores that can sell financial products on behalf of the banks. They count on freelancer street brokers that go to government offices to find deals and bring them in.
+
+And, although we sell loans on behalf of the banks, they could also go online (and they eventually will) and start offering themselves their own payroll deductible loan, but that would only represent an online version of their biased bank manager.
+
+Pic ur Photo
+S19
+Unsuccessful
+Airbnb, Perfocal, freelance photographers, Android/iOS
+
+Airbnb has global appeal and some vendors on Airbnb Experiences have begun offering “location-based photography” and photo tours. We have our own USP’s above and beyond what Airbnb photographers are offering, but we believe they’re in the best position to compete with us in the tourist industry, which is our most lucrative target.
+
+Syllble
+W18
+Unsuccessful
+https://Reedsy.com
+https://Wattpad.com
+https://Scifutures.com
+
+We fear Reedsy the most.
+
+Spreadsheet Magic
+S14
+Unsuccessful
+Google Spreadsheets. Zapier. Unix pipes. Traditional programming languages.
+
+Recently found about https://www.kickstarter.com/projects/936813051/stoic-platform – it is very related to what I plan to do. They also use spreadsheet, but focus more on pre-made components than on making general purpose programming system.
+
+My biggest fear is Stoic doing good general purpose programming in their system.
+
+Goodly
+S18
+Successful
+Gradii, Tuition, Student Loan Genius, Peanut Butter
+
+We fear large financial institutions with significant resources and existing partnerships.
+
+Apptimize
+S13
+Successful
+Several companies very recently entered the game. Swrve has so far focused on games. Pathmapp is focusing on overall analytics (pretty different from our approach). Abstate is unlaunched. Artisan and Arise.io have buggy, immature products. A risk is that Visual Website Optimizer or Optimizely will decide to focus on expanding from websites into native apps. Native might be a natural next step for them since they offer web app support in premium plans, so we’ll grow aggressively.
+
+We think there’s no dominant player because nobody has made anything good yet. Our goal is to be the best.
+
+Trestle
+W19
+Unsuccessful
+My most direct competitor is Names and Faces, a YC company from the last batch, who is catering to the same customer base building out a simple employee directory. While they have a great UX, they have only the most basic information about employees: their name, picture, contact info, department, role, and office. They also lack any company information.
+
+The competitor that I fear most are the variety of HRIS services that many companies already use such as Namely and Workday. They already have a huge customer base and offer a directory service. However, currently they suffer from a few problems: they generally have extremely poor UX, employees view them as mainly a place to update their payroll, view benefits, etc. not a place to connect/collaborate, and they also only show basic information about employees. If they decided to invest more effort into better UX and features, they would be a significant threat.
+
+Lastly, Stripe could be a possible competitor in the future. They wrote a blog post about Stripe Home which got a significant amount of attention and their product has a good enough UX and features that I believe that it would succeed. They are also well respected in the startup community and also have a large customer base that they could sell to. However, as far as I know, they currently have no plans to productize Stripe Home and sell it to other companies.
+
+Bubblin Superbooks
+W18
+Unsuccessful
+We have some very big players in our space like The Penguin Random House, Simon & Schuster, HarperCollins etcetera. If we were to start selling books tomorrow then the Kindle Cloud Reader would be our closest comparison. In general we're the same old idea slapped with a slick UI and distribution built in.
+
+We're super careful about pitching against Kindle but our readers swear by the experience we bring to the table. A great community will help us differentiate in the long run. We don’t fear our competition too much because we are relying on ideals of free and open source software that have stood the test of time.
+
+PMAlerts
+S21
+Unsuccessful
+Social media monitoring competitors include Brand24, Mention, Sprout, Awario, HubSpot, Google Alerts, and Google Trends. These solutions don't seem to be leaning into the leadgen aspect of their business, but if they do, I could lose an opportunity to become the go-to customer development solution.
+
+PMAlerts would be competing with / complementing Salesforce in the CRM space. It would be competing with Google + Facebook ads in the targeted advertising space. And LinkedIn Sales Navigator in the targeted selling space.
+
+In all cases, social media platforms could limit my access to their data. That's what I fear most.
+
+Pet Story
+S19
+Unsuccessful
+Rover and Wag, both walker services are the biggest competitors. They provide on demand walks and sitting services. Care.com focuses on discoverability, but not on building the relationship and trust afterwards.
+
+Code For Cash
+W18
+Unsuccessful
+There are online marketplaces like Upwork, Guru.com, Freelancer.com, but they don’t focus on freelance programmers. Toptal has focus on freelance programmers, but they only concentrate on the top 3% of the market. C2C (corporate staffing firms, like Robert Half) do (roughly) ~$6B in annual revenue in this area. My biggest fear is Upwork launching a product that caters to the idiosyncrasies of the freelance programming market.
+
+Mattermark (Referly)
+S12
+Unsuccessful
+Crunchbase, Forrester, Gartner, Bloomberg, StartupStats.com, Dow Jones Business Wire, various business indices, Morningstar
+
+Standard Treasury
+S13
+Successful
+Possible competitors: Square, Stripe, Braintree, Wells Fargo, JP Morgan, Bloomberg, Intuit, PayPal
+
+Banks cannot innovate on technology. A senior exec at JPMC told us that even if building good APIs was a Jamie Dimon priority it couldn't get done before 2017.
+
+Commercial banking broadly - including every service we're imagining other than ACH (F/X, Wires, Factoring, Lending, Account Creation/Deletion, etc) - is not something that the innovative payments companies plan to provide to others, although they're all services they, themselves, need. Stripe, for example, is trying to make payments work on the web. We're trying to make commercial banking work in the world. They're both trillion dollar problems, but they're different.
+
+So, who do I fear most? I fear regulators the most. Banks can't beat us on technology but we might be so successful they beat us with the law.
+
+VEED
+S19
+Unsuccessful
+Our competitors are Kapwing, Adobe, Apple. I don't think startups should have a fear of competition. We are focusing on making a great product for our users and will evolve our offering overtime to meet their needs.
+
+Employbl
+S19
+Unsuccessful
+Hired, AngelList (Source and A-List), Vetterey, Indeed sourcing, Third party recruiting agencies.
+
+Kash
+S14
+Successful
+Venmo (now inside PayPal) is really impressive. As is Dwolla. We are different than both of these companies because we focus primarily on retail transactions. Our goal is to do this live, at retail locations.
+
+We don’t fear Visa or MasterCard. We talked to a senior executive at MasterCard and they don’t worry about “interchange busting.” They want to become more mobile, but they see no risk to their existing way of processing transactions. We do worry about Square and PayPal. If they wanted to cannibalized their main revenue source in credit card processing, they could take us out. But that’s a difficult business decision for either of them to make.
+
+We do fear Google and Apple. If they get their act together, they could really disrupt the whole industry.
+
+Also, if Bitcoins become mainstream and replace government-backed currency, that would destroy the entire market we are aiming to disrupt.
+
+Prolific
+S19
+Successful
+Right now, our biggest competitor is Amazon's Mechanical Turk (MTurk) – it's been the primary solution for academic researchers in the past 10 years. Smaller competitors in the academic space include TurkPrime, Positly, and Testable Minds.
+
+The wider "people research" space (including market and user research) is a much bigger market, and more crowded. The largest potential competitors include Nielsen, Dynata (formally Research Now SSI), YouGov, Cint, IposMori, Qualtrics, and SurveyMonkey Audience.
+
+We see the greatest growth in on-demand online platforms that give researchers direct control over data collection. So we fear other fast-moving startups the most, such as panel aggregators ([redacted]) and platforms for user research ([redacted]).
+
+We hope that our upcoming API will allow us to be the "people research" infrastructure layer of some of these companies, turning them into partners/clients instead of competitors.
+
+Slite
+W18
+Successful
+We have 3 types of competitors :
+- word processors that are becoming more and more collaborative among which Dropbox Paper, Google docs and Word
+- wikis like Confluence & google Site
+- And eventually hybrid tools like Quip & Notion, trying to solve project management and knowledge while making documents evolve
+
+SketchDeck
+W14
+Successful
+Microsoft powerpoint, Google docs, Apple Keynote, Slide design outsourcers, OCR companies might become competitors, Tablet note taking companies might become competitors, Startups of the future.
+
+We'd say our closest current competitor is the low cost slide design outsourcers. We most fear other startups due to their speed and innovation. Overall though, we focus on our clients rather than our competitors.
+
+Streamplate
+W21
+Unsuccessful
+As we’re looking to forward delivery orders this by-passes the typical competitor that would be the well-capitalised companies like UberEats, Deliveroo, DoorDash, GrubHub etc.
+
+But, as we’re not relying on delivery as being part of our revenue stream, we see our primary competition being other platforms; namely Facebook, Google and Amazon. These platforms have the capital, reach and ability to similarly consolidate services.
+
+This will realistically always be a threat. However, I think Streamplate’s goal of showing users what they want rather than interlacing that with ads, or other services (eg. embedding reservations in Google Maps) will mean that we have a philosophy to guide us away from the tactics and strategies that may be employed against us.
+
+Laitum
+W20
+Unsuccessful
+– The big ones that have courses about almost everything: Udemy, EdX, Coursera.
+
+– Other competitors: TareasPlus, KhanAcademy, Mayugo, aprendiendo.la, among others.
+
+– The bulk of our competitors: Institutes, universities and consultancies with education programs mostly live and at high prices.
+
+– What I fear most is the one who may become a competitor: Platzi, a technology education platform. Although the physics and calculus courses that they have on their platform could have been produced to help science divulgators or as a marketing strategy, they could be a great competitor if they get into other areas of science.
+
+Learn Venue
+S18
+Unsuccessful
+Our direct competitor is XNOR.AI. It is a startup based out of Netherlands. We both share similar technology and vision to make the device intelligent rather than the cloud. Google and Amazon Cloud video intelligence also pose a threat indirectly. There is always a chance that Google tries to venture into on-device intelligence. However, we believe that it will be against their established infrastructure and services around cloud intelligence. But we do fear this the most.
+
+Dendron
+W21
+Successful
+I divide competition into two groups: established and upcoming.
+
+Established competitors are Notion and Roam. These tools all provide a better take on knowledge management and have significant traction and funding with their current user base.
+
+Upcoming competitors are Obsidian, Logseq and Foam. These tools are all free and attract a similar customer base as Dendron.
+
+At this point, no competitor offers the equivalent of Dendron's hierarchal features. My greatest fear and hope, is that they do. Using hierarchies to manage notes goes against what is currently trendy (eg. structureless approach to note taking). Half the battle right now is convincing people to give Dendron a shot because of our focus on hierarchies (once they do, they end up sticking with it). If more tools adopt hierarchies, it'll lower the friction for people to adopt Dendron. If we end up in a world where we compete on hierarchical features, not only will Dendron have a headstart but it will also have significant mindshare in pioneering the new trend.
+
+Virtually
+S20
+Successful
+We’re not seeing majors players in this space, but companies that are most equipped to take on this space:
+
+Mighty Networks
+Teachable
+Lambda School
+We fear Teachable the most due to their access to a rich pool of online creators.
+
+It’s important to note here that online courses don’t cut it for career-changing education.
+
+Cruise
+W14
+Successful
+Google currently has the most impressive self‑driving cars. Elon Musk has announced Tesla's plans to have cars that drive 90% of the time in 3 years. Most major auto manufacturers have already demonstrated self‑driving R&D prototypes and have partnered with various universities. OEM's like Bosch and Continental have large teams working on self‑driving technology that could end up in future generations of new cars.
+
+We are most afraid of Google. Their systems potentially have access to Streetview and Maps data, which is extremely hard to replicate. Their current technology is too expensive to sell directly to consumers, and their commercialization strategy is unclear, but those things could change very quickly.
+
+Mimir
+S15
+Successful
+Our competitors are organizations such as CodeHS and Code.org that are offering course content for instructors to use in their courses. The problem with them is that they only provide that content and still require schools to hire a qualified CS instructor to teach the material and handle the assignments unlike our platform.
+But by far, our biggest fear is Google. Google is continuously making a push for expanding CS education. They have released a vast amount of resources to help teachers better their current CS courses. They have yet to introduce a pre-builts CS program that can be deployed into school but it is certainly something we can see them doing. We plan building Mimir to the point we become an acquisition target for them.
+
+Task Pigeon
+W19
+Unsuccessful
+On the task management from Trello, Asana, Monday.com, Basecamp, etc would be our largest competitors. Interestingly enough some user research we conducted highlighted that people outside of the tech ecosystem haven’t heard of these platforms as often as you would think. Therefore I don’t believe any one player has achieved a dominating position in the market.
+
+On the outsource/freelancer front platforms such as Freelancer.com and Upwork are out main competitors for general tasks. There are also other platforms that offer freelancers for a more defined scope such as blog writing (i.e. iWriter) ,marketing (CloudPeeps) or general virtual assistants (i.e. People Per Hour), etc, but again that requires going out of your existing task management tool and into another in order to find and source someone appropriate to complete the work for you.
+
+In terms of who I fear most it would be a well funded company such as Asana or Trello (acquired by Atlassian) deploying additional resources to build out a marketplace of their own. Alternatively, I see Upwork as the most dominant player on the freelancer side and they could either build or acquire a task management application that they integrate closely with their marketplace.
+
+InEvent
+S19
+Successful
+Cvent and etouches and splashthat. splashthat is the newest one (founded 2012) and they have raised 10 million USD, but our biggest fear is us not being able to meet our potential.
+
+Flex
+S16
+Successful
+Our competitors include large consumer goods companies and menstrual cup manufacturers.
+
+We fear large consumer goods companies most: P&G (Tampax, Always), Kimberly-Clark (Kotex), Playtex Products, Energizer (o.b., Stayfree, Always). They have significant resources and channel relationships, but they also lack a standout brand; they don’t have a voice that resonates with millennials.
+
+Softcup is another competitor* to watch because their product design is most similar to ours. Their awareness is very low, our brand is highly differentiated, and we’ve created an entirely different distribution strategy (direct to consumer, subscription-based with higher margins than traditional retailers).
+
+Major menstrual cup manufacturers are competitors (DivaCup, Lunette) because they share many of the same benefits of our product and they have been in the market since the early 2000’s.
+
+Finally, startups like white-labeled tampon subscription companies (LOLA, Cora) and absorbable period panties (THiNX, Dear Kate) are gaining momentum with millennials. The products aren’t new, but they have brands that engage millennials.
+
+Seeing Interactive (Own Local)
+W10
+Successful
+Not Google or Yahoo. They've both tried to partner with newspapers, and never thought big enough. Facebook is a definite possibility: their biggest growth right now is coming from baby boomers. Thankfully Facebook hasn't figured out how a local online community should look, as they seem to think that business information should be displayed in the same way as profile information.
+
+Like many YC applicants, we're most worried about other start-ups. Right now there are other start-ups working on this problem -- and they're not married, have no social life, and have been doing it for a lot longer.
+
+OpenPhone
+S18
+Successful
+There are traditional cloud phone systems that have captured 14% of the market. Google Voice, Sideline, Grasshopper, Phone.com to name a few.
+
+These solutions are outdated, not maintained or barely updated, and compete on phone system features and pricing. They do offer a second phone line for business but outside of that, they are not solving enough problems.More modern phone systems like Dialpad are focused on larger businesses with different needs.
+
+Communication products that offer CRM-like capabilities like Front, Intercom, Drift, and so on are primarily focused on email and live chat as their core channels. For our target market, live chat is not a channel they use and they are happy with Gmail as their email client.
+
+Products like Facebook, WhatsApp, Telegram and iMessage are offering their own business solutions and what they are doing is fragmenting the communication space even more and forcing small businesses to be active on many channels. This gives us the opportunity to integrate with all these channels and create a unified place for all business communications.
+
+None of the existing players we named here can simply add a phone system or CRM to their product to compete with us.
+
+Building a phone system first CRM is not an afterthought, it impacts every decision in the product.
+
+I think our biggest competitor is some unknown startup building towards the same vision as us somewhere in the world right now.
+
+Mixpanel
+S09
+Successful
+Our primary competitor is Google Analytics. Many of the inquiries we receive ask “How are you different from GA?” and a successful solution has been to explicitly say what we offer and how we are different from the beginning. We fear Google the most because of their market penetration and their engineering resources.
+
+Aside from Google, there are a few other companies entering this market: nuconomy, KISSmetrics, Aster Data, and Gumtrail.
+
+Paystack
+W16
+Successful
+We have 3 types of competitors: (1) Local Financial Institutions (2) Global Payment cos and (3) Local non-Financial Institutions
+
+Local FI’s are not able to progress because they mostly buy white label solutions. No incremental progress or problem-solving.
+
+Global companies like Stripe and Braintree are competitors but it will be difficult for them to meet the needs of the African Merchants. It’s easy for them to offer Bitcoin or Apple Pay integration but what about Verve Cards (a pan African card scheme), or Mobile Money or other local card schemes?
+
+Local Non FI’s are the real competition, but we believe that as long as we focus on solving the merchant’s needs we will continue to grow our business.
+
+Buffer
+S11
+Unsuccessful
+– At the moment our competitors are the applications named above. In addition there are 3 more application, which are more closer to the nature of Buffer. They are Timely, Pluggio and 14blocks.
+
+– Losing our focus on what the customer needs and focusing on whom we fear most is what we fear most.
+
+GitLab
+W15
+Successful
+GitHub Enterprise and Atlassian Stash are our primary competitors. We fear Atlassian Stash most since the GitHub Enterprise offering is weak (black box VM that doesn’t scale or cluster) and overpriced (4x more expensive than Stash or our standard subscription). We compete with Stash on usability, integration (no need to install Jira and Confluence separately), flexibility (you can inspect and adapt the source) and price.
+
+Dropbox
+S07
+Successful
+Carbonite and Mozy do a good job with hassle-free backup, and a move into sync would make sense. Sharpcast (venture funded) announced a similar app called Hummingbird, but according to Jeff (who is good friends with the tech lead) they're taking an extraordinarily difficult approach involving NT kernel drivers. Google's coming out with GDrive at some point. Microsoft's Groove does sync and is part of Office 2007, but is very heavyweight and doesn't include any of the web stuff or backup. There are apps like Omnidrive and Titanize but the implementations are buggy or have bad UIs.

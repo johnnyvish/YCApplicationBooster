@@ -1,0 +1,43 @@
+
+Simula
+S18
+Unsuccessful
+$200,000
+
+CredCount
+S17
+Unsuccessful
+N/A
+
+bxblue
+S17
+Successful
+250.000
+
+Syllble
+W18
+Unsuccessful
+
+Goodly
+S18
+Successful
+
+Code For Cash
+W18
+Unsuccessful
+25000
+
+Learn Venue
+S18
+Unsuccessful
+3000
+
+Task Pigeon
+W19
+Unsuccessful
+6000
+
+InEvent
+S19
+Successful
+152,000

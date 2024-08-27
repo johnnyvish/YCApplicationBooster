@@ -1,0 +1,362 @@
+
+
+Courier
+S19
+Successful
+I have an early prototype that is not yet ready for release.
+
+Athens Research
+W21
+Successful
+- 1800 stars on GitHub
+- 40 contributors
+- 1800 followers on Twitter
+- $10k/year in OpenCollective sponsorships
+- Inception: March 31st, 2020.
+
+Parobyte Technologies
+Unsuccessful
+We have launched the product. We have 100 paying customers as of now and we get 40 orders per day. This is in just a single locality in Bangalore. As of now, we are not operating warehouses. As and when we get the orders, our team members who would be at the nearby Metro Cash n Carry, procure the products and hand them over to 3rd party logistics riders for them to deliver. The current average order value is ~65 USD and cost of fulfilment is ~1.2 USD.
+
+MagicBell
+W21
+Successful
+We have a stable MVP delivering over a million notifications a month for two B2B apps. Here is what's already deployed:
+
+* The core APIs (notifications/preference management)
+* Javascript based In-app notification center with real-time updates
+* Email source and delivery channel
+* Open-source libraries for React (to build custom interfaces) and Ruby (for creating notifications and managing user preferences in Ruby/Rails apps).
+
+In terms of traction, we are signing up one enterprise lead a week through content on our blog.
+
+Supernote (Metlo)
+S21
+Successful
+We came up with the idea ~2 weeks ago, have done 15 user interviews since then and should have our MVP up and running by Saturday (3/26)
+
+To validate the idea we also asked some of our users to pre-pay $50 (USD) to get lifetime access for Supernote and 3 of them agreed so we have $150 in revenue (bookings? Not sure how to account it, but money in the bank)
+
+Simula
+S18
+Unsuccessful
+We have a prototype that works for the HTC Vive, alongside 6 alpha testers (20 signups) and 4 active developers working in monthly sprints. Other metrics:
+
+17K LOC
+GitHub stats: 205 stars / 20 watchers / 6 contributors / 9 forks
+1 active chatroom: gitter.im/SimulaVR/Simula
+6 Monthly Update Emails, which you can see here: https://github.com/SimulaVR/Simula/wiki/Monthly-Update:-2017.12.31.
+Our immediate goal: Get our prototype so good that a single one of our alpha testers uses Simula for more than 1hr/day.
+
+Current engineering plan: Our current prototype uses an ad hoc rendering system that is inadequate for serious usage. To address this, we’ve decied to incorporate Simula into the Godot (open source) game engine, which just recently has added support for OpenVR/HTC Vive. This will fix our current rendering problems (low FPS, stutteriness, etc), and get us to a prototype that will actually be usable for serious work in VR.
+
+AthleteNet (FamilyLeaf)
+W12
+Successful
+We plan to have a beta by January 2012.
+
+Parsnip
+S21
+Unsuccessful
+Since I started last May I have done a couple dozen user interviews including interviewing the creator of a competing product, ReadLang, who’s now a software engineer at Duolingo. I have launched the marketing website. And I'm working on publicly launching my prototype. It will be live before YC interviews happen.
+
+I am using the prototype myself and demoing it to friends and family. Code-wise it amounts to ~25K lines of code in Python and Typescript. The majority being the parser/analyzer library and the remainder being the web app. I have also modeled the data for the knowledge base and done UI mockups for the core screens.
+
+derivative/d (Shotput)
+S15
+Successful
+We have a web app with a beta customer and a beta warehouse. In the warehouse, our software manages 50,000 orders per month. Our beta customer has prepaid and is shipping out 1103 orders in December.
+
+CredCount
+S17
+Unsuccessful
+Starting in 2014, Tanu has been working on this model, the science and the technologies surrounding it for about 3 years now. Our first major paper (http://credcount.com/whitepaper) was reviewed and published in late 2014 in a top CS conference. Although the majority of the work such as data collection was finished in approximately 8 or so months, there are certain analyses that have taken place up until today. That said, we are in what we consider the prototyping stage: the service/technology in its current form is not suited to any specific market but rather a proof of concept. With a little bit of modification to the machine learning models, we feel as though we can target new markets in as little as a couple weeks. Thus, Christian has spent the last few months trying to identify where we fit and have the biggest effect as a company/product. So far, we’ve considered news, politics, finance and the public sector. With contacts such as news anchor George Howell from CNN, political advisor and campaign manager Jason Boles and Senior Vice President of investments Mr. Jeff Wolk from Raymond James in the financial sector, we feel as though our best fit at this moment is to ride the “fake news” wave. Currently there is no window dressing to our model. In its current form, it is command-line driven (literally “python model.py [input]”), but we feel as though who our potential customers might be should be identified before we begin to work on any sort of graphical interface and/or API. That’s why we’ve come to YC. Our idea currently is a product/application built around our technology as an easy to use display of current news items and their credibility rankings such that someone might be able to read through an article with a presumed level of bias or accuracy up front. It comes through the narrative of “news literacy” and an attempt to have all sides of every story. Think if every fact or bullet from a news article could have a certain score for credibility such that the least items with the least standing fall to the way side and only the true and solid facts of the situation are left. How long have each of you been working on this? Have you been part-time or full-time? Please explain. Tanu has been working on CredCount since early 2014 as part of her PhD in social computing with her advisor Eric Gilbert at Georgia Tech. The majority of data collection and analysis led into early 2015, and she’s continued to circle back to it in a “part-time” role as a project with the most potential as a product/service outside of academia. Christian joined on early this year, 2017, in a product manager capacity to build this paper/model into a business. Working part-time while taking classes since his joining, he’s found himself devoting more time towards this venture than schoolwork, such that Tanu and Christian both are ready to commit to the project for the summer and however long after that.
+
+Circles
+S21
+Unsuccessful
+We've built a chatbot for Telegram and a Dashboard that connects with your sleep tracking hardware. The chatbot reads your sleep & activity data from the Oura ring (ouraring.com). It asks you daily questions to track your mental health and gives pointers to improve your sleep and mood. We added a human takeover, so Peter can jump in as a personal coach.
+
+The Muse
+W12
+Successful
+We had 22,000 users to our beta in September with 25-­30% growth predicted for October. We've done our first revenue deal, a recruiting contact with Uber, which was a flat fee for the job posting / "Career Concierge" newsletter plus a performance bonus for each hire sourced through The Daily Muse. That newsletter and contract begins the day after tomorrow (10/12/11).
+
+Lollipuff
+W13
+Successful
+The test blog is 1.5 years old. The blog has facilitated over 200 sales, with approximately 750 bidders/buyers/sellers. We have approximately 2000 people/email addresses who contacted us through the blog. If we launched, we estimate a conservative 500 accounts will be created almost immediately.
+
+The new, automated website (Lollifpuff.com) will launch in late-October, 2012.
+
+YogaTrail
+S14
+Unsuccessful
+The site launched in June 2013, our mobile app launched last week.
+
+bxblue
+S17
+Successful
+Using the good old ‘don’t scale to scale’ methodology, we have a fully functional MVP: lots of Zapier + Pipedrive + Heroku in the last 6 months. We’ve created (and are refining) an algorithm that analyses paycheck information and estimates how much a user can borrow today. Then, the user can choose between the best available loan offers and get the loan online. Fast, transparent and convenient.
+
+After that, we will also notify users of when they will have room for for new loans and how much they will be able to get in future.
+
+We’ve been growing 20% MoM in number of deals since we launched our MVP last October/2016, with a GMV of around USD 300K so far. We have been operating indirectly with 6 major banks and we are currently signing up directly with them, as finally incorporated.
+
+Pic ur Photo
+S19
+Unsuccessful
+Pic ur Photo is a live, revenue generating startup that has been growing weekly paying customers by an average of 10% per week for the last 4 months.
+
+We have proven that the low entry barrier of £5/photo entices people who had never had a photoshoot before, but that hasn’t stopped them from spending: an average customer spends £36 ($50), with many spending in excess of $150, and one person bought 101 photos, stemming from a 30 minute photoshoot.
+
+We’ve managed to increase users, while also increasing average cart sizes by over 100%, adding new dedicated photographers, and accepting well over 100 more applications from photographers who want to be part of what we’re building.
+
+In addition, people have even come asking us to do their weddings, birthdays, and other special events. We’ve gained our customers’ trust, and these events aren’t our focus now, but this model is easily transferable.
+
+Our customers totally get it, and they’re proud to share us with their friends. We see daily posts of our users tagging us in their photos and short clips from the shoot, of their private gallery, and telling people they want to book every location.
+
+Syllble
+W18
+Unsuccessful
+Private testing of 4 collabwriting teams while leveraging a Slack for the group, google docs and zoom conference call. We have 4 short stories between 2 to 5 pages formed within one and half week.
+
+80,000 Hours
+S15
+Successful
+We’ve written an online career guide that receives over 20,000 unique viewes monthly, up from zero in August, and up 10% over the last month. We give one-on-one advice to 5-10 people per month to figure out what users most want, and so far have advised over 200.
+
+We’ve tracked over 170 significant career shifts due to our advice. Previous users have founded 5 new non-profits and collectively donated over $1m to high-impact charities. Others have started political careers or entered high-impact research fields such as AGI safety.
+See examples here:
+https://80000hours.org/about/impact/studies-of-career-change/
+
+Last month, we released a prototype web app to automate the first stages of our one-on-one advice. The first version was seen by 225 uniques and had 11 sign ups over a week, with an average revenue of $25 per person. It cut time per user served by 70%, and 40% of users said they changed their career plans.
+
+Spreadsheet Magic
+S14
+Unsuccessful
+Only idea + very-very early prototype.
+
+Goodly
+S18
+Successful
+We're building our MVP. Over a two week period we met with 40 thought leaders in the HR/benefits space, including startup founders, tech CEOs, VC's on the boards of HR/benefits companies, and HR and people operations employees in our target market to guide our product development.
+
+We started sales outreach for our alpha last Friday, by end of day Monday we had five alpha customers.
+
+Apptimize
+S13
+Successful
+Apptimize works and we just launched our private beta this week! We have 100+ signups but we only accepted 2 friends this week because we are working closely with our first customers to shape the future of our product.
+
+The beta has the Android library, a website dashboard to manage experiments, and a results page showing statistics and conclusions. The WYSIWYG interface will be ready in a few weeks. Our research suggested starting with Android because Android developers rely on freemium (compared to iOS who make a lot off premium) and want to AB test to optimize in-app purchases, etc. Our iOS version is coming in a few weeks.
+
+Bubblin Superbooks
+W18
+Unsuccessful
+We have launched a couple of times. The original beta went live in December of 2017 and then we re-launched twice later on. Over 150k readers engaged on site last month of which about 3% completed reading at least one book per week.
+
+At this point our core metrics look like so:
+1. Total number of hearts/likes on books: 1077
+2. Total number of pages turned (flip-count): 2235673
+3. Total time spent on all books: 3112 hours
+4. Total number of writers signed up for trial: 866
+5. Total number of books created: 665
+
+Our Alexa ranking is hovering near 157K [1].
+[1] https://www.alexa.com/siteinfo/bubblin.io
+
+PMAlerts
+S21
+Unsuccessful
+PMAlerts is in public beta:
+- 1,300 people have created alerts
+- 975 people have registered
+- 240 people click on their results on at least a weekly basis
+- 8 people are paying a total of $175/mo
+
+Pet Story
+S19
+Unsuccessful
+- Released a beta iOS and Android apps for pet caregivers
+- Released a beta web app for owners
+- Primary focus at the moment is acquiring users(pet caregivers) for feedback
+
+Code For Cash
+W18
+Unsuccessful
+I have a bit over $3000 MRR. I also generate revenue from consulting and facilitating billing of projects through our system – highest in a month is about $66,000. For example, instead of writing code for my consulting clients, I find Code For Cash subscribers to do it for them, charge a 5%-10% markup, invoice my clients and then pay the developers. In that way I’m “dogfooding” the app (as a hiring manager). This, however, is not the long-term plan, since I’m essentially subcontracting. But everything I do to facilitate these transactions could definitely be automated by smart enough software and processes, which I am in the process of building. In that way, with good enough software, we could eventually wipe out agencies and recruiters – perhaps even managers! – just through process-driven software.
+
+Mattermark (Referly)
+S12
+Unsuccessful
+Our beta is paid subscription email targeted at private equity investors. We've gotten commitments from 4 people to pay at least $20/month (that's $240 a year - Morningstar charges $195/year).
+
+Standard Treasury
+S13
+Successful
+We're far along on regulatory/commercial contract/legal stuff. Once we have that settled, there is a lot of backend, unsexy stuff to do to make it as pretty/smooth as we'd like: settlement files over SFTP, testing required by the banking partner, automatic underwriting built on Microbilt/LexusNexus/Iovation, etc, and then launch.
+
+VEED
+S19
+Unsuccessful
+Key Milestones:
+
+- 30,000 users editing videos each month
+- 40,000 Videos being edited each month
+- 50-80% Growth MoM
+- Live beta product
+- Won 3 awards
+- no marketing .. yet.
+
+In just 8 months!
+
+Employbl
+S19
+Unsuccessful
+I’m working on the project full time, recruiting for two startups and a little over one hundred candidates have signed up. The site works but I need to build more into the candidate search and have better candidates and more companies onboard.
+
+Kash
+S14
+Successful
+We have a retailer-side app and a user side app out on the market now.
+
+We are making about $1500 in recurring monthly revenue now.
+
+Our revenue is growing at about 30% a month. Our user transactions are growing at 75% a month.
+
+Our user-base is growing at 20% a month.
+
+Swelly
+W17
+Unsuccessful
+launched Apps for iOS & Android + Bots (kik, Messenger, Telegram) 450k Users and collected 70 Million opinions since our launch.
+
+Prolific
+S19
+Successful
+We've had [redacted] in GMV in 2018 and [redacted] of that was revenue (200% YoY growth). We're already profitable. We've achieved this by building a great MVP that users shared with friends and colleagues. We're a tight-knit team of 13 (4 devs, 3 support reps, 2 data analysts plus CFO/advisor, COO, CTO, and CEO). The two co-founders worked on this part-time until 8 months ago. We have not raised any money so far.
+
+Slite
+W18
+Successful
+I wrote the first line of code 1 year ago, and the journey has been incredible. In a year, we designed and developed a real-time desktop app with a full-featured collaborative editor, with no technical debt.
+
+We built an incredible team with the right skills in product and development. I kicked-off Slite technically, built the first version of it, and found Pierre and Arnaud, our 2 first senior developers. They had respectively built a chrome note editor with more than 50K users and a B2B collaborative business plan editor. More than their technical skills and experience, the cornerstone of Slite has been our human fit.
+
+We launched our private beta 5 months ago, and with no public communication, we have a gathered a great set of beta testers, companies from 3 to 120 users, giving us incredibly useful feedback.
+
+It allowed us to fix the remaining weaknesses of the product in order to launch our public beta in October. To handle this, we are now a team of 7, with 4 amazing developers, a sales, a marketing person, and myself handling the product.
+
+SketchDeck
+W14
+Successful
+We're in week two of our business, but we already have our first paying client. They are paying £5 per slide we create for them and we are learning a lot about there needs. We've also had meetings with some larger consultancy firms to measure there interest for rolling out SketchDeck across their business. Feedback has been good so far. We are working towards letters of intent with them.
+
+Currently, Chris is the product. We will have a rounded tech beta in March. We make all our technology demonstrable from the start, so we can test and grow lean ‐ ensuring we are building something people want.
+
+Streamplate
+W21
+Unsuccessful
+We’ve indexed 1 million venues, built the iOS app and are now completing a UI update as we wanted to ensure our product could scale before investing in designers and marketers. We’re about to reach our go-to-market stage.
+
+Laitum
+W20
+Unsuccessful
+– We have a fully functional educational platform, but we are having difficulties in the courses production due to covid. Although this delays the launch, it also gives us time to learn more about the problem and talk to potential users and teachers.
+
+– Right now we have successfully spoken with 7 teachers to produce courses, and have a database of useful information about the problem from more than 100 potential users.
+
+Learn Venue
+S18
+Unsuccessful
+It will take 2 more months create a functional OS that can be integrated into the security cameras. However, the core technology that enables AI models to run on low-cost devices is working today.
+
+Dendron
+W21
+Successful
+We launched our preview June of 2020. We've hit the following milestones within two months of preview:
+
+- over 100 users in our community Discord channel
+- 28 very active users (people who use Dendron multiple times a day and are active on our Discord channel at least once a week)
+- formed a community moderator group of half a dozen dendrologist with coverage of every major timezone
+- have desktop clients available across all operating systems
+
+Virtually
+S20
+Successful
+We built and launched this software in mid-November of last year. Since then, we’ve become the host for five online training programs.
+
+In total, these programs have generated $1,570 in revenue with over 200 student participants.
+
+The recent COVID-19 virus has created a surge of interest for this product and led to a large amount of interest from instructors and professors looking to build their virtual classroom. We’re doing our best to onboard them onto our software.
+
+Cruise
+W14
+Successful
+In our first two weeks, we've already met with many of the smartest people in the industry to learn everything we can about what's already been done. We've acquired an Audi S4 (has electromechanical steering + looks cool) to use as our demo car, and have started fitting it with cameras and drive‑by‑wire equipment.
+
+We hope to have a demo ready it by Demo Day, but it will be just a demo. We are not launched, and don't plan to until after raising much more money. This is a capital‑intensive business.
+
+Mimir
+S15
+Successful
+We launched the MVP of the Mimir Classroom in the Fall of 2014 (branded as Mimir Platform). Our MVP contains all of the technology to automate a classroom but lacks the dynamic course content. It currently acts as a toolbox for existing courses rather than a standalone course. We are currently 50% done in developing a version 1 of our product to replace our MVP.
+
+We are currently hosting around 350 students with our MVP. We are currently upgrading it to more scalable technology and updating its feature set based on user surveys.
+
+Task Pigeon
+W19
+Unsuccessful
+Task Pigeon is a live, revenue generating startup that has been growing Monthly Active Users by an average of 17% for the last 8 months.
+
+We have proven that individuals and teams are willing to pay for our application with 65 paying users added during Startup School. We have also successfully started to grow Monthly Recurring Revenue with our largest team comprising 15 users from a $1bn publicly listed company in the UK.
+
+In addition, we have started to prove demand for our marketplace offering that augments the underlying task management application. In the past week we have had two users sign up to utilize this service, tapping into our ability to provide Virtual Assistants on demand (just one of the offerings we have) to assist with tasks they needed to complete.
+
+InEvent
+S19
+Successful
+We have an ARR of 1,1 million USD dollars. We are growing 120% per year. We have 30 people working with us. We have customers in 12 countries. In the last 12 months 85% of our customers buy upsells or renew.
+
+Flex
+S16
+Successful
+April marks our 1 year anniversary and we’ve raised $225k.
+
+Key milestones:
+
+We’ve run product trials with over 200 women
+In the last 3 months, we’ve acquired 20,000 signups of customers who want to try FLEX
+$0 spent on acquisition
+We continue to grow with 1,000 trial signups each week
+25% of our signups are men
+
+Simple Habit
+W17
+Successful
+I started the company in Feb 2016 and launched the iOS app in June 2016. In just 3 months, we are reaching close to 100K downloads on our iPhone app. 5% of sign-ups end up paying for a subscription that costs about $12 a month. [Redacted.] Our week-over-week growth rate is [redacted]. We are currently developing Android — expected release date for November.
+
+Simple Habit has already been featured by Apple 5 times and written about by media extensively.
+
+OpenPhone
+S18
+Successful
+In January 2018 we released the app up to the public. Since then we grew to 1,500 users.
+
+We added a paid tier 2 weeks ago and are focused on converting our free users to paying customers while continuing to grow our user base.
+
+Paystack
+W16
+Successful
+Private Beta. We are piloting with a dozen merchants and we have hundreds of merchants on our waiting list.
+
+GitLab
+W15
+Successful
+Over 100.000 organizations are using GitLab. , Qualcomm, NASA, Nasdaq OMX and Interpol are paying customers. Over 600 people have contributed to it. It is the most popular open source version control software. It has more installations than anything else (including GitHub Enterprise and Atlassian Stash).
+
+Dropbox
+S07
+Successful
+Prototype - done in Feb. Beta - in people's hands now. Version I can charge for: 6-8 weeks?
