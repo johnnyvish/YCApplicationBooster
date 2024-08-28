@@ -1,0 +1,160 @@
+ Describe what your company does in 50 characters or less.
+
+Courier
+S19
+Successful
+A single API for multi-channel user notifications.
+
+Athens Research
+W21
+Successful
+Open-Source Networked Thought
+
+Parobyte Technologies
+Unsuccessful
+Our 2-hr supply prevents stockouts at small stores.
+
+MagicBell
+W21
+Successful
+In-app notification center for web & mobile apps
+
+Simula
+S18
+Unsuccessful
+Run Linux Desktop on (standalone) VR/AR headsets.
+
+Parsnip
+S21
+Unsuccessful
+Parsnip turns any content into a language lesson.
+
+CredCount
+S17
+Unsuccessful
+AI based fact checking through social media data
+
+Circles
+S21
+Unsuccessful
+data-driven coaching for founders
+
+bxblue
+S17
+Successful
+Payroll-deductible loans, offline to online
+
+Pic ur Photo
+S19
+Unsuccessful
+The alternative to a personal photographer
+
+Syllble
+W18
+Unsuccessful
+Collaborative marketplace for writers
+
+Goodly
+S18
+Successful
+Student Loan Repayment as an Employee Benefit.
+
+Trestle
+W19
+Unsuccessful
+The internal homepage for your company.
+
+Bubblin Superbooks
+W18
+Unsuccessful
+We help people read more books.
+
+PMAlerts
+S21
+Unsuccessful
+PMAlerts is a keyword monitoring tool that businesses use to find customers online.
+
+Code For Cash
+W18
+Unsuccessful
+Code For Cash matches freelance devs with jobs.
+
+VEED
+S19
+Unsuccessful
+Simple Online Video Editing
+
+Employbl
+S19
+Unsuccessful
+We generate leads for in house talent teams
+
+Swelly
+W17
+Unsuccessful
+Make great decisions with friends.
+
+Prolific
+S19
+Successful
+Quickly find research participants you can trust.
+
+Slite
+W18
+Successful
+The first note app designed for teams
+
+Streamplate
+W21
+Unsuccessful
+Personalised food ordering app with health tracking.
+
+Laitum
+W20
+Unsuccessful
+Laitum is online education in applied sciences.
+
+Learn Venue
+S18
+Unsuccessful
+Embedding vision AI in low-cost devices.
+
+Dendron
+W21
+Successful
+Superhuman for note taking
+
+Virtually
+S20
+Successful
+A virtual classroom builder
+
+Task Pigeon
+W19
+Unsuccessful
+Task management augmented by on-demand freelancers
+
+InEvent
+S19
+Successful
+Enterprise all in one event marketing SaaS
+
+Flex
+S16
+Successful
+We make FLEX, a more comfortable alternative to tampons
+
+Simple Habit
+W17
+Successful
+5-minute meditation app. Spotify for meditation.
+
+OpenPhone
+S18
+Successful
+Phone system meets CRM built for small businesses
+
+Paystack
+W16
+Successful
+APIs and tools to enable merchants accept payments in African Markets

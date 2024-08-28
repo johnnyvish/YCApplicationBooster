@@ -1,0 +1,172 @@
+Company
+If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording.
+https://www.veed.io/
+
+Describe what your company does in 50 characters or less.
+Simple Online Video Editing
+
+What is your company going to make? Please describe your product and what it does or will do.
+We are building a simple online video editing platform for short-form content creators, marketers and brands.
+
+It is better than other tools because it is a collaborative cloud platform, that renders videos faster than your device (desktop or phone) and our tools are in line with today's production needs
+
+Our users love it because they don't need to install anything. It is accessible on the web. Also, users love UI's simplicity and ease of use, yet being able to do powerful edits.
+
+They use it because it is simple, saves them time and the video content they make helps them to engage their audiences.
+
+Our vision is to give everyone the ability to tell stories and create amazing content through a democratised set of digital tools.
+
+Where do you live now, and where would the company be based after YC?
+London, UK / Open To Ideas... The World
+
+Founders
+Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+
+Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible.
+TLDR: During university we made £14,000 in revenue and over £5,000 profit in just 5 days! selling Breaking Bad Halloween costumes.
+
+The Story
+
+As sad as we were that Breaking Bad show was coming to an end, we also saw it as an opportunity to cash in on some extra cash.
+
+We realised that the show was ending right before Halloween, so it was obvious to us that there would be a huge demand for breaking bad Halloween costumes due to the shows immense popularity.
+
+We sold each costume on a 5 day lead time but bought everything on next day delivery. This meant we never held any stock and never had to make upfront investments into stock, perfect for students.
+
+We sold the costumes on a one-page website, eBay and Etsy. Unfortunately, we had to stop selling the costumes a little early as there were very little yellow chemical grade hazmat suits left in the UK.
+
+https://twitter.com/sab8a/status/395953042077806592
+https://twitter.com/sab8a/status/390159605793169408
+https://twitter.com/sab8a/status/389743861758570497
+
+How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+We have known each other for more than 6 years. And we met, well... we met online (and no! Itwasn't Tinder).
+
+We were participating in an online hackathon and started chatting about ideas and projects in an online chat before deciding to meet up and talk in person as both happened to live nearby.
+
+We later realised that we are both are driven and ambitious, get along really well and have complementary sets of skills in design, branding, marketing and development. We started as partners, building a fun project to test our compatibility, but it was not until we both left university that we decided to start a startup full time.
+
+Category
+Which category best applies to your company?
+Media
+Progress
+How far along are you?
+Key Milestones:
+
+- 30,000 users editing videos each month
+- 40,000 Videos being edited each month
+- 50-80% Growth MoM
+- Live beta product
+- Won 3 awards
+- no marketing .. yet.
+
+In just 8 months!
+
+How long have each of you been working on this? How much of that has been full-time? Please explain.
+In total, we have been working on this for just over a year.
+
+However, we have been working on this exact iteration of the product for the last 5 months after pivoting into the current iteration.
+
+The first 9 months were spent experimenting with different ideas, getting the feel for the market, iterating and testing MVP's and getting feedback from our users. Everything we have learnt in the first 9 months helped us get to where we are today.
+
+We are currently completely bootstrapped and have been working evenings and weekends while contracting for the last 5 month. As of April 2019 we are both moving back into working on VEED full time, with another 8 months of runway and lots of interest from potential investors.
+
+Are people using your product?
+Yes
+Do you have revenue?
+No
+Anything else you would like us to know regarding your revenue or growth rate?
+We plan to start adding paid plans in summer 2019 once we finish the beta product.
+
+If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?
+Lots have changed since we last applied, apart from stats that we have listed below, I believe we have learnt so much from our past experiences running VEED and also matured as
+entrepreneurs.
+
+Last application
+- 2.000 users a month
+- 500 video a month
+- Manual Growth
+
+This application
+-30,000 users a month
+-40.000 videos a month
+- 50-80% MoM organic growth
+
+If you have already participated or committed to participate in an incubator, "accelerator" or "pre-accelerator" program, please tell us about it.
+We were part of King's 20, a12-month equity free accelerator inside King's College London aimed to help students get their businesses off the ground. Tim is a King's College London Computer Science alumnus and we were offered to join the programme. The programme was completely free, i.e. We learned how to pitch, got free desk space, won 30k GBP in grant money funding and received mentorship. It was great, we love it!
+
+We also took part in YC summer school last year and attended every office hour. We made some good friends from it that we are still in touch with today!
+
+Idea
+Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+I (Sabba) was working as a contractor for googles production agency in London. I was asked by the marketing department to crop a video and add text to it for Instagram.
+
+The marketing department was more than capable creatively to do the task themselves but did not have the right laptops to run video editing software and were intimidated by the software available.
+
+A quick google search later we found there that there was a clear need for the product. Deeper research demonstrated that there was a lot of searching for online editing tools with little to no web tools. The tools available were outdated and not up to scratch.
+
+What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+We are a fully fledged online video editing platform designed for marketers and content creator. To use it, you don't need to download anything, you don't need to signup and we don't add
+watermarks.
+
+Without us, users have to turn to a fragmented ecosystem of paid and free mobile apps and updated web tools to get their job done. Or, alternatively, they have to download and learn how to use complex editing platforms, such as Final Cut Pro and Adobe After Effects.
+
+Who are your competitors, and who might become competitors? Who do you fear most?
+Our competitors are Kapwing, Adobe, Apple. I don't think startups should have a fear of competition. We are focusing on making a great product for our users and will evolve our offering overtime to meet their needs.
+
+What do you understand about your business that other companies in it just don't get?
+They don't understand that video editing platforms where designed for editing films and tv shows, not 10-second clips for Instagram & Twitter. This is further supported by the rising community of young content creators using platforms such as TikTok.
+
+How do or will you make money? How much could you make?
+We will have a freemium offering.
+
+Users will pay for better quality exports and more tools.
+
+We think we will have a low conversion rate to paid at the start.
+
+Now I don't like projecting crazy numbers because it is to easy to say with little consequence but here goes.
+
+We think we can grow to address 5,00,000 users monthly in the next 2 years with 1% paying $20 a month making $12,000,000 in revenue annually.
+
+In the next 6 years, I believe we build the company to $50m revenue annually thought enterprise and education offerings and developing new products.
+
+How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?
+Our primary acquisition strategy is to continue to acquire users through search and to date this accounts for 75% of our traffic. Over 500,000 people search for online video editing tools each month and we want to capture as much of that market as possible. Our platform naturally performs really well due to having a high session duration and extremely low bounce rate.
+
+Equity
+Have you incorporated, or formed any legal entity (like an LLC) yet?
+Yes
+What kind of entity and in what state or country was the entity formed?
+LTD - United Kingdom
+
+Please describe the breakdown of the equity ownership in percentages among the founders, employees and any other stockholders. If there are multiple founders, be sure to give the equity ownership of each founder.
+Sabba Keynejad - Co-founder - CEO - 50% Equity ownership
+Tim Mamadov - Co-founder - CTO - 50% Equity ownership
+
+We also plan to create a 20% equity pool for early hires with 10% taken from both co-founders.
+
+Have you taken any investment yet?
+No
+Legal
+Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain.
+N/A
+
+Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain.
+We both write code, but Sabba focuses on growth, marketing and design. Tim writes most of our front end and back end code. Maté Nagy is an amazing freelancer who works part-time with us and focuses on our render engine and graphics programming.
+
+Is there anything else we should know about your company?
+We have had some tough times, but have always gotten through!
+
+Others
+If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
+No, we think there is a lot of opportunity in our current idea and look forward to developing new tools under the same company. Such a live video editing platform for streamers, VR & AR Editing..
+
+Please tell us something surprising or amusing that one of you has discovered.
+There was more time between the Stegosaurus and the Tyrannosaurus Rex than between Tyrannosaurus Rex and you right now.
+
+Curious
+What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+We want to grow like a YC company and want to learn and contribute to the extended Y Combinator family.
+
+How did you hear about Y Combinator?
+Its well known in the startup community, we also did summer school last year
